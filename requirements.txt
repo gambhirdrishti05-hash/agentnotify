@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+# Some career sites serve brotli-compressed responses. Without this,
+# requests can't decode them and hands back binary garbage instead of HTML.
+brotli
+# XML parser for job sitemaps (bs4's html.parser mangles them).
+lxml
