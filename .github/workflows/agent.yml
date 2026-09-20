@@ -1,0 +1,48 @@
+name: Agent job check
+ 
+on:
+  schedule:
+    # 13:00 UTC once a day. The agent finds roles nobody else is finding
+    # either, so there's no race to win here — unlike the keyword track,
+    # which stays on its 2-hourly schedule.
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}
+ 
+# Serialise with the keyword track: both commit state files, and two
+# concurrent runs would race on the push.
+concurrency:
+  group: job-bot-state
+  cancel-in-progress: false
+ 
+jobs:
+  agent:
+    runs-on: ubuntu-latest
+    # The agent pulls whole boards and waits 7s between API calls, so it
+    # runs much longer than the keyword track. Default is 360.
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+ 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+ 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+ 
+      - name: Run agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python agent.py
+ 
+      - name: Commit updated state
+        run: |
+          git config user.name "job-alert-bot"
+          git config user.email "actions@github.com"
+          git pull --rebase --autostash || true
+          git add agent_seen.json
+          git diff --quiet --cached || git commit -m "Update agent seen jobs"
+          git push
+ 
