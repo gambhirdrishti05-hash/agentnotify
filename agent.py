@@ -193,7 +193,13 @@ def gemini(prompt, api_key, retries=2):
         try:
             r = requests.post(
                 GEMINI_URL,
-                params={"key": api_key},
+                headers={
+                    # Newer AI Studio keys (the "AQ." prefix ones) are auth
+                    # keys and expect the header. The older "?key=" query
+                    # param style is legacy; the header works for both.
+                    "x-goog-api-key": api_key,
+                    "Content-Type": "application/json",
+                },
                 json=body,
                 timeout=120,
             )
