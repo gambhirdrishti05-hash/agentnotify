@@ -5,7 +5,7 @@ on:
     # 13:00 UTC once a day. The agent finds roles nobody else is finding
     # either, so there's no race to win here — unlike the keyword track,
     # which stays on its 2-hourly schedule.
-    - cron: "0 13 * * *"
+    - cron: "0 19,23 * * *"
   workflow_dispatch: {}
  
 # Serialise with the keyword track: both commit state files, and two
