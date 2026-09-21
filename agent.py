@@ -158,6 +158,35 @@ def jd_generic(job_url):
     return html_to_text(r.text)
 
 
+def workday_order_probe(company_url):
+    """
+    Diagnostic only. For boards bigger than MAX_JOBS_PER_COMPANY we keep
+    the first N in API order, so everything depends on whether Workday
+    returns newest first. Page one's postedOn labels answer that:
+    "Posted Today" up top means the cap keeps the freshest postings;
+    "Posted 30+ Days Ago" up top means the window is frozen and new
+    postings may never enter it.
+    """
+    parts = get_workday_parts(company_url)
+    if not parts:
+        return
+    tenant, dc, site = parts
+    api = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
+    try:
+        r = requests.post(
+            api,
+            json={"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": ""},
+            headers={**HEADERS, "Content-Type": "application/json",
+                     "Accept": "application/json"},
+            timeout=30,
+        )
+        r.raise_for_status()
+        labels = [p.get("postedOn", "?") for p in r.json().get("jobPostings", [])[:8]]
+        print(f"  [Probe] Workday page 1 postedOn: {labels}")
+    except Exception as e:
+        print(f"  [Probe] failed: {e}", file=sys.stderr)
+
+
 def fetch_jd(company, job_id, job):
     url = company["url"]
     try:
@@ -266,6 +295,22 @@ Respond ONLY with JSON:
 {{"results": [{{"id": <int>, "is_analytical": <bool>, "years_required": <number>, "reason": "<one short sentence>"}}]}}"""
 
 
+def as_index(value, size):
+    """
+    Gemini usually returns ids as ints, but can return "3" or 3.0.
+    Silently dropping those made every title look rejected, so accept
+    all three forms and only reject things that aren't a valid index.
+    """
+    try:
+        num = float(str(value).strip())
+    except (TypeError, ValueError):
+        return None
+    if num != int(num):
+        return None
+    idx = int(num)
+    return idx if 0 <= idx < size else None
+
+
 def stage1_titles(candidates, api_key):
     """Batch titles, keep the plausible ones. No JD fetching yet."""
     kept = []
@@ -277,10 +322,22 @@ def stage1_titles(candidates, api_key):
         result = gemini(STAGE1_PROMPT.format(titles=listing), api_key)
         time.sleep(CALL_SPACING_SECONDS)
         if not result:
+            print("    [WARN] No usable response for this batch; all titles dropped.",
+                  file=sys.stderr)
             continue
-        for idx in result.get("keep", []):
-            if isinstance(idx, int) and 0 <= idx < len(batch):
-                kept.append(batch[idx])
+        if "keep" not in result:
+            # Shape we didn't expect. Print it so the prompt can be fixed.
+            print(f"    [WARN] Unexpected response shape: {json.dumps(result)[:300]}",
+                  file=sys.stderr)
+        keep_idx = {as_index(v, len(batch)) for v in result.get("keep", [])}
+        keep_idx.discard(None)
+        # Print every decision, so a wrongly rejected title is visible in
+        # the log instead of vanishing without a trace.
+        for i, c in enumerate(batch):
+            mark = "KEEP" if i in keep_idx else "drop"
+            print(f"    {mark}  {c['company']['name']}: {c['job']['title']}")
+            if i in keep_idx:
+                kept.append(c)
     return kept
 
 
@@ -304,16 +361,32 @@ def stage2_jds(scored, api_key):
         if not result:
             continue
         for row in result.get("results", []):
-            idx = row.get("id")
-            if not isinstance(idx, int) or not (0 <= idx < len(batch)):
+            idx = as_index(row.get("id"), len(batch))
+            if idx is None:
                 continue
-            if not row.get("is_analytical"):
+            c = batch[idx]
+            label = f"{c['company']['name']}: {c['job']['title']}"
+            reason = row.get("reason", "")
+
+            analytical = row.get("is_analytical")
+            if isinstance(analytical, str):
+                analytical = analytical.strip().lower() == "true"
+            if not analytical:
+                print(f"    reject (not analytical)  {label}  | {reason}")
                 continue
+
             years = row.get("years_required")
-            if isinstance(years, (int, float)) and years > MAX_YEARS_EXPERIENCE:
+            try:
+                years = float(years) if years is not None else None
+            except (TypeError, ValueError):
+                years = None
+            if years is not None and years > MAX_YEARS_EXPERIENCE:
+                print(f"    reject ({years:g}y required)  {label}")
                 continue
-            c = dict(batch[idx])
-            c["reason"] = row.get("reason", "")
+
+            print(f"    PASS  {label}  | {reason}")
+            c = dict(c)
+            c["reason"] = reason
             c["years"] = years
             winners.append(c)
     return winners
@@ -360,6 +433,8 @@ def main():
         if len(jobs) > MAX_JOBS_PER_COMPANY:
             print(f"  [WARN] {len(jobs)} postings, capping at {MAX_JOBS_PER_COMPANY}",
                   file=sys.stderr)
+            if get_workday_parts(company["url"]):
+                workday_order_probe(wide["url"])
             jobs = dict(list(jobs.items())[:MAX_JOBS_PER_COMPANY])
 
         prev = set(seen.get(name, {}).keys())
