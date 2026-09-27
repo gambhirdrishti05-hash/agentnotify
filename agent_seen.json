@@ -43843,18 +43843,6 @@
       "location": "Fort Lauderdale, FL, United States",
       "country_code": "US"
     },
-    "14000": {
-      "title": "Contact Centre Sales Advisor",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14000",
-      "location": "SOUTHAMPTON, HAMPSHIRE, United Kingdom",
-      "country_code": "GB"
-    },
-    "14001": {
-      "title": "Contact Centre Support Advisor & Partnership Helpdesk Advisor",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14001",
-      "location": "SOUTHAMPTON, HAMPSHIRE, United Kingdom",
-      "country_code": "GB"
-    },
     "14010": {
       "title": "HR Business Partner",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14010",
@@ -44991,6 +44979,11 @@
     }
   },
   "Bank of America": {
+    "/job/Chandler/Consumer-Investments-Account-Maintenance-Generalist---Chandler--AZ_26035566": {
+      "title": "Consumer Investments Account Maintenance Generalist - Chandler, AZ",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chandler/Consumer-Investments-Account-Maintenance-Generalist---Chandler--AZ_26035566",
+      "location": "Chandler"
+    },
     "/job/Los-Angeles/Business-Solutions-Advisor---San-Gabriel-West-Market_26035428-2": {
       "title": "Business Solutions Advisor - San Gabriel West Market",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Los-Angeles/Business-Solutions-Advisor---San-Gabriel-West-Market_26035428-2",
@@ -45175,6 +45168,31 @@
       "title": "Business Banking Senior Relationship Manager - Nashville Market",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/US---TN---Nashville---222-2nd-Ave-S-TN9120/Business-Banking-Senior-Relationship-Manager---Nashville-Market_26026473-1",
       "location": "US - TN - Nashville - 222 2nd Ave S (TN9120)"
+    },
+    "/job/Newport-Beach/Residential-Real-Estate-Sr-Sales-Associate--Private-Bank_26034340": {
+      "title": "Residential Real Estate Sr Sales Associate, Private Bank",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Newport-Beach/Residential-Real-Estate-Sr-Sales-Associate--Private-Bank_26034340",
+      "location": "5 Locations"
+    },
+    "/job/Irvine/Wealth-Management-Client-Associate_26035565": {
+      "title": "Wealth Management Client Associate",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Irvine/Wealth-Management-Client-Associate_26035565",
+      "location": "Irvine"
+    },
+    "/job/NEW-YORK/Registered-Wealth-Management-Client-Associat_26035522": {
+      "title": "Registered Wealth Management Client Associat",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/NEW-YORK/Registered-Wealth-Management-Client-Associat_26035522",
+      "location": "NEW YORK"
+    },
+    "/job/NEW-YORK/Wealth-Management-Client-Associate_26035523-2": {
+      "title": "Wealth Management Client Associate",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/NEW-YORK/Wealth-Management-Client-Associate_26035523-2",
+      "location": "NEW YORK"
+    },
+    "/job/Dallas/GCIB--Commercial-Credit-Underwriter-I-Commercial-Credit-Officer-I_26035548": {
+      "title": "GCIB- Commercial Credit Underwriter I/Commercial Credit Officer I",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/GCIB--Commercial-Credit-Underwriter-I-Commercial-Credit-Officer-I_26035548",
+      "location": "Dallas"
     },
     "/job/Roseville/Financial-Solutions-Advisor-Registration-Candidate---Northern-California-Market_26035542": {
       "title": "Financial Solutions Advisor Registration Candidate - Northern California Market",
@@ -47311,11 +47329,6 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Attorney---US-Corporate-Governance---Board-Support_26034342",
       "location": "2 Locations"
     },
-    "/job/Roanoke/Wealth-Management-Client-Associate_26034538": {
-      "title": "Wealth Management Client Associate",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Roanoke/Wealth-Management-Client-Associate_26034538",
-      "location": "Roanoke"
-    },
     "/job/New-York/Global-Liquidity-Specialist_26034389": {
       "title": "Global Liquidity Specialist",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Global-Liquidity-Specialist_26034389",
@@ -49420,11 +49433,6 @@
       "title": "Relationship Manager",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Lexington/Relationship-Manager_26032608",
       "location": "Lexington"
-    },
-    "/job/Overland-Park/Financial-Solutions-Advisor-Registration-Candidate---COLLEGE-ANTIOCH--KS_26032668": {
-      "title": "Financial Solutions Advisor Registration Candidate - COLLEGE-ANTIOCH, KS",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Overland-Park/Financial-Solutions-Advisor-Registration-Candidate---COLLEGE-ANTIOCH--KS_26032668",
-      "location": "Overland Park"
     },
     "/job/Vienna/Registered-Wealth-Management-Client-Associate_26032625": {
       "title": "Registered Wealth Management Client Associate",
@@ -51616,11 +51624,6 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Miamisburg/Wealth-Management-Client-Associate_26029466",
       "location": "Miamisburg"
     },
-    "/job/Florham-Park/Trust-Officer-I--TO-I---Private-Bank_26029399-2": {
-      "title": "Trust Officer I (TO I), Private Bank",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Florham-Park/Trust-Officer-I--TO-I---Private-Bank_26029399-2",
-      "location": "3 Locations"
-    },
     "/job/Walnut-Creek/Relationship-Manager_26029079": {
       "title": "Relationship Manager",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Walnut-Creek/Relationship-Manager_26029079",
@@ -52475,21 +52478,6 @@
       "title": "Financial Center Manager - Cosners Corner Financial Center",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fredericksburg/Financial-Center-Manager---Cosners-Corner-Financial-Center_26024425-2",
       "location": "Fredericksburg"
-    },
-    "/job/Washington/Financial-Center-Manager---K-Street-Financial-Center_26024424-2": {
-      "title": "Financial Center Manager - K Street Financial Center",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Washington/Financial-Center-Manager---K-Street-Financial-Center_26024424-2",
-      "location": "Washington"
-    },
-    "/job/Chicago/Product-Manager---Identity-and-Access-Management--IAM--Identity-Access-Lead_26026399": {
-      "title": "Product Manager \u2013 Identity and Access Management (IAM) Identity/Access Lead",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Product-Manager---Identity-and-Access-Management--IAM--Identity-Access-Lead_26026399",
-      "location": "3 Locations"
-    },
-    "/job/Los-Angeles/Sr-Relationship-Manager-BDO---Global-Commercial-Banking--Middle-Market----Entertainment-Industries---Los-Angeles--CA_26026783": {
-      "title": "Sr. Relationship Manager/BDO - Global Commercial Banking (Middle Market) - Entertainment Industries - Los Angeles, CA",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Los-Angeles/Sr-Relationship-Manager-BDO---Global-Commercial-Banking--Middle-Market----Entertainment-Industries---Los-Angeles--CA_26026783",
-      "location": "Los Angeles"
     }
   },
   "Qualus": {
@@ -53387,29 +53375,17 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Oklahoma-City-Call-Center-Representative-Oklahoma-City%2C-OK-%28On-Site%29-OK-73105-5101/1404875800/": {
-      "title": "Call Center Representative - Oklahoma City, OK (On-Site)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Oklahoma-City-Call-Center-Representative-Oklahoma-City%2C-OK-%28On-Site%29-OK-73105-5101/1404875800/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Call-Center-Representative-Remote-Texas-TX-99999/1414203400/": {
-      "title": "Healthcare Call Center Representative - Remote Texas",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Call-Center-Representative-Remote-Texas-TX-99999/1414203400/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Claims-Resolution-Specialist-Remote-US-TX-99999/1414218100/": {
-      "title": "Healthcare Claims Resolution Specialist - Remote US",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Claims-Resolution-Specialist-Remote-US-TX-99999/1414218100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Director%2C-Engagement-Lead-CT-99999/1414092000/": {
-      "title": "Director, Engagement Lead",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Director%2C-Engagement-Lead-CT-99999/1414092000/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Field-Representative-Central-California-Remote-CA-99999/1414271600/": {
-      "title": "Provider Field Representative - Central California Remote",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Field-Representative-Central-California-Remote-CA-99999/1414271600/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-GA-99999/1414357100/": {
       "title": "Business Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-GA-99999/1414357100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Representative-Remote-%28Pacific-Time%29-TX-99999/1424477100/": {
+      "title": "Call Center Representative - Remote (Pacific Time)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Representative-Remote-%28Pacific-Time%29-TX-99999/1424477100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Recovery-Specialist-Englewood%2C-CO-Hybrid-CO-99999/1414196900/": {
+      "title": "Medical Claims Recovery Specialist - Englewood, CO - Hybrid",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Recovery-Specialist-Englewood%2C-CO-Hybrid-CO-99999/1414196900/"
     },
     "https://jobs.gainwelltechnologies.com/job/Gold-River-Senior-Full-Stack-Developer-Hybrid-Gold-River%2C-CA-CA-95670/1400701600/": {
       "title": "Senior Full-Stack Developer - Hybrid Gold River, CA",
@@ -53419,33 +53395,45 @@
       "title": "Senior Assistant Customer Support",
       "url": "https://jobs.gainwelltechnologies.com/job/Tallahassee-Senior-Assistant-Customer-Support-FL-32301-5020/1424123100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Representative-Remote-%28Pacific-Time%29-TX-99999/1424477100/": {
-      "title": "Call Center Representative - Remote (Pacific Time)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Representative-Remote-%28Pacific-Time%29-TX-99999/1424477100/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Claims-Resolution-Specialist-Remote-US-TX-99999/1414218100/": {
+      "title": "Healthcare Claims Resolution Specialist - Remote US",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Claims-Resolution-Specialist-Remote-US-TX-99999/1414218100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Field-Representative-Central-California-Remote-CA-99999/1414271600/": {
+      "title": "Provider Field Representative - Central California Remote",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Field-Representative-Central-California-Remote-CA-99999/1414271600/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Call-Center-Representative-Remote-Texas-TX-99999/1414203400/": {
+      "title": "Healthcare Call Center Representative - Remote Texas",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Call-Center-Representative-Remote-Texas-TX-99999/1414203400/"
     },
     "https://jobs.gainwelltechnologies.com/job/Tucker-Provider-Enrollment-Supervisor-Tucker%2C-GA-%28Hybrid%29-GA-30084-7060/1414170100/": {
       "title": "Provider Enrollment Supervisor - Tucker, GA (Hybrid)",
       "url": "https://jobs.gainwelltechnologies.com/job/Tucker-Provider-Enrollment-Supervisor-Tucker%2C-GA-%28Hybrid%29-GA-30084-7060/1414170100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Recovery-Specialist-Englewood%2C-CO-Hybrid-CO-99999/1414196900/": {
-      "title": "Medical Claims Recovery Specialist - Englewood, CO - Hybrid",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Recovery-Specialist-Englewood%2C-CO-Hybrid-CO-99999/1414196900/"
+    "https://jobs.gainwelltechnologies.com/job/Oklahoma-City-Call-Center-Representative-Oklahoma-City%2C-OK-%28On-Site%29-OK-73105-5101/1404875800/": {
+      "title": "Call Center Representative - Oklahoma City, OK (On-Site)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Oklahoma-City-Call-Center-Representative-Oklahoma-City%2C-OK-%28On-Site%29-OK-73105-5101/1404875800/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-WV-99999/1424187300/": {
-      "title": "Senior Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-WV-99999/1424187300/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Director%2C-Engagement-Lead-CT-99999/1414092000/": {
+      "title": "Director, Engagement Lead",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Director%2C-Engagement-Lead-CT-99999/1414092000/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Application-Developer-%28C%2C-_Net%2C-Razor-Pages%29-TX-99999/1424170400/": {
       "title": "Application Developer (C#, .Net, Razor Pages)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Application-Developer-%28C%2C-_Net%2C-Razor-Pages%29-TX-99999/1424170400/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-WV-99999/1424187300/": {
+      "title": "Senior Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-WV-99999/1424187300/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Warwick-Financial-Operations-Associate%2C-Hybrid%2C-Warwick%2C-RI-RI-02886-1782/1434049500/": {
       "title": "Financial Operations Associate, Hybrid, Warwick, RI",
       "url": "https://jobs.gainwelltechnologies.com/job/Warwick-Financial-Operations-Associate%2C-Hybrid%2C-Warwick%2C-RI-RI-02886-1782/1434049500/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Field-Representative-Remote-Southern-California-CA-99999/1433747900/": {
-      "title": "Provider Field Representative - Remote Southern California",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Field-Representative-Remote-Southern-California-CA-99999/1433747900/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Supervisor-Remote-US-CA-99999/1433983500/": {
+      "title": "Provider Enrollment Supervisor - Remote US",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Supervisor-Remote-US-CA-99999/1433983500/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Field-Representative-Remote-Central-California-CA-99999/1433750800/": {
       "title": "Provider Field Representative - Remote Central California",
@@ -53688,17 +53676,17 @@
     }
   },
   "CEVA Logistics": {
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Los-Angeles_-Ca-Customs-Brokerage-Import-Supervisor-I-CA-90001/1431642433/": {
-      "title": "Customs Brokerage Import Supervisor I",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Los-Angeles_-Ca-Customs-Brokerage-Import-Supervisor-I-CA-90001/1431642433/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Shanghai-Global-Control-Tower-Management-Senior-Specialist/1431387833/": {
       "title": "Global Control Tower Management Senior Specialist",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Shanghai-Global-Control-Tower-Management-Senior-Specialist/1431387833/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Finance-Operations-Manager/1420562833/": {
-      "title": "Finance Operations Manager",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Finance-Operations-Manager/1420562833/"
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Rancho-Cucamonga_-Ca-Material-Handler-Lead-Rancho-Cucamonga%2C-CA-CA-91701/1431607233/": {
+      "title": "Material Handler Lead - Rancho Cucamonga, CA",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Rancho-Cucamonga_-Ca-Material-Handler-Lead-Rancho-Cucamonga%2C-CA-CA-91701/1431607233/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Los-Angeles_-Ca-Customs-Brokerage-Import-Supervisor-I-CA-90001/1431642433/": {
+      "title": "Customs Brokerage Import Supervisor I",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Los-Angeles_-Ca-Customs-Brokerage-Import-Supervisor-I-CA-90001/1431642433/"
     },
     "https://jobs.cmacgm-group.com/job/Kuala-Lumpur-Application-Support-Specialist/1431413133/": {
       "title": "Application Support Specialist",
@@ -53712,21 +53700,33 @@
       "title": "Regional HR Intern",
       "url": "https://jobs.cmacgm-group.com/job/Singapore-Regional-HR-Intern/1431306333/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Solutions-Design-Specialist/1431339133/": {
-      "title": "Solutions Design Specialist",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Solutions-Design-Specialist/1431339133/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Marseille-Global-Treasury-Manager/1431385133/": {
       "title": "Global Treasury  Manager",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Marseille-Global-Treasury-Manager/1431385133/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Rancho-Cucamonga_-Ca-Material-Handler-Lead-Rancho-Cucamonga%2C-CA-CA-91701/1431607233/": {
-      "title": "Material Handler Lead - Rancho Cucamonga, CA",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Rancho-Cucamonga_-Ca-Material-Handler-Lead-Rancho-Cucamonga%2C-CA-CA-91701/1431607233/"
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Solutions-Design-Specialist/1431339133/": {
+      "title": "Solutions Design Specialist",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Solutions-Design-Specialist/1431339133/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Financial-Analyst/1286980901/": {
       "title": "Financial Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Financial-Analyst/1286980901/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Nieuwegein-Assistant-Warehouse-Supervisor/1410458833/": {
+      "title": "Assistant Warehouse Supervisor",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Nieuwegein-Assistant-Warehouse-Supervisor/1410458833/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Finance-Operations-Manager/1420562833/": {
+      "title": "Finance Operations Manager",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Finance-Operations-Manager/1420562833/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Portland-Or-Customs-Brokerage-Manager-Portland%2C-OR-OR-97086/1390097233/": {
+      "title": "Customs Brokerage Manager - Portland, OR",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Portland-Or-Customs-Brokerage-Manager-Portland%2C-OR-OR-97086/1390097233/"
+    },
+    "https://jobs.cmacgm-group.com/job/Hamburg-Export-Trade-Manager-%28wmd%29/1419919133/": {
+      "title": "Export Trade Manager (w/m/d)",
+      "url": "https://jobs.cmacgm-group.com/job/Hamburg-Export-Trade-Manager-%28wmd%29/1419919133/"
     }
   },
   "Beyond Finance": {
@@ -53922,6 +53922,11 @@
   },
   "CarGurus": {},
   "State Street": {
+    "/job/Krakow-Poland/Health---Safety-Specialist--Associate-2_R-797594-1": {
+      "title": "Health & Safety Specialist, Associate 2",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Health---Safety-Specialist--Associate-2_R-797594-1",
+      "location": "Krakow, Poland"
+    },
     "/job/Boston-Massachusetts/Cybersecurity-Strategy--Resource---Financial-Management_R-795576": {
       "title": "Cybersecurity Strategy, Resource & Financial Management",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Cybersecurity-Strategy--Resource---Financial-Management_R-795576",
@@ -53996,11 +54001,6 @@
       "title": "Financial Planning & Analysis, Assistant Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Financial-Planning---Analysis--Assistant-Vice-President_R-796464",
       "location": "Bangalore, India"
-    },
-    "/job/Dublin-2-Ireland/Senior-Operations-Manager--Transfer-Agency-AML-and-Registration-Services--Vice-President_R-796773-1": {
-      "title": "Senior Operations Manager, Transfer Agency AML and Registration Services, Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Senior-Operations-Manager--Transfer-Agency-AML-and-Registration-Services--Vice-President_R-796773-1",
-      "location": "Dublin 2, Ireland"
     },
     "/job/Kilkenny-Ireland/Fund-Accounting-Exchange-Traded-Funds--ETFs----Senior-Associate_R-796799-1": {
       "title": "Fund Accounting Exchange Traded Funds (ETFs) \u2013 Senior Associate",
@@ -55667,11 +55667,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/GCS--Data-Analyst_R-794420",
       "location": "Boston, Massachusetts"
     },
-    "/job/London-England/Alpha-Implementations-Test-Manager--Assistant-Vice-President_R-798131-1": {
-      "title": "Alpha Implementations Test Manager, Assistant Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Alpha-Implementations-Test-Manager--Assistant-Vice-President_R-798131-1",
-      "location": "2 Locations"
-    },
     "/job/Boston-Massachusetts/GlobalLINK-Business-Risk-Advisor--Managing-Director_R-796786-1": {
       "title": "GlobalLINK Business Risk Advisor, Managing Director",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/GlobalLINK-Business-Risk-Advisor--Managing-Director_R-796786-1",
@@ -55731,11 +55726,6 @@
       "title": "DevOps Engineer, Charles River Development, Senior Associate",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/DevOps-Engineer--Charles-River-Development--Senior-Associate_R-795729",
       "location": "Dublin 2, Ireland"
-    },
-    "/job/London-England/Alpha-Implementations-Defect-Test-Manager--Vice-President_R-795971-1": {
-      "title": "Alpha Implementations Defect Test Manager, Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Alpha-Implementations-Defect-Test-Manager--Vice-President_R-795971-1",
-      "location": "2 Locations"
     },
     "/job/Frankfurt-Germany/XMLNAME-2-Werkstudenten---IAIS-Tax-Services--mwd--mit-Fokus-Finanzen--Office---Steuern-in-der-Finanzdienstleistung-1_R-796277-1": {
       "title": "2 Werkstudenten - IAIS Tax Services (mwd) mit Fokus Finanzen, Office & Steuern in der Finanzdienstleistung-1",
@@ -59171,11 +59161,6 @@
       "title": "Transfer Agency, Senior Associate",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Singapore-Singapore/Transfer-Agency--Senior-Associate_R-796411",
       "location": "Singapore, Singapore"
-    },
-    "/job/Boston-Massachusetts/Channel-Marketing-Manager---State-Street-Investment-Management--Assistant-Vice-President_R-785432": {
-      "title": "Channel Marketing Manager, AVP - State Street Investment Management",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Channel-Marketing-Manager---State-Street-Investment-Management--Assistant-Vice-President_R-785432",
-      "location": "3 Locations"
     },
     "/job/Irvine-California/Software-Engineering---Development--Assistant-Vice-President_R-796397": {
       "title": "Software Engineering & Development, Assistant Vice President",
@@ -116678,11 +116663,6 @@
       "title": "Software Engineer- Wireless",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2022095-1",
       "location": "Bangalore, India"
-    },
-    "/job/Feltham-United-Kingdom/Recruiter_2026548": {
-      "title": "Recruiter",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Feltham-United-Kingdom/Recruiter_2026548",
-      "location": "Feltham, United Kingdom"
     },
     "/job/Bangalore-India/Software-Engineer_2014239-1": {
       "title": "Software Engineer",
