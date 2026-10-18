@@ -6,6 +6,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210765270": {
+      "title": "Content Management Platform Manager, Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765270",
+      "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
     "210775528": {
       "title": "Associate - Compliance and Ops Risk Test Lead",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775528",
@@ -8992,12 +8998,6 @@
       "title": "Branch Manager - Birmingham - Birmingham, AL",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796702",
       "location": "Birmingham, AL, United States",
-      "country_code": "US"
-    },
-    "210796707": {
-      "title": "Relationship Banker  - West Michigan - Indianapolis, IN",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796707",
-      "location": "Indianapolis, IN, United States",
       "country_code": "US"
     }
   },
@@ -52982,37 +52982,25 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-BPMTraining-AR-99999/1431745800/": {
-      "title": "Lead Business Analyst - BPM/Training",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-BPMTraining-AR-99999/1431745800/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Quality-Improvement-Specialist-OH-99999/1431749400/": {
+      "title": "Quality Improvement Specialist",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Quality-Improvement-Specialist-OH-99999/1431749400/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager%2C-Pharmacy-Testing-TX-99999/1431646000/": {
       "title": "Senior Manager, Pharmacy Testing",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager%2C-Pharmacy-Testing-TX-99999/1431646000/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-BPM-Training-LMS-TX-99999/1431748800/": {
-      "title": "Senior Business Analyst - BPM /Training - LMS",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-BPM-Training-LMS-TX-99999/1431748800/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Project-Management-TX-99999/1421538600/": {
-      "title": "Advisor Project Management",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Project-Management-TX-99999/1421538600/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Claims-Operations-Manager-TX-99999/1408397000/": {
-      "title": "Healthcare Claims Operations Manager",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Claims-Operations-Manager-TX-99999/1408397000/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Integrated-Delivery-Program-Manager-RI-99999/1421707100/": {
+      "title": "Integrated Delivery Program Manager",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Integrated-Delivery-Program-Manager-RI-99999/1421707100/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-AI-Driven-Delivery-TX-99999/1431740800/": {
       "title": "Lead Business Analyst - AI Driven Delivery",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-AI-Driven-Delivery-TX-99999/1431740800/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Integrated-Delivery-Program-Manager-RI-99999/1421707100/": {
-      "title": "Integrated Delivery Program Manager",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Integrated-Delivery-Program-Manager-RI-99999/1421707100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Application-Architect-TX-99999/1402565300/": {
-      "title": "Experienced Application Architect",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Application-Architect-TX-99999/1402565300/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Project-Management-TX-99999/1421538600/": {
+      "title": "Advisor Project Management",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Project-Management-TX-99999/1421538600/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Manager-Service-Delivery-TN-99999/1431544900/": {
       "title": "Manager Service Delivery",
@@ -53022,21 +53010,37 @@
       "title": "Batch Developer (LINUX/C/SQL)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Batch-Developer-%28LINUXCSQL%29-TX-99999/1404147900/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Quality-Improvement-Specialist-OH-99999/1431749400/": {
-      "title": "Quality Improvement Specialist",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Quality-Improvement-Specialist-OH-99999/1431749400/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-BPM-Training-LMS-TX-99999/1431748800/": {
+      "title": "Senior Business Analyst - BPM /Training - LMS",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-BPM-Training-LMS-TX-99999/1431748800/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Claims-Operations-Manager-TX-99999/1408397000/": {
+      "title": "Healthcare Claims Operations Manager",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Claims-Operations-Manager-TX-99999/1408397000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-BPMTraining-AR-99999/1431745800/": {
+      "title": "Lead Business Analyst - BPM/Training",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-BPMTraining-AR-99999/1431745800/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Application-Architect-TX-99999/1402565300/": {
+      "title": "Experienced Application Architect",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Application-Architect-TX-99999/1402565300/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Chennai-C-_Net-Lead-%28US-Healthcare-Provider-Enrollment%29-TN-600032/1430971800/": {
+      "title": "C# .Net Lead (US Healthcare Provider Enrollment)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Chennai-C-_Net-Lead-%28US-Healthcare-Provider-Enrollment%29-TN-600032/1430971800/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Tucker-EDI-Helpdesk-Representative-Tucker%2C-GA-%28Hybrid%29-GA-30084-7060/1346449800/": {
+      "title": "EDI Helpdesk Representative - Tucker, GA (Hybrid)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Tucker-EDI-Helpdesk-Representative-Tucker%2C-GA-%28Hybrid%29-GA-30084-7060/1346449800/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Analytics-Reporting-Analyst-TX-99999/1431057400/": {
       "title": "Data Analytics Reporting Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Analytics-Reporting-Analyst-TX-99999/1431057400/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Bangalore-Test-Lead-%28Manual-Test%2C-US-Healthcare-&-MedicaidPharmacy%29-KA-560100/1388016400/": {
-      "title": "Test Lead (Manual Test, US Healthcare & Medicaid/Pharmacy)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Test-Lead-%28Manual-Test%2C-US-Healthcare-&-MedicaidPharmacy%29-KA-560100/1388016400/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Project-Manager-GA-99999/1431050300/": {
-      "title": "Senior Project Manager",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Project-Manager-GA-99999/1431050300/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-System-Architect-%28Pharmacy-Benefit-Management%29-GA-99999/1368329100/": {
+      "title": "Business System Architect (Pharmacy Benefit Management)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-System-Architect-%28Pharmacy-Benefit-Management%29-GA-99999/1368329100/"
     },
     "https://jobs.gainwelltechnologies.com/job/Montgomery-Lead-Data-Mining-Content-Ideation-AL-36106/1431282900/": {
       "title": "Lead Data Mining Content Ideation",
@@ -53050,25 +53054,21 @@
       "title": "Project Manager for Customer Experience Operations",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Project-Manager-for-Customer-Experience-Operations-AZ-99999/1431136500/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-System-Architect-%28Pharmacy-Benefit-Management%29-GA-99999/1368329100/": {
-      "title": "Business System Architect (Pharmacy Benefit Management)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-System-Architect-%28Pharmacy-Benefit-Management%29-GA-99999/1368329100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Chennai-C-_Net-Lead-%28US-Healthcare-Provider-Enrollment%29-TN-600032/1430971800/": {
-      "title": "C# .Net Lead (US Healthcare Provider Enrollment)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Chennai-C-_Net-Lead-%28US-Healthcare-Provider-Enrollment%29-TN-600032/1430971800/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Tucker-EDI-Helpdesk-Representative-Tucker%2C-GA-%28Hybrid%29-GA-30084-7060/1346449800/": {
-      "title": "EDI Helpdesk Representative - Tucker, GA (Hybrid)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Tucker-EDI-Helpdesk-Representative-Tucker%2C-GA-%28Hybrid%29-GA-30084-7060/1346449800/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-AI-Engineer-TX-99999/1430626400/": {
+      "title": "Lead AI Engineer",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-AI-Engineer-TX-99999/1430626400/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Expert-PMO-Lead-TX-99999/1420987700/": {
       "title": "Expert PMO Lead",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Expert-PMO-Lead-TX-99999/1420987700/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-AI-Engineer-TX-99999/1430626400/": {
-      "title": "Lead AI Engineer",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-AI-Engineer-TX-99999/1430626400/"
+    "https://jobs.gainwelltechnologies.com/job/Bangalore-Test-Lead-%28Manual-Test%2C-US-Healthcare-&-MedicaidPharmacy%29-KA-560100/1388016400/": {
+      "title": "Test Lead (Manual Test, US Healthcare & Medicaid/Pharmacy)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Test-Lead-%28Manual-Test%2C-US-Healthcare-&-MedicaidPharmacy%29-KA-560100/1388016400/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Project-Manager-GA-99999/1431050300/": {
+      "title": "Senior Project Manager",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Project-Manager-GA-99999/1431050300/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Medicaid-Buy-In-Operations-IN-99999/1441079500/": {
       "title": "Business Analyst - Medicaid Buy-In Operations",
@@ -55372,11 +55372,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Client-Implementation--Vice-President_R-795892-1",
       "location": "Bangalore, India"
     },
-    "/job/Dublin-2-Ireland/SETU-Waterford---General-Business-Careers-Fair-2026_R-799316-1": {
-      "title": "SETU Waterford \u2013 General Business Careers Fair 2026",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/SETU-Waterford---General-Business-Careers-Fair-2026_R-799316-1",
-      "location": "Dublin 2, Ireland"
-    },
     "/job/Hyderabad-India/Client-Implementation---Service--Associate-2_R-797479": {
       "title": "Client Implementation & Service, Associate 2",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Client-Implementation---Service--Associate-2_R-797479",
@@ -56006,11 +56001,6 @@
       "title": "North America Head of Securities Lending, Prime Services, Managing Director",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Jersey-City-New-Jersey/North-America-Head-of-Securities-Lending--Prime-Services--Managing-Director_R-799159",
       "location": "Jersey City, New Jersey"
-    },
-    "/job/Dublin-2-Ireland/Project-Manager---Transfer-Agecency-Product-Change--Officer_R-797583": {
-      "title": "Project Manager - Transfer Agency Product Change, Officer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Project-Manager---Transfer-Agecency-Product-Change--Officer_R-797583",
-      "location": "Dublin 2, Ireland"
     },
     "/job/Irvine-California/Alpha-Operations-Client-Pathways--Vice-President_R-778801": {
       "title": "Middle Office Trade Management & Settlements, Vice President",
@@ -56711,11 +56701,6 @@
       "title": "Transfer Agency \u2013 New Client onboarding Technical Readiness BA, Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Luxembourg-Luxembourg/Transfer-Agency---New-Client-onboarding-Technical-Readiness-BA--Officer_R-798889",
       "location": "Luxembourg, Luxembourg"
-    },
-    "/job/Krakow-Poland/Financial-and-Regulatory-Reporting-Specialist--Associate-2_R-798442-2": {
-      "title": "Financial and Regulatory Reporting Specialist- Associate 2",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Financial-and-Regulatory-Reporting-Specialist--Associate-2_R-798442-2",
-      "location": "Krakow, Poland"
     },
     "/job/Bangalore-India/Senior-Governance-Manager---Outsourcing_R-798949-1": {
       "title": "Senior Governance Manager - Outsourcing",
@@ -99535,11 +99520,6 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Data---Engineer-Spec-III_Req1616158",
       "location": "SAO PAULO"
     },
-    "/job/Perth/Customer-Experience-Advisor---S1---Retail-Banking---Perth_Req1611121-1": {
-      "title": "Customer Experience Advisor | S1 | Retail Banking | Perth",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Perth/Customer-Experience-Advisor---S1---Retail-Banking---Perth_Req1611121-1",
-      "location": "Perth"
-    },
     "/job/CAMACARI/Estagiario-J6_Req1615073": {
       "title": "Estagiario J6",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CAMACARI/Estagiario-J6_Req1615073",
@@ -99735,11 +99715,6 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PERUIBE/BRA-Espec-Santander-II-8h_Req1627142",
       "location": "PERUIBE"
     },
-    "/job/SANTIAGO/XMLNAME----Oportunidad-laboral--Analista-I---Real-Estate-Intelligence---Data---Plazo-fijo-Santiago_Req1582968": {
-      "title": "\ud83d\udce3 Oportunidad laboral: Analista I | Real Estate Intelligence & Data | Plazo fijo Santiago",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTIAGO/XMLNAME----Oportunidad-laboral--Analista-I---Real-Estate-Intelligence---Data---Plazo-fijo-Santiago_Req1582968",
-      "location": "SANTIAGO"
-    },
     "/job/TANGARA-DA-SERRA/Espec-Santander-II-8h_Req1627244": {
       "title": "Espec Santander II 8h",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/TANGARA-DA-SERRA/Espec-Santander-II-8h_Req1627244",
@@ -99824,11 +99799,6 @@
       "title": "Espec Pessoas & Negocios IV",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/BRASILIA/Espec-Pessoas---Negocios-IV_Req1599878",
       "location": "BRASILIA"
-    },
-    "/job/SANTIAGO/PFL-MAT-8785-EJECUTIVO-DE-SERVICIO-I_Req1623127": {
-      "title": "PFL_MAT_8785_EJECUTIVO DE SERVICIO I",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTIAGO/PFL-MAT-8785-EJECUTIVO-DE-SERVICIO-I_Req1623127",
-      "location": "SANTIAGO"
     },
     "/job/AQUIDAUANA/Espec-Clientes-B1-I_Req1627303": {
       "title": "Espec Clientes B1 I",
@@ -103245,11 +103215,6 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Carcavelos/SAP-BTP-Engineer_Req1611569",
       "location": "Carcavelos"
     },
-    "/job/London/VP--Global-Banking---Technology--Media----Telecom---SCIB_Req1611402": {
-      "title": "VP, Global Banking - Technology, Media, & Telecommunications | SCIB",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/London/VP--Global-Banking---Technology--Media----Telecom---SCIB_Req1611402",
-      "location": "London"
-    },
     "/job/Billerica---Branch-MA/Relationship-Banker--Billerica--MA_Req1611587": {
       "title": "Relationship Banker, Billerica, MA",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Billerica---Branch-MA/Relationship-Banker--Billerica--MA_Req1611587",
@@ -105526,11 +105491,6 @@
       "title": "Analyst / Associate, Relationship Associate or Client Service Analyst \u2013 Corporate Coverage (12 month fixed term contract)",
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Auckland-Branch/Analyst---Associate--Relationship-Associate-or-Client-Service-Analyst---Corporate-Coverage--12-month-fixed-term-contract-_10079775-WD",
       "location": "Auckland Branch"
-    },
-    "/job/Amsterdam/Internal-Communications-and-PA-to-CFO-and-COO_10079717-WD-1": {
-      "title": "Internal Communications and PA to CFO and COO",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Amsterdam/Internal-Communications-and-PA-to-CFO-and-COO_10079717-WD-1",
-      "location": "Amsterdam"
     },
     "/job/Jersey-City-NJ/Financial-Risk-Data-Governance--Analyst_10079329-WD": {
       "title": "Financial Risk Data Governance, Analyst",
@@ -116109,6 +116069,11 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kuala-Lumpur-Malaysia/Commercial-Account-Manager_2000974",
       "location": "Kuala Lumpur, Malaysia"
     },
+    "/job/Amsterdam-Netherlands/EMEA-Industrial-IoT-Defense-lead_2027592": {
+      "title": "EMEA Industrial IoT Defense lead",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Amsterdam-Netherlands/EMEA-Industrial-IoT-Defense-lead_2027592",
+      "location": "3 Locations"
+    },
     "/job/Dubai-United-Arab-Emirates/Software-Consulting-Engineering-Technical-Leader_2024466": {
       "title": "Software Consulting Engineering Technical Leader",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dubai-United-Arab-Emirates/Software-Consulting-Engineering-Technical-Leader_2024466",
@@ -118273,11 +118238,6 @@
       "title": "Optical Component Engineer",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Vimercate-Italy/Optical-Component-Engineer_2024666",
       "location": "Vimercate, Italy"
-    },
-    "/job/Lysaker-Norway/Partner-Account-Executive_2021949-1": {
-      "title": "Partner Account Executive - Norway/Denmark",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Lysaker-Norway/Partner-Account-Executive_2021949-1",
-      "location": "2 Locations"
     },
     "/job/Midrand-South-Africa/Splunk-Solutions-Engineer---South-Africa_2025671": {
       "title": "Splunk Solutions Engineer - South Africa",
