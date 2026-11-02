@@ -1,5 +1,23 @@
 {
   "JPMorgan Chase": {
+    "210802409": {
+      "title": "Digital Markets - Digital Product for Neovest - Analyst/Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802409",
+      "location": "Hong Kong",
+      "country_code": "HK"
+    },
+    "210803705": {
+      "title": "Associate Banker, 30 Hours, Amarillo, TX - I 40 Bell Branch",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803705",
+      "location": "Amarillo, TX, United States",
+      "country_code": "US"
+    },
+    "210803704": {
+      "title": "Associate Banker, 30 Hours, Amarillo, TX - I 40 Bell Branch",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803704",
+      "location": "Amarillo, TX, United States",
+      "country_code": "US"
+    },
     "210791978": {
       "title": "AI Site Lead Executive Director - Director of Software Engineering",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791978",
@@ -8981,24 +8999,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795505",
       "location": "Half Moon Bay, CA, United States",
       "country_code": "US"
-    },
-    "210796782": {
-      "title": "Trader Voice Infrastructure Engineer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796782",
-      "location": "LONDON, United Kingdom",
-      "country_code": "GB"
-    },
-    "210796946": {
-      "title": "Senior Product Associate, Market Data Services 3rd Party Business Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796946",
-      "location": "Hong Kong",
-      "country_code": "HK"
-    },
-    "210797512": {
-      "title": "J.P. Morgan Wealth Management - Private Client Advisor - State and Delaware Branch, Chicago, IL",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797512",
-      "location": "Chicago, IL, United States",
-      "country_code": "US"
     }
   },
   "PJT Partners": {
@@ -17805,12 +17805,6 @@
       "url": "https://internationalcareers-waters.icims.com/jobs/28479/hrsd-lead-engineer-servicenow/job",
       "location": "IN-Bangalore",
       "country_code": "India"
-    },
-    "28477": {
-      "title": "Senior Legal Counsel",
-      "url": "https://internationalcareers-waters.icims.com/jobs/28477/senior-legal-counsel/job",
-      "location": "CH-Eysins",
-      "country_code": "Switzerland"
     },
     "28472": {
       "title": "Senior Benefits & HR Ops Specialist",
@@ -35398,6 +35392,11 @@
     }
   },
   "Mass General Brigham ": {
+    "/job/Boston-MA/Respiratory-Therapist_RQ4084676": {
+      "title": "Respiratory Therapist",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Respiratory-Therapist_RQ4084676",
+      "location": "Boston-MA"
+    },
     "/job/Boston-MA/Practice-Assistant-Lead_RQ4075078": {
       "title": "Practice Assistant Lead",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Practice-Assistant-Lead_RQ4075078",
@@ -35863,6 +35862,26 @@
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Oak-Bluffs-MA/Registered-Respiratory-Therapist--RRT---Martha-s-Vineyard-Hospital_RQ4068973",
       "location": "Oak Bluffs-MA"
     },
+    "/job/Boston-MA/Medical-ICU-Nurse-BWH_RQ4084945-1": {
+      "title": "Medical ICU Nurse BWH",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Medical-ICU-Nurse-BWH_RQ4084945-1",
+      "location": "Boston-MA"
+    },
+    "/job/Florence-MA/Gastroenterologist---Northampton--MA---Mass-General-Brigham_RQ4084612": {
+      "title": "Gastroenterologist | Northampton, MA | Mass General Brigham",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Florence-MA/Gastroenterologist---Northampton--MA---Mass-General-Brigham_RQ4084612",
+      "location": "2 Locations"
+    },
+    "/job/Peabody-MA/MRI-Technologist_RQ4084279": {
+      "title": "MRI Technologist",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Peabody-MA/MRI-Technologist_RQ4084279",
+      "location": "2 Locations"
+    },
+    "/job/Oak-Bluffs-MA/RN--Martha-s-Vineyard-Hospital_RQ4084519": {
+      "title": "RN, Martha's Vineyard Hospital",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Oak-Bluffs-MA/RN--Martha-s-Vineyard-Hospital_RQ4084519",
+      "location": "Oak Bluffs-MA"
+    },
     "/job/Boston-MA/LPN---Dermatology---MGH_RQ4076222": {
       "title": "LPN - Dermatology - MGH",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/LPN---Dermatology---MGH_RQ4076222",
@@ -35886,11 +35905,6 @@
     "/job/Somerville-MA/Director--NCRI-Quality-Assurance-Regulatory-Affairs_RQ4084730": {
       "title": "Director, NCRI Quality Assurance/Regulatory Affairs",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Director--NCRI-Quality-Assurance-Regulatory-Affairs_RQ4084730",
-      "location": "Somerville-MA"
-    },
-    "/job/Somerville-MA/Clinical-Trial-Assistant-Project-Manager_RQ4084277": {
-      "title": "Clinical Trial Assistant Project Manager",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Clinical-Trial-Assistant-Project-Manager_RQ4084277",
       "location": "Somerville-MA"
     },
     "/job/Portsmouth-NH/RN--Women-s-Health_RQ4075510": {
@@ -36841,11 +36855,6 @@
     "/job/Boston-MA/Neuro-ICU-Nurse-BWH_RQ4084488": {
       "title": "Neuro/ICU Nurse BWH",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Neuro-ICU-Nurse-BWH_RQ4084488",
-      "location": "Boston-MA"
-    },
-    "/job/Boston-MA/Staff-Nurse---MNA_RQ4083838": {
-      "title": "Neuro/ICU Nurse BWH",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Staff-Nurse---MNA_RQ4083838",
       "location": "Boston-MA"
     },
     "/job/Boston-MA/Research-Project-Manager_RQ4077162": {
@@ -39708,20 +39717,10 @@
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Burlington-MA/Specialty-Clinical-Pharmacist---Oncology_RQ4082561",
       "location": "Burlington-MA"
     },
-    "/job/Brookline-MA/Endoscopy-Nurse-BWH-850-Boylston-Street_RQ4083143": {
-      "title": "Endoscopy Nurse BWH 850 Boylston Street",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Brookline-MA/Endoscopy-Nurse-BWH-850-Boylston-Street_RQ4083143",
-      "location": "Brookline-MA"
-    },
     "/job/Jamaica-Plain-MA/Certified-Nursing-Assistant---Float-Pool-36-Hours-Days_RQ4054990": {
       "title": "Certified Nursing Assistant - Float Pool 36 Hours Days",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Jamaica-Plain-MA/Certified-Nursing-Assistant---Float-Pool-36-Hours-Days_RQ4054990",
       "location": "Jamaica Plain-MA"
-    },
-    "/job/Brookline-MA/Endoscopy-Nurse-BWH-850-Boylston-Street_RQ4083574-1": {
-      "title": "Endoscopy Nurse BWH 850 Boylston Street",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Brookline-MA/Endoscopy-Nurse-BWH-850-Boylston-Street_RQ4083574-1",
-      "location": "Brookline-MA"
     },
     "/job/Boston-MA/Program-Coordinator-II---Interventional-Pulmonary_RQ4083613": {
       "title": "Program Coordinator II - Interventional Pulmonary",
@@ -39757,11 +39756,6 @@
       "title": "MRI Technologist - per diem",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Jamaica-Plain-MA/MRI-Technologist---per-diem_RQ4083750",
       "location": "Jamaica Plain-MA"
-    },
-    "/job/Boston-MA/Postpartum-Nurse-BWH_RQ4083703": {
-      "title": "Postpartum Nurse BWH",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Postpartum-Nurse-BWH_RQ4083703",
-      "location": "Boston-MA"
     },
     "/job/Newton-MA/Phlebotomist_RQ4075212": {
       "title": "Phlebotomist",
@@ -39833,16 +39827,6 @@
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Stepdown-Medicine-Nurse-BWH_RQ4079259",
       "location": "Boston-MA"
     },
-    "/job/Boston-MA/Thoracic-Intermediate-Surgical-Nurse-BWH_RQ4083120": {
-      "title": "Thoracic Intermediate Surgical Nurse BWH",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Thoracic-Intermediate-Surgical-Nurse-BWH_RQ4083120",
-      "location": "Boston-MA"
-    },
-    "/job/Boston-MA/Thoracic-Intermediate-Surgical-Nurse-BWH_RQ4083121": {
-      "title": "Thoracic Intermediate Surgical Nurse BWH",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Thoracic-Intermediate-Surgical-Nurse-BWH_RQ4083121",
-      "location": "Boston-MA"
-    },
     "/job/Boston-MA/Medical-Laboratory-Scientist--Microbiology---Evening_RQ4082505": {
       "title": "Medical Laboratory Scientist, Microbiology - Evening",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Medical-Laboratory-Scientist--Microbiology---Evening_RQ4082505",
@@ -39852,11 +39836,6 @@
       "title": "Physical Therapist Outpatient Pediatric",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Salem-MA/Outpatient-Pediatric-PT---Spaulding_RQ4078407",
       "location": "Salem-MA"
-    },
-    "/job/Boston-MA/Thoracic-Intermediate-Surgical-Nurse-BWH_RQ4083122": {
-      "title": "Thoracic Intermediate Surgical Nurse BWH",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Thoracic-Intermediate-Surgical-Nurse-BWH_RQ4083122",
-      "location": "Boston-MA"
     },
     "/job/Boston-MA/Manager--Radiation-Therapy_RQ4083489": {
       "title": "Manager, Radiation Therapy",
@@ -39877,11 +39856,6 @@
       "title": "Patient Care Assistant II",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Salem-MA/Patient-Care-Assistant-II_RQ4082151",
       "location": "Salem-MA"
-    },
-    "/job/Boston-MA/Thoracic-ICU-Nurse-BWH_RQ4083166": {
-      "title": "Thoracic ICU Nurse BWH",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Thoracic-ICU-Nurse-BWH_RQ4083166",
-      "location": "Boston-MA"
     },
     "/job/Boston-MA/Nurse-Flow-Manager-Perianesthesia---BWH_RQ4081780-1": {
       "title": "Nurse Flow Manager Perianesthesia - BWH",
@@ -42897,6 +42871,26 @@
       "title": "Clinic/Practice Assistant, Family Medicine",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Millis-MA/Clinic-Practice-Assistant--Family-Medicine_RQ4079900",
       "location": "Millis-MA"
+    },
+    "/job/Millis-MA/Clinic-Practice-Assistant--Family-Medicine_RQ4079018": {
+      "title": "Clinic/Practice Assistant, Family Medicine",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Millis-MA/Clinic-Practice-Assistant--Family-Medicine_RQ4079018",
+      "location": "Millis-MA"
+    },
+    "/job/Millis-MA/Medical-Assistant--Family-Medicine_RQ4079899": {
+      "title": "Medical Assistant, Family Medicine",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Millis-MA/Medical-Assistant--Family-Medicine_RQ4079899",
+      "location": "Millis-MA"
+    },
+    "/job/Oak-Bluffs-MA/RN-Surgical-Services-Per-Diem_RQ4063782": {
+      "title": "RN Surgical Services-Per Diem",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Oak-Bluffs-MA/RN-Surgical-Services-Per-Diem_RQ4063782",
+      "location": "Oak Bluffs-MA"
+    },
+    "/job/Newton-MA/Physician-Assistant--Travel-Medicine_RQ4072242": {
+      "title": "Physician Assistant, Travel Medicine",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Newton-MA/Physician-Assistant--Travel-Medicine_RQ4072242",
+      "location": "Newton-MA"
     }
   },
   "WebMD": {
@@ -43080,6 +43074,12 @@
   "UBS": {},
   "CBRE": {},
   "Carnival Corporation": {
+    "14298": {
+      "title": "HESS Administrative Coordinator",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14298",
+      "location": "Fairbanks, AK, United States",
+      "country_code": "US"
+    },
     "14118": {
       "title": "Personal Vacation Planner Agent (Remote)",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14118",
@@ -43338,12 +43338,6 @@
       "location": "Miami, FL, United States",
       "country_code": "US"
     },
-    "13952": {
-      "title": "Analyst, OBR & Product Performance",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13952",
-      "location": "SOUTHAMPTON, HAMPSHIRE, United Kingdom",
-      "country_code": "GB"
-    },
     "14222": {
       "title": "Senior Manager, Web Experience",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14222",
@@ -43374,12 +43368,6 @@
       "location": "Philippines",
       "country_code": "PH"
     },
-    "13350": {
-      "title": "Senior Manager, EPMO Governance",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13350",
-      "location": "SOUTHAMPTON, HAMPSHIRE, United Kingdom",
-      "country_code": "GB"
-    },
     "13720": {
       "title": "Analyst, Consumer AI",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13720",
@@ -43403,12 +43391,6 @@
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14197",
       "location": "Philippines",
       "country_code": "PH"
-    },
-    "13348": {
-      "title": "Senior Manager, Business Change",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13348",
-      "location": "SOUTHAMPTON, HAMPSHIRE, United Kingdom",
-      "country_code": "GB"
     },
     "14136": {
       "title": "Learning & Compensation Analyst",
@@ -43493,12 +43475,6 @@
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14173",
       "location": "Fort Lauderdale, FL, United States",
       "country_code": "US"
-    },
-    "14178": {
-      "title": "Director Maritime Standards (Technical)",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14178",
-      "location": "Almere, Flevoland, Netherlands",
-      "country_code": "NL"
     },
     "14183": {
       "title": "Sr.Analyst, Financial Systems Security, GFIT-REMOTE",
@@ -43635,12 +43611,6 @@
     "13102": {
       "title": "International Reservations Concierge (Dutch Speaking)",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13102",
-      "location": "SOUTHAMPTON, HAMPSHIRE, United Kingdom",
-      "country_code": "GB"
-    },
-    "13436": {
-      "title": "Superintendent, Marine Refit - FTC until June 2027",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13436",
       "location": "SOUTHAMPTON, HAMPSHIRE, United Kingdom",
       "country_code": "GB"
     },
@@ -52946,10 +52916,6 @@
       "title": "Medical Claims Research Analyst Lead - Remote California",
       "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Medical-Claims-Research-Analyst-Lead-Remote-California-CA-95605-1630/1436535900/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Jackson-Call-Center-Representative-Team-Lead-Jackson%2C-MS-%28Onsite%29-MS-39157/1426914500/": {
-      "title": "Call Center Representative - Team Lead- Jackson, MS (Onsite)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Jackson-Call-Center-Representative-Team-Lead-Jackson%2C-MS-%28Onsite%29-MS-39157/1426914500/"
-    },
     "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Medi-Cal-Contact-Center-Manager-Hybrid-West-Sacramento%2C-CA-CA-95605-1630/1416460500/": {
       "title": "Medi-Cal Contact Center Manager - Hybrid - West Sacramento, CA",
       "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Medi-Cal-Contact-Center-Manager-Hybrid-West-Sacramento%2C-CA-CA-95605-1630/1416460500/"
@@ -52962,41 +52928,49 @@
       "title": "Call Center Team Lead - West Sacramento, CA (Hybrid)",
       "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Call-Center-Team-Lead-West-Sacramento%2C-CA-%28Hybrid%29-CA-95605-1630/1416728800/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Tucker-Call-Center-Representative-Tucker%2C-GA-Hybrid-GA-30084-7060/1364484400/": {
-      "title": "Call Center Representative - Tucker, GA - Hybrid",
-      "url": "https://jobs.gainwelltechnologies.com/job/Tucker-Call-Center-Representative-Tucker%2C-GA-Hybrid-GA-30084-7060/1364484400/"
+    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Call-Center-Quality-Assurance-Lead-Remote-CA-CA-95605-1630/1416469500/": {
+      "title": "Call Center Quality Assurance Lead - Remote CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Call-Center-Quality-Assurance-Lead-Remote-CA-CA-95605-1630/1416469500/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Representative-%28Healthcare%29-Remote-California-CA-99999/1426288900/": {
-      "title": "Call Center Representative (Healthcare) - Remote California",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Representative-%28Healthcare%29-Remote-California-CA-99999/1426288900/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Services-Coordinator-MS-99999/1436492000/": {
-      "title": "Business Analyst - Services Coordinator",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Services-Coordinator-MS-99999/1436492000/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Information-Security-Officer-%28ISO%29-Washington-DC-DC-99999/1416114400/": {
-      "title": "Information Security Officer (ISO) - Washington DC",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Information-Security-Officer-%28ISO%29-Washington-DC-DC-99999/1416114400/"
+    "https://jobs.gainwelltechnologies.com/job/Jackson-Call-Center-Representative-Team-Lead-Jackson%2C-MS-%28Onsite%29-MS-39157/1426914500/": {
+      "title": "Call Center Representative - Team Lead- Jackson, MS (Onsite)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Jackson-Call-Center-Representative-Team-Lead-Jackson%2C-MS-%28Onsite%29-MS-39157/1426914500/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Contact-Center-Representative-Remote-U_S_-WI-99999/1426420500/": {
       "title": "Healthcare Contact Center Representative - Remote U.S.",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Contact-Center-Representative-Remote-U_S_-WI-99999/1426420500/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Tallahassee-Bilingual-EDIHelpdesk-Tier-1-Specialist-%28Hybrid%29-FL-32301-5020/1436493500/": {
-      "title": "Bilingual EDI/Helpdesk Tier 1 Specialist (Hybrid)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Tallahassee-Bilingual-EDIHelpdesk-Tier-1-Specialist-%28Hybrid%29-FL-32301-5020/1436493500/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Call-Center-Representative-Remote-TX-99999/1436255100/": {
       "title": "Healthcare Call Center Representative - Remote",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Call-Center-Representative-Remote-TX-99999/1436255100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Representative-%28Healthcare%29-Remote-California-CA-99999/1426288900/": {
+      "title": "Call Center Representative (Healthcare) - Remote California",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Representative-%28Healthcare%29-Remote-California-CA-99999/1426288900/"
     },
     "https://jobs.gainwelltechnologies.com/job/Farmington-Claims-and-Financial-Analyst-Hybrid-Farmington%2C-CT-CT-06032/1426599800/": {
       "title": "Claims and Financial Analyst - Hybrid - Farmington, CT",
       "url": "https://jobs.gainwelltechnologies.com/job/Farmington-Claims-and-Financial-Analyst-Hybrid-Farmington%2C-CT-CT-06032/1426599800/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Tallahassee-Bilingual-EDIHelpdesk-Tier-1-Specialist-%28Hybrid%29-FL-32301-5020/1436493500/": {
+      "title": "Bilingual EDI/Helpdesk Tier 1 Specialist (Hybrid)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Tallahassee-Bilingual-EDIHelpdesk-Tier-1-Specialist-%28Hybrid%29-FL-32301-5020/1436493500/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Services-Coordinator-MS-99999/1436492000/": {
+      "title": "Business Analyst - Services Coordinator",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Services-Coordinator-MS-99999/1436492000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Tucker-Call-Center-Representative-Tucker%2C-GA-Hybrid-GA-30084-7060/1364484400/": {
+      "title": "Call Center Representative - Tucker, GA - Hybrid",
+      "url": "https://jobs.gainwelltechnologies.com/job/Tucker-Call-Center-Representative-Tucker%2C-GA-Hybrid-GA-30084-7060/1364484400/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Montgomery-Call-Center-Representative-Montgomery%2C-AL-%28Onsite%29-AL-36117-6008/1385478100/": {
       "title": "Call Center Representative - Montgomery, AL (Onsite)",
       "url": "https://jobs.gainwelltechnologies.com/job/Montgomery-Call-Center-Representative-Montgomery%2C-AL-%28Onsite%29-AL-36117-6008/1385478100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Information-Security-Officer-%28ISO%29-Washington-DC-DC-99999/1416114400/": {
+      "title": "Information Security Officer (ISO) - Washington DC",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Information-Security-Officer-%28ISO%29-Washington-DC-DC-99999/1416114400/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-CA-CA-99999/1446606200/": {
       "title": "Provider Enrollment Analyst - Remote CA",
@@ -53018,29 +52992,25 @@
       "title": "Pharmacy Testing Manager (PBM/Medicaid)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Pharmacy-Testing-Manager-%28PBMMedicaid%29-NC-99999/1435809800/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Roseville-Experienced-Project-Manager-CA-95747-6645/1435690400/": {
-      "title": "Experienced Project Manager",
-      "url": "https://jobs.gainwelltechnologies.com/job/Roseville-Experienced-Project-Manager-CA-95747-6645/1435690400/"
+    "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Field-Representative-Baton-Rouge-%28Louisiana-Site-Visits%29-LA-70809-0204/1335171400/": {
+      "title": "Provider Enrollment Field Representative - Baton Rouge (Louisiana Site Visits)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Field-Representative-Baton-Rouge-%28Louisiana-Site-Visits%29-LA-70809-0204/1335171400/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Project-Manager-GA-99999/1435900400/": {
-      "title": "Workforce Project Manager",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Project-Manager-GA-99999/1435900400/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Information-Security-Officer-%28ISO%29-%28Remote%29-AR-99999/1435704000/": {
+      "title": "Information Security Officer (ISO) (Remote)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Information-Security-Officer-%28ISO%29-%28Remote%29-AR-99999/1435704000/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Gold-River-Bilingual-Contact-Center-Business-Analyst-Hybrid-Gold-River%2C-CA-CA-95670/1436028000/": {
-      "title": "Bilingual Contact Center Business Analyst - Hybrid Gold River, CA",
-      "url": "https://jobs.gainwelltechnologies.com/job/Gold-River-Bilingual-Contact-Center-Business-Analyst-Hybrid-Gold-River%2C-CA-CA-95670/1436028000/"
+    "https://jobs.gainwelltechnologies.com/job/Jackson-Provider-Enrollment-Specialist-Jackson%2C-MS-%28Onsite%29-MS-39211/1435764300/": {
+      "title": "Provider Enrollment Specialist - Jackson, MS (Onsite)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Jackson-Provider-Enrollment-Specialist-Jackson%2C-MS-%28Onsite%29-MS-39211/1435764300/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Clinical-DRG-Auditor-Remote-TX-99999/1381452100/": {
       "title": "Clinical DRG Auditor- Remote",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Clinical-DRG-Auditor-Remote-TX-99999/1381452100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Transformation-Director-%28Testing-&-Quality-Services%29-TX-99999/1406346500/": {
-      "title": "Transformation Director (Testing & Quality Services)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Transformation-Director-%28Testing-&-Quality-Services%29-TX-99999/1406346500/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Applications-Developer-%28NCPDPEDIMMIS%29-PA-99999/1435860000/": {
-      "title": "Healthcare Applications Developer (NCPDP/EDI/MMIS)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Applications-Developer-%28NCPDPEDIMMIS%29-PA-99999/1435860000/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Application-Architect-KY-99999/1436000500/": {
+      "title": "Advisor Application Architect",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Application-Architect-KY-99999/1436000500/"
     }
   },
   "Happen Bank": {
@@ -53355,6 +53325,11 @@
   },
   "CarGurus": {},
   "State Street": {
+    "/job/Tokyo-Japan/Offshore-Fund-Relationship-Manager--Vice-President_R-773497": {
+      "title": "Global Custody Client Services, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Tokyo-Japan/Offshore-Fund-Relationship-Manager--Vice-President_R-773497",
+      "location": "Tokyo, Japan"
+    },
     "/job/Gdansk-Poland/Consulting-Program-Manager--Vice-President_R-800625": {
       "title": "Consulting Program Manager, Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Consulting-Program-Manager--Vice-President_R-800625",
@@ -53564,11 +53539,6 @@
       "title": "Credit Risk, Assistant Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Seoul-Korea/Credit-Risk--Assistant-Vice-President_R-800600",
       "location": "Seoul, Korea"
-    },
-    "/job/Dublin-2-Ireland/Project-Manager---Transfer-Agecency-Product-Change--Officer_R-797583": {
-      "title": "Project Manager - Transfer Agency Product Change, Officer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Project-Manager---Transfer-Agecency-Product-Change--Officer_R-797583",
-      "location": "Dublin 2, Ireland"
     },
     "/job/Sacramento-California/ETF-Settlements--Officer_R-800159": {
       "title": "ETF Settlements, Officer",
@@ -54105,10 +54075,10 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Financial-Reporting--Associate1_R-799409",
       "location": "Hangzhou, China"
     },
-    "/job/Tokyo-Japan/Sales-and-Service-Client-Services--Associate-2_R-795402-1": {
-      "title": "Sales and Service Client Services, Associate 2",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Tokyo-Japan/Sales-and-Service-Client-Services--Associate-2_R-795402-1",
-      "location": "Tokyo, Japan"
+    "": {
+      "title": "Untitled",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global",
+      "location": null
     },
     "/job/Tokyo-Japan/XMLNAME-400---Project-Management--Off_R-799519": {
       "title": "Alternative Investments Fund Administration (Real Estate), Senior Associate",
@@ -55585,11 +55555,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Power-Platform-Developer---SaaS-Automation---Integration--Charles-River-Development--Assistant-Vice-President_R-798157",
       "location": "Dublin 2, Ireland"
     },
-    "/job/Krakow-Poland/E2E-Solution-Manager--Vice-President_R-799799-1": {
-      "title": "E2E Solution Manager, Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/E2E-Solution-Manager--Vice-President_R-799799-1",
-      "location": "2 Locations"
-    },
     "/job/Taipei-Taiwan/FX---GT-Operations--SrAssc_R-799730": {
       "title": "FX & GT Operations, SrAssc",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Taipei-Taiwan/FX---GT-Operations--SrAssc_R-799730",
@@ -56700,11 +56665,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Senior-Associate_R-799566",
       "location": "Hangzhou, China"
     },
-    "/job/Tokyo-Japan/Offshore-Fund-Relationship-Manager--Vice-President_R-773497": {
-      "title": "Relationship Manager, Assistant Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Tokyo-Japan/Offshore-Fund-Relationship-Manager--Vice-President_R-773497",
-      "location": "Tokyo, Japan"
-    },
     "/job/Tokyo-Japan/Client-Service-Operations--Assistant-Vice-President_R-794110": {
       "title": "Client Service Operations, Assistant Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Tokyo-Japan/Client-Service-Operations--Assistant-Vice-President_R-794110",
@@ -57105,11 +57065,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Officer_R-799392",
       "location": "Hangzhou, China"
     },
-    "/job/Hangzhou-China/Financial-Reporting--Associate-2_R-799395": {
-      "title": "Financial Reporting, Associate 2",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Financial-Reporting--Associate-2_R-799395",
-      "location": "Hangzhou, China"
-    },
     "/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Associate-1_R-799388": {
       "title": "Alternative Ops Fund Accounting, Associate 1",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Associate-1_R-799388",
@@ -57379,11 +57334,6 @@
       "title": "Regulatory Reporting, Senior Associate",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Regulatory-Reporting--Senior-Associate_R-799119",
       "location": "Hyderabad, India"
-    },
-    "/job/Dublin-2-Ireland/QA-Automation-Engineer-Team-Lead--Charles-River-Development---AVP_R-791825": {
-      "title": "QA Automation Engineer Team Lead, Charles River Development , AVP",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/QA-Automation-Engineer-Team-Lead--Charles-River-Development---AVP_R-791825",
-      "location": "Dublin 2, Ireland"
     },
     "/job/Kilkenny-Ireland/Depositary-Oversight-Specialist--Senior-Associate_R-796922": {
       "title": "Depositary Oversight Specialist, Senior Associate",
@@ -58525,21 +58475,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Architecture--VP-II_R-795760",
       "location": "Boston, Massachusetts"
     },
-    "/job/London-England/Technical-Cyber-Security-Advisory--Vice-President_R-795098": {
-      "title": "Regional Cyber Security Advisor, Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Technical-Cyber-Security-Advisory--Vice-President_R-795098",
-      "location": "London, England"
-    },
-    "/job/Dublin-2-Ireland/PKI-Engineer_R-794993": {
-      "title": "PKI Engineer, Assistant Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/PKI-Engineer_R-794993",
-      "location": "6 Locations"
-    },
-    "/job/Krakow-Poland/Global-Intelligence---Resiliency-by-Design--Assistant-Vice-President_R-797145": {
-      "title": "Global Intelligence & Resiliency by Design, Assistant Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Global-Intelligence---Resiliency-by-Design--Assistant-Vice-President_R-797145",
-      "location": "Krakow, Poland"
-    },
     "/job/New-York-New-York/Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783187": {
       "title": "Front-Office Software Technical Trading Engineers AVP (API, ETL, Java, C#), AVP - Charles River Development",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/New-York-New-York/Front-Office---Buyside-Post-Production-Technical-Support-Specialist----API--ETL-tool-usage--Java-and-or-C--programming--Investment-Trading-Software-Fixed-Income-and-Equities---Charles-River-Development_R-783187",
@@ -58809,6 +58744,16 @@
     }
   },
   "BMO": {
+    "/job/New-York-NY-USA/Associate--Equity-Derivatives-Trade-Desk-Support_R260030540-1": {
+      "title": "Associate, Equity Derivatives Trade Desk Support",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Associate--Equity-Derivatives-Trade-Desk-Support_R260030540-1",
+      "location": "New York, NY, USA"
+    },
+    "/job/Toronto-ON-CAN/Associate--Equity-Derivatives-Trade-Desk-Support_R260030539-1": {
+      "title": "Associate, Equity Derivatives Trade Desk Support",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Equity-Derivatives-Trade-Desk-Support_R260030539-1",
+      "location": "Toronto, ON, CAN"
+    },
     "/job/Milton-ON-CAN/Mortgage-Specialist_R260026885": {
       "title": "Mortgage Specialist",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Milton-ON-CAN/Mortgage-Specialist_R260026885",
@@ -63095,6 +63040,14 @@
     }
   },
   "AbbVibe": {
+    "https://careers.abbvie.com/en/job/process-hygiene-lead-biologics-manufacturing-in-singapore-sg-jid-34523": {
+      "title": "Process Hygiene Lead, Biologics Manufacturing",
+      "url": "https://careers.abbvie.com/en/job/process-hygiene-lead-biologics-manufacturing-in-singapore-sg-jid-34523"
+    },
+    "https://careers.abbvie.com/en/job/process-hygiene-manager-biologics-manufacturing-in-singapore-sg-jid-34371": {
+      "title": "Process Hygiene Manager, Biologics Manufacturing",
+      "url": "https://careers.abbvie.com/en/job/process-hygiene-manager-biologics-manufacturing-in-singapore-sg-jid-34371"
+    },
     "https://careers.abbvie.com/en/job/medical-advisor-aesthetics-in-sydney-nsw-jid-35230": {
       "title": "Medical Advisor, Aesthetics",
       "url": "https://careers.abbvie.com/en/job/medical-advisor-aesthetics-in-sydney-nsw-jid-35230"
@@ -63126,17 +63079,19 @@
     "https://careers.abbvie.com/en/job/finance-lead-immunology-forecasting-in-mettawa-il-jid-35227": {
       "title": "Finance Lead, Immunology Forecasting",
       "url": "https://careers.abbvie.com/en/job/finance-lead-immunology-forecasting-in-mettawa-il-jid-35227"
-    },
-    "https://careers.abbvie.com/en/job/associate-director-global-business-development-forecasting-in-mettawa-il-jid-35226": {
-      "title": "Associate Director, Global Business Development Forecasting",
-      "url": "https://careers.abbvie.com/en/job/associate-director-global-business-development-forecasting-in-mettawa-il-jid-35226"
-    },
-    "https://careers.abbvie.com/en/job/medical-director-oncology-clinical-development-solid-tumors-in-waltham-ma-jid-33534": {
-      "title": "Medical Director, Oncology Clinical Development (Solid Tumors)",
-      "url": "https://careers.abbvie.com/en/job/medical-director-oncology-clinical-development-solid-tumors-in-waltham-ma-jid-33534"
     }
   },
   "HPE": {
+    "/job/Spring-Texas-United-States-of-America/Systems-Test-Engineer-II_1214367": {
+      "title": "Systems Test Engineer II",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Systems-Test-Engineer-II_1214367",
+      "location": "Spring, Texas, United States of America"
+    },
+    "/job/All-Oklahoma-United-States-of-America/Federal-Network-Engineer---Clearance-Required---Secret---Hybrid-Remote----On-Site-AL--UT--PA--OK_1183701-2": {
+      "title": "Cleared Network Operations Cloud Engineer, (Clearance Required - Secret), Hybrid Remote &  On-Site OK, UT, PA, MD, AL, OH",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Oklahoma-United-States-of-America/Federal-Network-Engineer---Clearance-Required---Secret---Hybrid-Remote----On-Site-AL--UT--PA--OK_1183701-2",
+      "location": "6 Locations"
+    },
     "/job/Bengaluru-Karntaka-India/External-Intern_1215491-1": {
       "title": "External Intern",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bengaluru-Karntaka-India/External-Intern_1215491-1",
@@ -64387,10 +64342,10 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/United-States-of-America-New-Jersey/Resident-Consultant-Network-Architect_1216211",
       "location": "United States of America, New Jersey"
     },
-    "/job/Ft-Collins-Colorado-United-States-of-America/AI-ML-Software-Engineer_1217299": {
-      "title": "AI/ML Software Engineer",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/AI-ML-Software-Engineer_1217299",
-      "location": "Ft. Collins, Colorado, United States of America"
+    "": {
+      "title": "Untitled",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite",
+      "location": null
     },
     "/job/All-Michigan-United-States-of-America/Account-Manager-Higher-Education--Michigan-_1216538-2": {
       "title": "Account Manager Higher Education (Michigan)",
@@ -65631,11 +65586,6 @@
       "title": "Compute Sales Specialist",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bangkok-Bangkok-Thailand/Compute-Sales-Specialist_1215149",
       "location": "Bangkok, Bangkok, Thailand"
-    },
-    "/job/Singapore-Central-Singapore-Singapore/Compute-Sales-Specialist_1215148": {
-      "title": "Compute Sales Specialist",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Singapore-Central-Singapore-Singapore/Compute-Sales-Specialist_1215148",
-      "location": "Singapore, Central Singapore, Singapore"
     },
     "/job/All-Mississippi-United-States-of-America/HPC-HW-Engineer_1216220": {
       "title": "HPC HW Engineer (10K sign on)",
@@ -69227,16 +69177,6 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Juan-Puerto-Rico-Puerto-Rico/AI-Engineer---Software-Development-Tools_1214810-6",
       "location": "San Juan, Puerto Rico, Puerto Rico"
     },
-    "/job/Bengaluru-Karntaka-India/Senior-Technical-Service-Advisor_1211947": {
-      "title": "Senior Technical Service Advisor",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bengaluru-Karntaka-India/Senior-Technical-Service-Advisor_1211947",
-      "location": "Bengaluru, Karn\u0101taka, India"
-    },
-    "/job/Bengaluru-Karntaka-India/Senior-Technical-Service-Advisor_1211946": {
-      "title": "Senior Technical Service Advisor",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bengaluru-Karntaka-India/Senior-Technical-Service-Advisor_1211946",
-      "location": "Bengaluru, Karn\u0101taka, India"
-    },
     "/job/Hong-Kong-Hong-Kong-Island-Hong-Kong/Senior-Pre-sales-Engineer_1213698": {
       "title": "Senior Pre-sales Engineer",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Hong-Kong-Hong-Kong-Island-Hong-Kong/Senior-Pre-sales-Engineer_1213698",
@@ -69527,16 +69467,6 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Technical-Marketing-Manager---AI_1203068",
       "location": "5 Locations"
     },
-    "/job/Bloomington-Minnesota-United-States-of-America/File-Systems-Engineer_1213934": {
-      "title": "File Systems Engineer",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bloomington-Minnesota-United-States-of-America/File-Systems-Engineer_1213934",
-      "location": "2 Locations"
-    },
-    "/job/Sunnyvale-California-United-States-of-America/Manager--Advanced-Threat-Detection-and-Research_1204245": {
-      "title": "Manager, Advanced Threat Detection and Research",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Manager--Advanced-Threat-Detection-and-Research_1204245",
-      "location": "Sunnyvale, California, United States of America"
-    },
     "/job/Boeblingen-Baden-Wurttemberg-Germany/Sales---Business-Unit-Director-for-the-Data-Services---Storage_1210231": {
       "title": "Sales & Business Unit Director for the Data Services & Storage",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Boeblingen-Baden-Wurttemberg-Germany/Sales---Business-Unit-Director-for-the-Data-Services---Storage_1210231",
@@ -69726,16 +69656,6 @@
       "title": "SLED Storage Sales Specialist - MA",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Massachusetts-United-States-of-America/Storage-Sales-Specialist---SLED--Maryland-_1207451-2",
       "location": "3 Locations"
-    },
-    "/job/Bengaluru-Karntaka-India/Nonstop-Professional-Services-Delivery---Technical-Consultant_1205566-1": {
-      "title": "Nonstop Professional Services Delivery - Technical Consultant",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bengaluru-Karntaka-India/Nonstop-Professional-Services-Delivery---Technical-Consultant_1205566-1",
-      "location": "Bengaluru, Karn\u0101taka, India"
-    },
-    "/job/Bengaluru-Karntaka-India/Senior-Software-Engineer---Networking-Datapath--L3-MPLS-Forwarding-_1212416-1": {
-      "title": "Senior Software Engineer - Networking Datapath (L3/MPLS Forwarding)",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bengaluru-Karntaka-India/Senior-Software-Engineer---Networking-Datapath--L3-MPLS-Forwarding-_1212416-1",
-      "location": "Bengaluru, Karn\u0101taka, India"
     },
     "/job/Bengaluru-Karntaka-India/Senior-Software-Engineer---Networking-Datapath--L3-MPLS-Forwarding-_1213224": {
       "title": "Senior Software Engineer - Networking Datapath (L3/MPLS Forwarding)",
@@ -70126,16 +70046,6 @@
       "title": "Senior Microsoft 365 & AI Solutions Developer",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sofia-Sofia-Bulgaria/Senior-Microsoft-365---AI-Solutions-Developer_1210463",
       "location": "Sofia, Sofia, Bulgaria"
-    },
-    "/job/Sydney-New-South-Wales-Australia/Customer-Solution-Center-Graduate_1213541": {
-      "title": "Customer Solution Center Graduate",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sydney-New-South-Wales-Australia/Customer-Solution-Center-Graduate_1213541",
-      "location": "Sydney, New South Wales, Australia"
-    },
-    "/job/Sofia-Sofia-Bulgaria/Hybrid-Cloud--Nimble--Operational-Excellence---Process-Transformation-Lead_1211411": {
-      "title": "Hybrid Cloud (Nimble) Operational Excellence & Process Transformation Lead",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sofia-Sofia-Bulgaria/Hybrid-Cloud--Nimble--Operational-Excellence---Process-Transformation-Lead_1211411",
-      "location": "2 Locations"
     },
     "/job/All-Arizona-United-States-of-America/AI-Data-Platform-Field-Architect_1209863-1": {
       "title": "AI Data Platform Field Architect",
@@ -70636,6 +70546,41 @@
       "title": "Data Scientist",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bengaluru-Karntaka-India/Data-Scientist_1209922-1",
       "location": "Bengaluru, Karn\u0101taka, India"
+    },
+    "/job/Riyadh-Riyadh-Saudi-Arabia/Partner-Business-Manager_1201750": {
+      "title": "Partner Business Manager - Riyadh",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Riyadh-Riyadh-Saudi-Arabia/Partner-Business-Manager_1201750",
+      "location": "Riyadh, Riyadh, Saudi Arabia"
+    },
+    "/job/Sydney-New-South-Wales-Australia/Principal-Technology-Consultant---Juniper-Service-Provider_1211175": {
+      "title": "Principal Technology Consultant - Juniper Service Provider",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sydney-New-South-Wales-Australia/Principal-Technology-Consultant---Juniper-Service-Provider_1211175",
+      "location": "Sydney, New South Wales, Australia"
+    },
+    "/job/Houston-Texas/Marketing-AI-Workflow-Architect--Houston--TX-_1208121-1": {
+      "title": "Marketing AI Workflow Architect (Houston, TX)",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Houston-Texas/Marketing-AI-Workflow-Architect--Houston--TX-_1208121-1",
+      "location": "2 Locations"
+    },
+    "/job/San-Jose-California-United-States-of-America/Senior-Cloud-Security-Engineer_1210336": {
+      "title": "Senior Cloud Security Engineer",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Senior-Cloud-Security-Engineer_1210336",
+      "location": "San Jose, California, United States of America"
+    },
+    "/job/Sunnyvale-California-United-States-of-America/ASIC-Verification-Engineer_1210390": {
+      "title": "ASIC Verification Engineer",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/ASIC-Verification-Engineer_1210390",
+      "location": "Sunnyvale, California, United States of America"
+    },
+    "/job/Bengaluru-Karntaka-India/Software-Engineer--C-C-----Linux-Systems_1198468-2": {
+      "title": "Software Engineer -  Networking Datapath (QoS/CoS/ Firewall/ACLs/Filters)",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bengaluru-Karntaka-India/Software-Engineer--C-C-----Linux-Systems_1198468-2",
+      "location": "Bengaluru, Karn\u0101taka, India"
+    },
+    "/job/Singapore-Central-Singapore-Singapore/APJ-Sales-Enablement-GTM-Lead_1210615": {
+      "title": "APJ Sales Enablement GTM Lead",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Singapore-Central-Singapore-Singapore/APJ-Sales-Enablement-GTM-Lead_1210615",
+      "location": "Singapore, Central Singapore, Singapore"
     }
   },
   "QAD": {},
@@ -97704,11 +97649,6 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CANELA/BRA-Espec-Santander-II-8h_Req1628110",
       "location": "CANELA"
     },
-    "/job/SANTIAGO/XMLNAME-8785-EJECUTIVO-DE-SERVICIOS-I_Req1628166": {
-      "title": "8785_EJECUTIVO DE SERVICIOS I",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTIAGO/XMLNAME-8785-EJECUTIVO-DE-SERVICIOS-I_Req1628166",
-      "location": "SANTIAGO"
-    },
     "/job/Torren/MEX-Anfitrion-Digital_Req1630367": {
       "title": "MEX Anfitrion Digital",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Torren/MEX-Anfitrion-Digital_Req1630367",
@@ -99454,11 +99394,6 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/London/VP--Global-Banking---Technology--Media----Telecom---SCIB_Req1611402",
       "location": "London"
     },
-    "/job/Newtownards/Customer-Experience-Consultant---S1---Retail-Banking---Newtownards_Req1628749-1": {
-      "title": "Customer Experience Consultant | S1 | Retail Banking | Newtownards",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Newtownards/Customer-Experience-Consultant---S1---Retail-Banking---Newtownards_Req1628749-1",
-      "location": "Newtownards"
-    },
     "/job/Offenbach/Kundenberater---Bankfiliale-Offenbach--w-m-d-_Req1628747": {
       "title": "Kundenberater | Bankfiliale Offenbach (w/m/d)",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Offenbach/Kundenberater---Bankfiliale-Offenbach--w-m-d-_Req1628747",
@@ -100384,11 +100319,6 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Quertaro/Desarrollador-de--Aplicaciones--Nativas_Req1612644",
       "location": "Quer\u00e9taro"
     },
-    "/job/Falkirk---TSB/Customer-Service-Consultant---S1---Branch-Banking---Falkirk---12-Month-FTC_Req1622913-1": {
-      "title": "Customer Service Consultant | S1 | Branch Banking | Falkirk | 12 Month FTC",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Falkirk---TSB/Customer-Service-Consultant---S1---Branch-Banking---Falkirk---12-Month-FTC_Req1622913-1",
-      "location": "Falkirk - TSB"
-    },
     "/job/Wrocaw/Starszy-Specjalista-Analizy-Danych-i-BI--Starsza-Specjalistka-Analizy-Danych-i-BI_Req1626705": {
       "title": "Starszy Specjalista Analizy Danych i BI/ Starsza Specjalistka Analizy Danych i BI",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Wrocaw/Starszy-Specjalista-Analizy-Danych-i-BI--Starsza-Specjalistka-Analizy-Danych-i-BI_Req1626705",
@@ -100718,11 +100648,6 @@
       "title": "Espec Clientes Select High",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/RIO-DE-JANEIRO/Espec-Clientes-Select-High_Req1615077",
       "location": "RIO DE JANEIRO"
-    },
-    "/job/Bridport---TSB/Customer-Service-Consultant---S1---Branch-Banking---Bridport---12-Month-FTC_Req1622903-1": {
-      "title": "Customer Service Consultant | S1 | Branch Banking | Bridport | 12 Month FTC",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Bridport---TSB/Customer-Service-Consultant---S1---Branch-Banking---Bridport---12-Month-FTC_Req1622903-1",
-      "location": "Bridport - TSB"
     },
     "/job/CDMX/Analista-Administrativo-Temporal_Req1623080": {
       "title": "Analista Administrativo Temporal",
@@ -102011,6 +101936,11 @@
     }
   },
   "MUFG": {
+    "/job/MUFG-Global-Service-Private-Ltd---Mumbai-NKP/Model-Validation-Pricing-Models_10080484-WD": {
+      "title": "Model Validation_Pricing Models",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/MUFG-Global-Service-Private-Ltd---Mumbai-NKP/Model-Validation-Pricing-Models_10080484-WD",
+      "location": "MUFG Global Service Private Ltd. - Mumbai (NKP)"
+    },
     "/job/New-York-NY/Vice-President--Equity-Research-Controls-and-Business-Management_10079704-WD-1": {
       "title": "Vice President, Equity Research Controls and Business Management",
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Vice-President--Equity-Research-Controls-and-Business-Management_10079704-WD-1",
@@ -103565,11 +103495,6 @@
       "title": "Release and Change Management, VP",
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Brea-CA/Release-and-Change-Management--VP_10079172-WD",
       "location": "3 Locations"
-    },
-    "/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Analyst_10079508-WD-1": {
-      "title": "Analyst",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Analyst_10079508-WD-1",
-      "location": "MUFG Global Service Private Ltd. - Bengaluru (BCIT)"
     },
     "/job/London/Debt-Capital-Markets-Lawyer---AVP_10077687-WD-3": {
       "title": "Debt Capital Markets Lawyer - AVP",
@@ -105309,10 +105234,10 @@
   },
   "Motional": {},
   "Applied Materials": {
-    "/job/DalianCHN/Customer-Engineer---C1-Senior_R2627744": {
-      "title": "Customer Engineer - C1 Senior",
-      "url": "https://amat.wd1.myworkdayjobs.com/external/job/DalianCHN/Customer-Engineer---C1-Senior_R2627744",
-      "location": "Dalian,CHN"
+    "": {
+      "title": "Untitled",
+      "url": "https://amat.wd1.myworkdayjobs.com/external",
+      "location": null
     },
     "/job/DalianCHN/Customer-Engineer---C1-Senior_R2627742": {
       "title": "Customer Engineer - C1 Senior",
@@ -105529,6 +105454,26 @@
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/BangaloreIND/Java-Developer_R2410017",
       "location": "Bangalore,IND"
     },
+    "/job/Hwaseong-LucestarKOR/IPC-XCT--XVision--Process-Support-Engineer_R2632686": {
+      "title": "IPC XCT (XVision) Process Support Engineer",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Hwaseong-LucestarKOR/IPC-XCT--XVision--Process-Support-Engineer_R2632686",
+      "location": "2 Locations"
+    },
+    "/job/SingaporeSGP/Process-Support-Engineer--Thin-Film-_R2632126": {
+      "title": "Process Support Engineer (Thin Film)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/SingaporeSGP/Process-Support-Engineer--Thin-Film-_R2632126",
+      "location": "Singapore,SGP"
+    },
+    "/job/TainanTWN/System-Engineer_R2631642": {
+      "title": "System Engineer",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/TainanTWN/System-Engineer_R2631642",
+      "location": "Tainan,TWN"
+    },
+    "/job/TainanTWN/Planner_R2631368": {
+      "title": "Planner",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/TainanTWN/Planner_R2631368",
+      "location": "Tainan,TWN"
+    },
     "/job/RehovotISR/HW-Qual-Engineer_R2630445": {
       "title": "System Qual Engineer",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/RehovotISR/HW-Qual-Engineer_R2630445",
@@ -105598,11 +105543,6 @@
       "title": "2027 Spring Electrical Engineer Co-op (Billerica, MA)",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
       "location": "Billerica,MA"
-    },
-    "/job/DalianCHN/Customer-Engineer---C1-Senior_R2632636": {
-      "title": "Customer Engineer - C1 Senior",
-      "url": "https://amat.wd1.myworkdayjobs.com/external/job/DalianCHN/Customer-Engineer---C1-Senior_R2632636",
-      "location": "Dalian,CHN"
     },
     "/job/Santa-ClaraCA/Algorithm-Developer_R2632617": {
       "title": "Algorithm Developer",
@@ -105702,11 +105642,6 @@
     "/job/SingaporeSGP/Global-Product-Support--GPS--Engineer_R2632621": {
       "title": "Global Product Support (GPS) Engineer",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/SingaporeSGP/Global-Product-Support--GPS--Engineer_R2632621",
-      "location": "Singapore,SGP"
-    },
-    "/job/SingaporeSGP/Global-Product-Support--GPS--Engineer_R2632622": {
-      "title": "Global Product Support (GPS) Engineer",
-      "url": "https://amat.wd1.myworkdayjobs.com/external/job/SingaporeSGP/Global-Product-Support--GPS--Engineer_R2632622",
       "location": "Singapore,SGP"
     },
     "/job/SingaporeSGP/Process-Engineer_R2632619": {
@@ -105948,11 +105883,6 @@
       "title": "Global Installation Engineer-Semi-DDP-FY27Q1",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/WuxiCHN/Global-Installation-Engineer-Semi-DDP_R2631702",
       "location": "Wuxi,CHN"
-    },
-    "/job/ShanghaiCHN/Global-Installation-Engineer-Semi-DDP_R2631703": {
-      "title": "Global Installation Engineer-Semi-DDP-FY27Q1-NCG",
-      "url": "https://amat.wd1.myworkdayjobs.com/external/job/ShanghaiCHN/Global-Installation-Engineer-Semi-DDP_R2631703",
-      "location": "Shanghai,CHN"
     },
     "/job/BangaloreIND/Supplier-Account-Management_R2622312": {
       "title": "Supplier Business Manager (SBM)",
@@ -106513,11 +106443,6 @@
       "title": "R&D Project Manager",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/RehovotISR/ETP-Project-Manager_R2626581-1",
       "location": "Rehovot,ISR"
-    },
-    "/job/ShanghaiCHN/Sales-Operations-New-Graduate-Shanghai_R2628605": {
-      "title": "Sales Operations-Shanghai",
-      "url": "https://amat.wd1.myworkdayjobs.com/external/job/ShanghaiCHN/Sales-Operations-New-Graduate-Shanghai_R2628605",
-      "location": "Shanghai,CHN"
     },
     "/job/RehovotISR/Embedded-Linux-Software-Engineer_R2630023": {
       "title": "Embedded Linux Software Engineer",
@@ -113522,6 +113447,16 @@
       "title": "Commercial Account Manager",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kuala-Lumpur-Malaysia/Commercial-Account-Manager_2000974",
       "location": "Kuala Lumpur, Malaysia"
+    },
+    "/job/Minato-Japan/XMLNAME---HR-Assistant_2030045": {
+      "title": "\u3010\u969c\u788d\u8005\u63a1\u7528\u67a0\u3011HR Assistant",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/XMLNAME---HR-Assistant_2030045",
+      "location": "Minato, Japan"
+    },
+    "/job/Madrid-Spain/Regional-Partner-Technical-Manager---Splunk_2028079-1": {
+      "title": "Regional Partner Technical Manager - Splunk",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Madrid-Spain/Regional-Partner-Technical-Manager---Splunk_2028079-1",
+      "location": "4 Locations"
     },
     "/job/Alpharetta-Georgia-US/Information-Security-Engineer-Hybrid_2018972": {
       "title": "Information Security Engineer Hybrid",
