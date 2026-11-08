@@ -78,6 +78,12 @@
       "location": "Buffalo, NY, United States",
       "country_code": "US"
     },
+    "210806469": {
+      "title": "Relationship Manager I - Officer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806469",
+      "location": "Cincinnati, OH, United States",
+      "country_code": "US"
+    },
     "210806470": {
       "title": "Part Time (30 Hours) Associate Banker, Elmsford Main St Branch, Elmsford NY",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806470",
@@ -102,6 +108,12 @@
       "location": "Scarsdale, NY, United States",
       "country_code": "US"
     },
+    "210806895": {
+      "title": "Business Relationship Manager I - Officer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806895",
+      "location": "Providence, RI, United States",
+      "country_code": "US"
+    },
     "210807156": {
       "title": "Vice President - Asset Managers & Funds Credit Risk",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807156",
@@ -124,6 +136,18 @@
       "title": "Relationship Banker - SC St Louis Market - Frontenac, MO",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807236",
       "location": "St Louis, MO, United States",
+      "country_code": "US"
+    },
+    "210807279": {
+      "title": "Business Relationship Manager Senior Deepening - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807279",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210807307": {
+      "title": "Business Relationship Manager I - Officer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807307",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210807583": {
@@ -8975,30 +8999,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801345",
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
-    },
-    "210801385": {
-      "title": "Senior Lead Software Engineer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801385",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
-    "210801390": {
-      "title": "Senior Lead Software Engineer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801390",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
-    "210801423": {
-      "title": "Associate Banker, 30 Hours, Kalamazoo, MI - Downtown Kalamazoo Branch",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801423",
-      "location": "Kalamazoo, MI, United States",
-      "country_code": "US"
-    },
-    "210801557": {
-      "title": "Associate Relationship Banker - Capitola Branch - Capitola, CA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801557",
-      "location": "Capitola, CA, United States",
-      "country_code": "US"
     }
   },
   "PJT Partners": {
@@ -16091,12 +16091,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10539879": {
-      "title": "Senior Finance Analyst, NACF Central Reporting, NACF Central Reporting",
-      "url": "https://www.amazon.jobs/en/jobs/10539879/senior-finance-analyst-nacf-central-reporting-nacf-central-reporting",
-      "location": "Irving, Texas, USA",
-      "country_code": "USA"
-    },
     "10546242": {
       "title": "Senior Program Planning & Scheduling Analyst",
       "url": "https://www.amazon.jobs/en/jobs/10546242/senior-program-planning-scheduling-analyst",
@@ -18693,6 +18687,56 @@
     }
   },
   "CVS Health": {
+    "/job/CA---Rialto/Pharmacy-Intern_R0989432": {
+      "title": "Pharmacy Intern",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Rialto/Pharmacy-Intern_R0989432",
+      "location": "CA - Rialto"
+    },
+    "/job/IL---Lombard/Pharmacy-Technician_R1097985": {
+      "title": "Pharmacy Technician",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Lombard/Pharmacy-Technician_R1097985",
+      "location": "IL - Lombard"
+    },
+    "/job/IL---Benton/Pharmacy-Technician_R1097705": {
+      "title": "Pharmacy Technician",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Benton/Pharmacy-Technician_R1097705",
+      "location": "IL - Benton"
+    },
+    "/job/IL---Normal/Operations-Manager_R1097537": {
+      "title": "Operations Manager",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Normal/Operations-Manager_R1097537",
+      "location": "IL - Normal"
+    },
+    "/job/IL---Pekin/Shift-Supervisor_R1097735": {
+      "title": "Shift Supervisor",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Pekin/Shift-Supervisor_R1097735",
+      "location": "IL - Pekin"
+    },
+    "/job/IL---Jerseyville/Shift-Supervisor_R1097786": {
+      "title": "Shift Supervisor",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Jerseyville/Shift-Supervisor_R1097786",
+      "location": "IL - Jerseyville"
+    },
+    "/job/IL---Pekin/Shift-Supervisor_R1097732": {
+      "title": "Shift Supervisor",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Pekin/Shift-Supervisor_R1097732",
+      "location": "IL - Pekin"
+    },
+    "/job/IL---Jerseyville/Shift-Supervisor_R1097776": {
+      "title": "Shift Supervisor",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Jerseyville/Shift-Supervisor_R1097776",
+      "location": "IL - Jerseyville"
+    },
+    "/job/IL---Ottawa/Store-Associate_R1097815": {
+      "title": "Store Associate",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Ottawa/Store-Associate_R1097815",
+      "location": "IL - Ottawa"
+    },
+    "/job/HI---Hauula/Pharmacy-Technician_R1098180": {
+      "title": "Pharmacy Technician",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/HI---Hauula/Pharmacy-Technician_R1098180",
+      "location": "HI - Hauula"
+    },
     "/job/VA---Forest/clerk-cashier_R1096816": {
       "title": "Store Associate",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Forest/clerk-cashier_R1096816",
@@ -26142,56 +26186,6 @@
       "title": "Store Associate",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Irvine/Store-Associate_R1095746",
       "location": "CA - Irvine"
-    },
-    "/job/PA---Pittsburgh/Shift-Supervisor_R1095977": {
-      "title": "Shift Supervisor",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Pittsburgh/Shift-Supervisor_R1095977",
-      "location": "PA - Pittsburgh"
-    },
-    "/job/PA---Pittsburgh/Shift-Supervisor_R1095785": {
-      "title": "Shift Supervisor",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Pittsburgh/Shift-Supervisor_R1095785",
-      "location": "PA - Pittsburgh"
-    },
-    "/job/HI---Waipahu/Beauty-Sales-Consultant_R1095874": {
-      "title": "Beauty Sales Consultant",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/HI---Waipahu/Beauty-Sales-Consultant_R1095874",
-      "location": "HI - Waipahu"
-    },
-    "/job/MN---Bloomington/Pharmacy-Technician_R1095443": {
-      "title": "Pharmacy Technician",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Bloomington/Pharmacy-Technician_R1095443",
-      "location": "MN - Bloomington"
-    },
-    "/job/HI---Kaneohe/Beauty-Sales-Consultant_R1095948": {
-      "title": "Beauty Sales Consultant",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/HI---Kaneohe/Beauty-Sales-Consultant_R1095948",
-      "location": "HI - Kaneohe"
-    },
-    "/job/05048---CVS-Albany-LLC/Pharmacy-Technician_R1096243": {
-      "title": "Pharmacy Technician",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/05048---CVS-Albany-LLC/Pharmacy-Technician_R1096243",
-      "location": "05048 - CVS Albany, L.L.C."
-    },
-    "/job/FL---Lehigh-Acres/Shift-Supervisor_R1095771": {
-      "title": "Shift Supervisor",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Lehigh-Acres/Shift-Supervisor_R1095771",
-      "location": "FL - Lehigh Acres"
-    },
-    "/job/MI---Dearborn-Heights/Store-Associate_R1095817": {
-      "title": "Store Associate",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MI---Dearborn-Heights/Store-Associate_R1095817",
-      "location": "MI - Dearborn Heights"
-    },
-    "/job/TX---El-Paso/Shift-Supervisor_R1096176": {
-      "title": "Shift Supervisor",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---El-Paso/Shift-Supervisor_R1096176",
-      "location": "TX - El Paso"
-    },
-    "/job/FL---Lehigh-Acres/Store-Associate_R1095778-1": {
-      "title": "Store Associate",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Lehigh-Acres/Store-Associate_R1095778-1",
-      "location": "FL - Lehigh Acres"
     }
   },
   "Analog Devices": {
@@ -44271,6 +44265,11 @@
     }
   },
   "Bank of America": {
+    "/job/Jacksonville/Money-Movement-Operations-Processing---Jacksonville--FL_26034622": {
+      "title": "Money Movement Operations Processing - Jacksonville, FL",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Money-Movement-Operations-Processing---Jacksonville--FL_26034622",
+      "location": "Jacksonville"
+    },
     "/job/Florissant/Relationship-Banker_26041574": {
       "title": "Relationship Banker",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Florissant/Relationship-Banker_26041574",
@@ -51765,11 +51764,6 @@
       "title": "Financial Solutions Advisor - Ventura Main Financial Center",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Ventura/Financial-Solutions-Advisor---Ventura-Main-Financial-Center_26026444",
       "location": "Ventura"
-    },
-    "/job/Arroyo-Grande/Financial-Solutions-Advisor-Registration-Candidate---Arroyo-Grande-Financial-Center_26030270": {
-      "title": "Financial Solutions Advisor Registration Candidate - Arroyo Grande Financial Center",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Arroyo-Grande/Financial-Solutions-Advisor-Registration-Candidate---Arroyo-Grande-Financial-Center_26030270",
-      "location": "Arroyo Grande"
     }
   },
   "Qualus": {
@@ -52751,14 +52745,6 @@
       "title": "Lead MMIS Data Architect",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-MMIS-Data-Architect-TN-99999/1428498800/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Medicaid-Reporting-&-Analytics-Lead-TX-99999/1418723900/": {
-      "title": "Medicaid Reporting & Analytics Lead",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Medicaid-Reporting-&-Analytics-Lead-TX-99999/1418723900/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-AL-99999/1438839400/": {
-      "title": "Early Career Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-AL-99999/1438839400/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Director-Program-Office-TX-99999/1438772400/": {
       "title": "Director Program Office",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Director-Program-Office-TX-99999/1438772400/"
@@ -52767,9 +52753,21 @@
       "title": "Senior Batch Developer (LINUX/C/SQL)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Batch-Developer-%28LINUXCSQL%29-TX-99999/1418594900/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-AL-99999/1438839400/": {
+      "title": "Early Career Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-AL-99999/1438839400/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Medicaid-Reporting-&-Analytics-Lead-TX-99999/1418723900/": {
+      "title": "Medicaid Reporting & Analytics Lead",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Medicaid-Reporting-&-Analytics-Lead-TX-99999/1418723900/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-TX-99999/1438161800/": {
       "title": "Business Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-TX-99999/1438161800/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Tucker-Early-Career-Application-Designer-%28Tucker%2C-GA%29-GA-30084-7060/1438312300/": {
+      "title": "Early Career Application Designer (Tucker, GA)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Tucker-Early-Career-Application-Designer-%28Tucker%2C-GA%29-GA-30084-7060/1438312300/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Coding-Auditor%2C-Itemized-Bill-Reviewer-Remote-TN-99999/1428087800/": {
       "title": "Senior Coding Auditor, Itemized Bill Reviewer- Remote",
@@ -52779,17 +52777,13 @@
       "title": "Informatica Developer (Healthcare Systems)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Informatica-Developer-%28Healthcare-Systems%29-RI-99999/1438416900/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Supervisor-Baton-Rouge%2C-LA-%28Hybrid%29-LA-70809-0204/1428001400/": {
-      "title": "Provider Enrollment Supervisor - Baton Rouge, LA (Hybrid)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Supervisor-Baton-Rouge%2C-LA-%28Hybrid%29-LA-70809-0204/1428001400/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Senior-Professional-Application-Developer-CO-99999/1438313100/": {
       "title": "Healthcare Senior Professional Application  Developer",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Senior-Professional-Application-Developer-CO-99999/1438313100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Tucker-Early-Career-Application-Designer-%28Tucker%2C-GA%29-GA-30084-7060/1438312300/": {
-      "title": "Early Career Application Designer (Tucker, GA)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Tucker-Early-Career-Application-Designer-%28Tucker%2C-GA%29-GA-30084-7060/1438312300/"
+    "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Supervisor-Baton-Rouge%2C-LA-%28Hybrid%29-LA-70809-0204/1428001400/": {
+      "title": "Provider Enrollment Supervisor - Baton Rouge, LA (Hybrid)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Supervisor-Baton-Rouge%2C-LA-%28Hybrid%29-LA-70809-0204/1428001400/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Operations-Manager%2C-Provider-Enrollment-ID-99999/1448534000/": {
       "title": "Operations Manager, Provider Enrollment",
@@ -52807,17 +52801,17 @@
       "title": "Project Manager",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Project-Manager-VA-99999/1448516800/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Professional-Business-Analyst-RI-99999/1414357100/": {
+      "title": "Professional Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Professional-Business-Analyst-RI-99999/1414357100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Advisor-Contracts-KA-560100/1428396600/": {
       "title": "Advisor Contracts",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Advisor-Contracts-KA-560100/1428396600/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-CX-Solution-Consultant-TX-99999/1437989500/": {
-      "title": "CX Solution Consultant",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-CX-Solution-Consultant-TX-99999/1437989500/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager%2C-Pharmacy-and-Drug-Rebate-Services-TX-99999/1433275600/": {
-      "title": "Senior Manager, Pharmacy and Drug Rebate Services",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager%2C-Pharmacy-and-Drug-Rebate-Services-TX-99999/1433275600/"
+    "https://jobs.gainwelltechnologies.com/job/Williston-Reference-Analyst-Hybrid-Williston%2C-VT-VT-05495-2086/1435530600/": {
+      "title": "Reference Analyst- Hybrid Williston, VT",
+      "url": "https://jobs.gainwelltechnologies.com/job/Williston-Reference-Analyst-Hybrid-Williston%2C-VT-VT-05495-2086/1435530600/"
     }
   },
   "Happen Bank": {
@@ -53621,11 +53615,6 @@
       "title": "Java - Full Stack Observability Engineer, AVP",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Java---Full-Stack-Observability-Engineer--AVP_R-798927",
       "location": "Hyderabad, India"
-    },
-    "/job/Gdansk-Poland/Junior-Quality-Assurance-and-Automation-Engineer--SA_R-798675": {
-      "title": "Junior Quality Assurance and Automation Engineer, SA",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Junior-Quality-Assurance-and-Automation-Engineer--SA_R-798675",
-      "location": "Gdansk, Poland"
     },
     "/job/Gdansk-Poland/Java-Software-Engineer--hybrid--Offcer_R-774716": {
       "title": "Java Software Engineer, hybrid, Officer",
@@ -55796,11 +55785,6 @@
       "title": "Quantitative Risk, Assistant Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Quantitative-Risk--Assistant-Vice-President_R-797909-1",
       "location": "Boston, Massachusetts"
-    },
-    "/job/Kilkenny-Ireland/Head-of-Transfer-Agency--Traditional--Ireland--PCF-33--Managing-Director_R-800276-1": {
-      "title": "Head of Transfer Agency (Traditional) Ireland, PCF 33, Managing Director",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Head-of-Transfer-Agency--Traditional--Ireland--PCF-33--Managing-Director_R-800276-1",
-      "location": "2 Locations"
     },
     "/job/Hyderabad-India/Principal-Software-Engineer---Java-Backend--AVP_R-792705-1": {
       "title": "Senior Software Engineer - Java Backend, Officer",
@@ -59049,6 +59033,18 @@
     }
   },
   "Capital One": {
+    "https://www.capitalonecareers.com/job/new-york/senior-manager-product-manager-data-analysis-and-governance/1732/101405879712": {
+      "title": "10140587971210/01/2026Senior Manager, Product Manager-Data Analysis & GovernanceNew York, NY",
+      "url": "https://www.capitalonecareers.com/job/new-york/senior-manager-product-manager-data-analysis-and-governance/1732/101405879712"
+    },
+    "https://www.capitalonecareers.com/job/new-york/senior-associate-product-manager-small-business-bank-associate-servicing/1732/102305888528": {
+      "title": "10230588852810/22/2026Senior Associate, Product Manager-Small Business Bank Associate ServicingNew York, NY",
+      "url": "https://www.capitalonecareers.com/job/new-york/senior-associate-product-manager-small-business-bank-associate-servicing/1732/102305888528"
+    },
+    "https://www.capitalonecareers.com/job/mclean/manager-product-manager-retail-bank-data/1732/101998138080": {
+      "title": "10199813808010/15/2026Manager, Product Manager, Retail Bank DataMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/manager-product-manager-retail-bank-data/1732/101998138080"
+    },
     "https://www.capitalonecareers.com/job/new-york/senior-manager-compliance-advisory-network-compliance/1732/101620404384": {
       "title": "10162040438411/06/2026Senior Manager, Compliance Advisory (Network Compliance)New York, NY",
       "url": "https://www.capitalonecareers.com/job/new-york/senior-manager-compliance-advisory-network-compliance/1732/101620404384"
@@ -59080,14 +59076,6 @@
     "https://www.capitalonecareers.com/job/mclean/senior-manager-senior-counsel-network-marketing-brand-and-communications/1732/102958153296": {
       "title": "10295815329611/06/2026Senior Manager, Senior Counsel - Network Marketing, Brand, and CommunicationsMcLean, VA",
       "url": "https://www.capitalonecareers.com/job/mclean/senior-manager-senior-counsel-network-marketing-brand-and-communications/1732/102958153296"
-    },
-    "https://www.capitalonecareers.com/job/richmond/senior-associate-social-content-designer-brand-video-center-of-excellence/1732/102515125648": {
-      "title": "10251512564810/27/2026Senior Associate, Social Content Designer \u2014 Brand Video Center of ExcellenceRichmond, VA",
-      "url": "https://www.capitalonecareers.com/job/richmond/senior-associate-social-content-designer-brand-video-center-of-excellence/1732/102515125648"
-    },
-    "https://www.capitalonecareers.com/job/mclean/full-stack-engineer-4-go-aws/1732/100994300256": {
-      "title": "10099430025610/22/2026Full Stack Engineer 4 (Go, AWS)McLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/full-stack-engineer-4-go-aws/1732/100994300256"
     }
   },
   "BMO": {
@@ -87951,6 +87939,11 @@
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Chillicothe-OH/Personal-Banker-Associate-I_R74158",
       "location": "2 Locations"
     },
+    "/job/Hampton-GA/DeNovo-Financial-Center-Manager---McDonough-East_R70945": {
+      "title": "DeNovo Financial Center Manager - McDonough East",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Hampton-GA/DeNovo-Financial-Center-Manager---McDonough-East_R70945",
+      "location": "Hampton, GA"
+    },
     "/job/Brentwood-TN/Financial-Center-Manager---TN-South-Region_R69980": {
       "title": "Financial Center Manager - TN South Region",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Brentwood-TN/Financial-Center-Manager---TN-South-Region_R69980",
@@ -89720,11 +89713,6 @@
       "title": "Investment Executive (Financial Advisor) South Holland, IL",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/South-Holland-IL/Investment-Executive_R74422",
       "location": "South Holland, IL"
-    },
-    "/job/Hampton-GA/DeNovo-Financial-Center-Manager---McDonough-East_R70945": {
-      "title": "DeNovo Financial Center Manager - McDonough East",
-      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Hampton-GA/DeNovo-Financial-Center-Manager---McDonough-East_R70945",
-      "location": "Hampton, GA"
     },
     "/job/Duluth-GA/Personal-Banker-I---GA-East-Region_R70291": {
       "title": "Personal Banker I - GA East Region",
@@ -99152,11 +99140,6 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Coml-Prod-Financ-SANB---MARILIA_Req1632148",
       "location": "SAO PAULO"
     },
-    "/job/BANCA-PRIVADA-TITANIUM/XMLNAME-9012-EJECUTIVO-WEALTH_Req1628346": {
-      "title": "9012_EJECUTIVO WEALTH",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/BANCA-PRIVADA-TITANIUM/XMLNAME-9012-EJECUTIVO-WEALTH_Req1628346",
-      "location": "BANCA PRIVADA TITANIUM"
-    },
     "/job/BC-Seymour/Specialist--Banking-Center-Relationship-Banker-1_Req1632786": {
       "title": "Specialist, Banking Center Relationship Banker 1",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/BC-Seymour/Specialist--Banking-Center-Relationship-Banker-1_Req1632786",
@@ -99201,16 +99184,6 @@
       "title": "8387_EJECUTIVO BANCA EMPRESAS SR",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/IQUIQUE/XMLNAME-8387-EJECUTIVO-BANCA-EMPRESAS-SR_Req1628837",
       "location": "IQUIQUE"
-    },
-    "/job/PUNTA-ARENAS/XMLNAME-8425-EJECUTIVO-PYME-PUNTA-ARENAS-PYME_Req1629471": {
-      "title": "8425_EJECUTIVO PYME_PUNTA ARENAS PYME",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PUNTA-ARENAS/XMLNAME-8425-EJECUTIVO-PYME-PUNTA-ARENAS-PYME_Req1629471",
-      "location": "PUNTA ARENAS"
-    },
-    "/job/ANTOFAGASTA/PFL-8426-EJECUTIVO-PYME-JUNIOR_Req1627647": {
-      "title": "PFL_8426_EJECUTIVO PYME JUNIOR",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/ANTOFAGASTA/PFL-8426-EJECUTIVO-PYME-JUNIOR_Req1627647",
-      "location": "ANTOFAGASTA"
     },
     "/job/PAULO-AFONSO/Espec-Clientes-B1-I_Req1607759": {
       "title": "Espec Clientes B1 I",
@@ -99436,11 +99409,6 @@
       "title": "Espec Clientes B1",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/COLOMBO/Espec-Clientes-B1_Req1617964",
       "location": "COLOMBO"
-    },
-    "/job/ANTOFAGASTA/XMLNAME-8425-EJECUTIVO-PYME_Req1631978": {
-      "title": "8425_EJECUTIVO PYME",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/ANTOFAGASTA/XMLNAME-8425-EJECUTIVO-PYME_Req1631978",
-      "location": "ANTOFAGASTA"
     },
     "/job/PGX-Campo-Bom/PGX-ANL-PROCESSOS-PL_Req1632448": {
       "title": "PGX ANL PROCESSOS PL",
@@ -99711,11 +99679,6 @@
       "title": "Back End Developer / Integration Engineer (Santander Consumer Finance Global Services)",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Valladolid---Plaza-Juan-de-Austria-5-P02/Back-End-Developer---Integration-Engineer_Req1617699-1",
       "location": "Valladolid - Plaza Juan de Austria 5 P02"
-    },
-    "/job/Milton-Keynes/Senior-Data-Scientist---S4---Chief-Data---AI-Office---Milton-Keynes_Req1627625": {
-      "title": "Senior Data Scientist | S4 | Chief Data & AI Office | Milton Keynes",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Milton-Keynes/Senior-Data-Scientist---S4---Chief-Data---AI-Office---Milton-Keynes_Req1627625",
-      "location": "Milton Keynes"
     },
     "/job/Boadilla-del-Monte/Advertising---Content-Marketing-Manager_Req1628122-1": {
       "title": "Advertising & Content Marketing Manager",
@@ -100156,11 +100119,6 @@
       "title": "Assessor de Invest High",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Assessor-de-Invest-High_Req1632267",
       "location": "SAO PAULO"
-    },
-    "/job/SANTIAGO/XMLNAME-8646-EJECUTIVO-COMERCIAL-SCF_Req1630146": {
-      "title": "8646_EJECUTIVO COMERCIAL SCF",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTIAGO/XMLNAME-8646-EJECUTIVO-COMERCIAL-SCF_Req1630146",
-      "location": "SANTIAGO"
     },
     "/job/York-PA/Full-Time-Teller--Bannister-Street--York--PA_Req1632145": {
       "title": "Full Time Teller, Bannister Street, York, PA",
@@ -101022,11 +100980,6 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/IT-Analyst-III_Req1628953",
       "location": "SAO PAULO"
     },
-    "/job/VALLENAR/PFL-MAT-8785-EJECUTIVO-DE-SERVICIO-I_Req1628803": {
-      "title": "PFL_MAT_8785_EJECUTIVO DE SERVICIO I",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/VALLENAR/PFL-MAT-8785-EJECUTIVO-DE-SERVICIO-I_Req1628803",
-      "location": "VALLENAR"
-    },
     "/job/PROMISSAO/Lider-de-Loja_Req1618127": {
       "title": "Lider de Loja - Promiss\u00e3o/SP",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PROMISSAO/Lider-de-Loja_Req1618127",
@@ -101216,11 +101169,6 @@
       "title": "Cyber Security Spec II (BISO)",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Cyber-Security-Spec-II_Req1628919",
       "location": "SAO PAULO"
-    },
-    "/job/TORINO/Internship-ESCP---Career-Fair-2025_Req1415972": {
-      "title": "Candidatura Spontanea | Career Day Torino 2026",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/TORINO/Internship-ESCP---Career-Fair-2025_Req1415972",
-      "location": "TORINO"
     },
     "/job/Tallahassee/AVP--Dealer-Relationship-Manager---Gainesville--FL_Req1616132": {
       "title": "AVP, Dealer Relationship Manager \u2013 Tallahassee & Gainesville, FL",
@@ -102182,11 +102130,6 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Coml-Prod-Financ-SANB--SP-Jaragu_Req1626353",
       "location": "SAO PAULO"
     },
-    "/job/138_Servicios-Centrales-RV/Analista-Middle-Office-Activos-Privados---Santander-Rentas-Vitalicias_Req1616556": {
-      "title": "Analista Senior Middle Office Activos Privados | Santander Rentas Vitalicias",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/138_Servicios-Centrales-RV/Analista-Middle-Office-Activos-Privados---Santander-Rentas-Vitalicias_Req1616556",
-      "location": "138_Servicios Centrales RV"
-    },
     "/job/Sucursal-Holanda/Associate-CB-Nethelands_Req1571615-1": {
       "title": "Associate CB Nethelands",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Sucursal-Holanda/Associate-CB-Nethelands_Req1571615-1",
@@ -102241,11 +102184,6 @@
       "title": "BRA  Advogado III",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/BRA--Advogado-III_Req1610892",
       "location": "SAO PAULO"
-    },
-    "/job/SANTIAGO/Analista-Senior-CX---Santander-Rentas-Vitalicias---Santiago_Req1628242": {
-      "title": "Analista Senior CX | Santander Rentas Vitalicias | Santiago",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTIAGO/Analista-Senior-CX---Santander-Rentas-Vitalicias---Santiago_Req1628242",
-      "location": "SANTIAGO"
     },
     "/job/Stamford-CT/Commercial-Risk-Model-Development-Associate_Req1625886": {
       "title": "Commercial Risk Model Development Associate",
@@ -109417,11 +109355,6 @@
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/BangaloreIND/IT-Solutions-Management_R2632441",
       "location": "Bangalore,IND"
     },
-    "/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2632516": {
-      "title": "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
-      "url": "https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2632516",
-      "location": "Gloucester,MA"
-    },
     "/job/SingaporeSGP/Test-Systems-Engineer---Test-Excellence_R2630156": {
       "title": "Lead Systems Engineer - Test Excellence",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/SingaporeSGP/Test-Systems-Engineer---Test-Excellence_R2630156",
@@ -114956,6 +114889,11 @@
       "title": "Installation Engineer - Europe",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/BerninFRA/Installation-Engineer---Europe_R2626349",
       "location": "Bernin,FRA"
+    },
+    "/job/HsinchuTWN/Industrial-Engineer_R2627873": {
+      "title": "Industrial Engineer",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/HsinchuTWN/Industrial-Engineer_R2627873",
+      "location": "Hsinchu,TWN"
     }
   },
   "Speciality": {},
