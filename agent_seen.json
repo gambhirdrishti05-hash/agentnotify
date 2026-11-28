@@ -1,16 +1,928 @@
 {
   "JPMorgan Chase": {
+    "210744211": {
+      "title": "Lead Software Engineer - Senior Java Full Stack Developer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744211",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210765470": {
+      "title": "Data Scientist",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765470",
+      "location": "Metro Manila, National Capital Region, Philippines",
+      "country_code": "PH"
+    },
+    "210767645": {
+      "title": "Commercial & Investment Bank GF&BM \u2013 Global Commodities Group \u2013 Product Control \u2013 Associate \u2013 London",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767645",
+      "location": "LONDON, United Kingdom",
+      "country_code": "GB"
+    },
+    "210770122": {
+      "title": "Senior Lead Software Engineer - Java or Python, Agentic AI",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770122",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210771552": {
+      "title": "Data Engineer III (Cloud Data Engineering)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771552",
+      "location": "Dublin, Ireland",
+      "country_code": "IE"
+    },
+    "210776031": {
+      "title": "Hiring Event - Part Time Associate Banker Glendale Burbank (30 Hours)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776031",
+      "location": "Glendale, CA, United States",
+      "country_code": "US"
+    },
+    "210776274": {
+      "title": "Operations and Financial Support Analyst, Chase Travel",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776274",
+      "location": "Metro Manila, National Capital Region, Philippines",
+      "country_code": "PH"
+    },
+    "210776310": {
+      "title": "Lead Software Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776310",
+      "location": "Hyderabad, Telangana, India",
+      "country_code": "IN"
+    },
+    "210776576": {
+      "title": "Hiring Event - Part Time Associate Banker Eastern Queens (30 Hours)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776576",
+      "location": "Oakland Gardens, NY, United States",
+      "country_code": "US"
+    },
+    "210777623": {
+      "title": "General Ledger Accountant - Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777623",
+      "location": "Warszawa, Mazowieckie, Poland",
+      "country_code": "PL"
+    },
+    "210782118": {
+      "title": "Associate Banker, 30 Hours, Irvine Area - Multiple locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782118",
+      "location": "Irvine, CA, United States",
+      "country_code": "US"
+    },
+    "210782600": {
+      "title": "Associate Banker, 30 Hours, Chicago South West Area - Multiple locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782600",
+      "location": "Naperville, IL, United States",
+      "country_code": "US"
+    },
+    "210782870": {
+      "title": "Associate Banker, 30 Hours, Del Mar Surrounding Area - Multiple locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782870",
+      "location": "Del Mar, CA, United States",
+      "country_code": "US"
+    },
+    "210782958": {
+      "title": "Associate Banker, 30 Hours, North Tarrant County, TX - Multiple Locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782958",
+      "location": "Fort Worth, TX, United States",
+      "country_code": "US"
+    },
+    "210783685": {
+      "title": "Associate Banker, 30 Hours, Bronx East Area - Multiple locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783685",
+      "location": "Bronx, NY, United States",
+      "country_code": "US"
+    },
+    "210783989": {
+      "title": "Associate Banker, 30 Hours, Monmouth Ocean Market  Area - Multiple locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783989",
+      "location": "Jackson, NJ, United States",
+      "country_code": "US"
+    },
+    "210784424": {
+      "title": "Associate Banker, 30 Hours, Connecticut South  Area - Multiple locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784424",
+      "location": "Greenwich, CT, United States",
+      "country_code": "US"
+    },
+    "210785335": {
+      "title": "India Direct Custody Operations - Designated Depository Participant Services (DDP) - Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785335",
+      "location": "Mumbai, Maharashtra, India",
+      "country_code": "IN"
+    },
+    "210787665": {
+      "title": "Software Engineer III - Python Developer + Prompt Engineering + Agentic AI + AWS",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787665",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
     "210787708": {
       "title": "Asset Management - APAC Vendor Change Management - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787708",
       "location": "Kwun Tong, Kowloon, Hong Kong",
       "country_code": "HK"
     },
+    "210790224": {
+      "title": "Lead Site Reliability Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790224",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210792607": {
+      "title": "Senior Product Delivery Associate- Loan IQ",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792607",
+      "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
+    "210793006": {
+      "title": "J.P. Morgan Wealth Management - Executive Director, Wealth Client Specialist",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793006",
+      "location": "San Francisco, CA, United States",
+      "country_code": "US"
+    },
+    "210795424": {
+      "title": "Asset Management Data Product Manager - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795424",
+      "location": "LONDON, LONDON, United Kingdom",
+      "country_code": "GB"
+    },
+    "210796195": {
+      "title": "Lead Software Engineer - Full Stack",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796195",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210796216": {
+      "title": "Business Analyst \u2013 Real-Time Payments",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796216",
+      "location": "Tampa, FL, United States",
+      "country_code": "US"
+    },
+    "210798040": {
+      "title": "Associate-Central P&A -Allocations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798040",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210798987": {
+      "title": "Branch Operations Lead - Rohrerstown Rd (New Build) - Lancaster, PA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798987",
+      "location": "Lancaster, PA, United States",
+      "country_code": "US"
+    },
+    "210799780": {
+      "title": "Finance & Business Management - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799780",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210801327": {
+      "title": "J.P. Morgan Advisors -Senior Client Associate- Houston, TX",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801327",
+      "location": "Houston, TX, United States",
+      "country_code": "US"
+    },
+    "210801379": {
+      "title": "J.P. Morgan Wealth Management - Private Client Investment Associate -  Huntington, NY",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801379",
+      "location": "Huntington, NY, United States",
+      "country_code": "US"
+    },
+    "210801406": {
+      "title": "Software Engineer III - DBA, AWS, Aurora PostgreSQL",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801406",
+      "location": "Mumbai, Maharashtra, India",
+      "country_code": "IN"
+    },
+    "210801925": {
+      "title": "Trade Lifecycle Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801925",
+      "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
+    "210802030": {
+      "title": "Risk Management - Market Risk Coverage Lead - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802030",
+      "location": "LONDON, United Kingdom",
+      "country_code": "GB"
+    },
+    "210802817": {
+      "title": "Home Lending Manager I",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802817",
+      "location": "Philippines",
+      "country_code": "PH"
+    },
+    "210803125": {
+      "title": "J.P. Morgan Wealth Management - Client Specialist Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803125",
+      "location": "Los Angeles, CA, United States",
+      "country_code": "US"
+    },
+    "210803212": {
+      "title": "Lead Software Engineer - Java, AWS, Kafka",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803212",
+      "location": "Hyderabad, Telangana, India",
+      "country_code": "IN"
+    },
+    "210803240": {
+      "title": "Sr Lead Software Engineer - AI Agents",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803240",
+      "location": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+      "country_code": "AR"
+    },
+    "210803317": {
+      "title": "Finance Manager in Markets Technology - Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803317",
+      "location": "LONDON, United Kingdom",
+      "country_code": "GB"
+    },
+    "210804187": {
+      "title": "Lead Architect - Java, Kubernetes",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804187",
+      "location": "Mumbai, Maharashtra, India",
+      "country_code": "IN"
+    },
+    "210804347": {
+      "title": "Lead Cybersecurity Architect, AI/Agentic Security",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804347",
+      "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210805432": {
+      "title": "Reference Data Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805432",
+      "location": "Mumbai, Maharashtra, India",
+      "country_code": "IN"
+    },
+    "210805490": {
+      "title": "Lead Software Engineer - Python, Unix",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805490",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210805751": {
+      "title": "Associate-Financial Analysis-Central Allocations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805751",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210805897": {
+      "title": "Branch Manager - Greater Baltimore Market - Baltimore, Maryland",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805897",
+      "location": "Baltimore, MD, United States",
+      "country_code": "US"
+    },
+    "210805971": {
+      "title": "Associate Banker, 20 Hours, Escondido, CA - Escondido Valley Pkwy Branch",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805971",
+      "location": "Escondido, CA, United States",
+      "country_code": "US"
+    },
+    "210806058": {
+      "title": "Product Enablement Senior Associate - FRRA Innovation",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806058",
+      "location": "Warszawa, Mazowieckie, Poland",
+      "country_code": "PL"
+    },
+    "210806103": {
+      "title": "Compliance Risk Management Lead - Asset & Wealth Management - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806103",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210806206": {
+      "title": "Applied AI ML Associate Senior",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806206",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210806283": {
+      "title": "Branch Operations Lead - Central Square Cambridge (New Build) - Cambridge, MA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806283",
+      "location": "Cambridge, MA, United States",
+      "country_code": "US"
+    },
+    "210806292": {
+      "title": "PT (30 Hours) - Associate Banker - Central Square Cambridge (New Build) - Cambridge, MA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806292",
+      "location": "Cambridge, MA, United States",
+      "country_code": "US"
+    },
+    "210806308": {
+      "title": "PT (30 Hours) - Associate Banker - Central Square Cambridge (New Build) - Cambridge, MA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806308",
+      "location": "Cambridge, MA, United States",
+      "country_code": "US"
+    },
+    "210806533": {
+      "title": "AML Escalations Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806533",
+      "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210806549": {
+      "title": "2027 Applied AI - HR CDAO - Summer Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210806594": {
+      "title": "Executive Director, Product \u2013 Client Onboarding and Documents Platform",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806594",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210806703": {
+      "title": "Software Engineer III ( Java, AWS, SQL)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806703",
+      "location": "Hyderabad, Telangana, India",
+      "country_code": "IN"
+    },
+    "210806720": {
+      "title": "Vice President, Financial Controller \u2013 Global HR",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806720",
+      "location": "Warszawa, Mazowieckie, Poland",
+      "country_code": "PL"
+    },
+    "210807106": {
+      "title": "Latin-American and Canada Resiliency Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807106",
+      "location": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+      "country_code": "AR"
+    },
+    "210807129": {
+      "title": "Full Stack AI Cloud Lead Software Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807129",
+      "location": "OH, United States",
+      "country_code": "US"
+    },
+    "210807427": {
+      "title": "Associate - Control Manager, Internal Controls",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807427",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210807496": {
+      "title": "Cyber Intelligence Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807496",
+      "location": "Washington, DC, United States",
+      "country_code": "US"
+    },
+    "210807831": {
+      "title": "Manager of Software Engineering'",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807831",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210807881": {
+      "title": "Sr. Product Associate - Single Intake Card Marketing Transformation",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807881",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
+    "210808262": {
+      "title": "Project Manager II- Markets Ops Platform Transformation",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808262",
+      "location": "Brooklyn, NY, United States",
+      "country_code": "US"
+    },
+    "210808538": {
+      "title": "Relationship Banker - Bronx East - Bronx, NY",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808538",
+      "location": "Bronx, NY, United States",
+      "country_code": "US"
+    },
+    "210808780": {
+      "title": "Software Engineer III - React/UI, Python backend, ETL/Data Engineering",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808780",
+      "location": "Mumbai, Maharashtra, India",
+      "country_code": "IN"
+    },
+    "210808884": {
+      "title": "Operational Risk Capital and Stress Testing Lead",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808884",
+      "location": "LONDON, United Kingdom",
+      "country_code": "GB"
+    },
+    "210809047": {
+      "title": "Sr Lead Software Engineer - Backend",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809047",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210809190": {
+      "title": "Business Manager - Markets Operations Transformation (Fixed Income, Currencies and Commodities) - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809190",
+      "location": "LONDON, United Kingdom",
+      "country_code": "GB"
+    },
+    "210809543": {
+      "title": "Senior Lead Infrastructure Engineer-NEST",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809543",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210809733": {
+      "title": "Payments Latin America  \u2013 Mexico Strategic Partnership & Innovation \u2013 Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809733",
+      "location": "Ciudad De Mexico, Mexico",
+      "country_code": "MX"
+    },
+    "210809968": {
+      "title": "Lead Software Engineer- Python , AWS , AI",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809968",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210809992": {
+      "title": "Security Engineer II - Endpoint Security Platforms (Employee Compute / GitOps Automation)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809992",
+      "location": "OH, United States",
+      "country_code": "US"
+    },
+    "210810013": {
+      "title": "UX Creative Technologist, Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810013",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210810102": {
+      "title": "Full Time Associate Banker, Magnolia Ave and Tyler Branch, Riverside, CA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810102",
+      "location": "Riverside, CA, United States",
+      "country_code": "US"
+    },
+    "210810145": {
+      "title": "Part Time (30 Hours) Associate Banker, Superstition Springs Branch, Mesa, AZ",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810145",
+      "location": "Mesa, AZ, United States",
+      "country_code": "US"
+    },
+    "210810354": {
+      "title": "Part Time (30 Hours) Associate Banker, Bridgeport West Side Branch, Bridgeport, CT",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810354",
+      "location": "Bridgeport, CT, United States",
+      "country_code": "US"
+    },
+    "210810360": {
+      "title": "Retail Customer Service Account Specialist I",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810360",
+      "location": "Houston, TX, United States",
+      "country_code": "US"
+    },
+    "210810457": {
+      "title": "Part Time (20 Hours) Associate Banker, Chandler Heights and Arizona Ave Branch, Chandler, AZ",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810457",
+      "location": "Chandler, AZ, United States",
+      "country_code": "US"
+    },
+    "210810487": {
+      "title": "Software Engineer III - Java, React, Cloud",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810487",
+      "location": "Hyderabad, Telangana, India",
+      "country_code": "IN"
+    },
+    "210810536": {
+      "title": "Drive the Future Program - Equity Research Team",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810536",
+      "location": "Chile",
+      "country_code": "CL"
+    },
+    "210810547": {
+      "title": "Associate Banker, 30 Hours, Yarmouth, ME - Yarmouth Branch",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810547",
+      "location": "Yarmouth, ME, United States",
+      "country_code": "US"
+    },
+    "210810553": {
+      "title": "Drive the Future Program for Students - Finance (Part-time)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810553",
+      "location": "Mexico",
+      "country_code": "MX"
+    },
+    "210810563": {
+      "title": "Drive the Future Program for Students - Front Office (Part-time)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810563",
+      "location": "Mexico",
+      "country_code": "MX"
+    },
+    "210810573": {
+      "title": "Part Time (20 Hour) Associate Banker, Alton Branch, Alton, IL",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810573",
+      "location": "Alton, IL, United States",
+      "country_code": "US"
+    },
+    "210810589": {
+      "title": "Associate Banker, 30 Hours, Plymouth, MA - Plymouth Commerce Way Branch",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810589",
+      "location": "Plymouth, MA, United States",
+      "country_code": "US"
+    },
+    "210810653": {
+      "title": "Solutions Analyst III",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810653",
+      "location": "Houston, TX, United States",
+      "country_code": "US"
+    },
+    "210810684": {
+      "title": "Home Lending Data Owners Product Manager Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810684",
+      "location": "Seattle, WA, United States",
+      "country_code": "US"
+    },
+    "210810704": {
+      "title": "Part Time (30 Hours) Associate Banker, New Britain Branch, New Britain, CT",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810704",
+      "location": "New Britain, CT, United States",
+      "country_code": "US"
+    },
+    "210810797": {
+      "title": "Drive the Future Program for Students - Technology (Part time)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810797",
+      "location": "Mexico",
+      "country_code": "MX"
+    },
+    "210810805": {
+      "title": "Part Time (30 Hours) Associate Banker, Princeton Branch, Princeton, NJ",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810805",
+      "location": "Princeton, NJ, United States",
+      "country_code": "US"
+    },
+    "210810807": {
+      "title": "Drive the Future Program for Students - Legal (Part-time)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810807",
+      "location": "Mexico",
+      "country_code": "MX"
+    },
+    "210810817": {
+      "title": "Part Time (30 Hours) Associate Banker, Pine Bush Branch, Pine Bush, NY",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810817",
+      "location": "Pine Bush, NY, United States",
+      "country_code": "US"
+    },
+    "210811060": {
+      "title": "Relationship Banker- Westheimer and Eldridge- Houston ,TX",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811060",
+      "location": "Houston, TX, United States",
+      "country_code": "US"
+    },
+    "210811217": {
+      "title": "Associate Banker - Floating (40 Hours), Central Park West",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811217",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210811255": {
+      "title": "Business & Operations Specialist",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811255",
+      "location": "Metro Manila, National Capital Region, Philippines",
+      "country_code": "PH"
+    },
+    "210811281": {
+      "title": "Private Client Banker- North Brunswick, NJ, Princeton Market",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811281",
+      "location": "North Brunswick, NJ, United States",
+      "country_code": "US"
+    },
+    "210811286": {
+      "title": "Relationship Banker- East Valley- Gilbert, AZ",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811286",
+      "location": "Gilbert, AZ, United States",
+      "country_code": "US"
+    },
+    "210811343": {
+      "title": "Private Client Banker-Coors Blvd and Paseo del Norte Branch- Albuquerque, NM",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811343",
+      "location": "Albuquerque, NM, United States",
+      "country_code": "US"
+    },
+    "210811361": {
+      "title": "Private Client Banker-Memorial Villages Branch-Houston, TX",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811361",
+      "location": "Houston, TX, United States",
+      "country_code": "US"
+    },
+    "210811372": {
+      "title": "Relationship Banker - Park Ave and 32nd St - New York, NY",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811372",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210811409": {
+      "title": "2027 Latin American Debt Capital Markets Analyst Internship \u2013 Emerging Talent Summer Experience Program",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811409",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210811430": {
+      "title": "Part Time (30 Hours) Associate Banker, Adair and N 4th Ave Branch, Cornelius, OR",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811430",
+      "location": "Cornelius, OR, United States",
+      "country_code": "US"
+    },
+    "210811443": {
+      "title": "ICB Risk Customer Analytics \u2013 Capital Forecasting Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811443",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210811512": {
+      "title": "AWS Data Analytics Services Product Manager Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811512",
+      "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
+    "210811551": {
+      "title": "Accounting & Finance Analyst, Chase Travel",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811551",
+      "location": "Metro Manila, National Capital Region, Philippines",
+      "country_code": "PH"
+    },
+    "210811574": {
+      "title": "Trading Services Associate I- Portfolio Solutions",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811574",
+      "location": "Mumbai, Maharashtra, India",
+      "country_code": "IN"
+    },
+    "210811583": {
+      "title": "Counterparty Credit Risk Lead - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811583",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210811618": {
+      "title": "Relationship Banker-Eubank Blvd Branch-Albuquerque, NM",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811618",
+      "location": "Albuquerque, NM, United States",
+      "country_code": "US"
+    },
+    "210811628": {
+      "title": "Branch Operations Lead - Plaza Frontenac Branch - Frontenac, MO",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811628",
+      "location": "St Louis, MO, United States",
+      "country_code": "US"
+    },
+    "210811636": {
+      "title": "Private Client Banker-Creekside Park Branch-Tomball TX",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811636",
+      "location": "Tomball, TX, United States",
+      "country_code": "US"
+    },
+    "210811687": {
+      "title": "2027 Market Sales Analyst Internship \u2013 Emerging Talent Summer Experience Program",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811687",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210811701": {
+      "title": "Associate - Commercial Solutions Field Enablement & Change Lead",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811701",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210811703": {
+      "title": "Senior Associate - Commercial Solutions Pitch Strategy & Execution",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811703",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210811763": {
+      "title": "Senior Product Associate, Global Banking - Deal Lifecycle",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811763",
+      "location": "LONDON, United Kingdom",
+      "country_code": "GB"
+    },
+    "210811773": {
+      "title": "Software Engineer III - Java / Python (Full Stack or Back End)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811773",
+      "location": "Sao Paulo, SP, Brazil",
+      "country_code": "BR"
+    },
+    "210811785": {
+      "title": "Security Operations Associate-Vulnerability Management Operations Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811785",
+      "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
+    "210811842": {
+      "title": "Relationship Banker - Riverside Central - Riverside, CA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811842",
+      "location": "Riverside, CA, United States",
+      "country_code": "US"
+    },
+    "210811859": {
+      "title": "2027 Market Risk Management Internship - Emerging Talent Summer Experience Program",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811859",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210811913": {
+      "title": "Securities Services Operations Resiliency Manager, Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811913",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210811963": {
+      "title": "Sales Support Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811963",
+      "location": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+      "country_code": "AR"
+    },
+    "210812024": {
+      "title": "Part Time (30 hours) Associate Banker, Elk Grove Blvd, Elk Grove, CA",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812024",
+      "location": "Elk Grove, CA, United States",
+      "country_code": "US"
+    },
+    "210812057": {
+      "title": "Conversational Design Lead, Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812057",
+      "location": "Brooklyn, NY, United States",
+      "country_code": "US"
+    },
+    "210812058": {
+      "title": "Senior Home Lending Advisor- Noblesville, IN",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812058",
+      "location": "Noblesville, IN, United States",
+      "country_code": "US"
+    },
+    "210812065": {
+      "title": "Executive Administrative Assistant",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812065",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210812150": {
+      "title": "Lead Security Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812150",
+      "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
     "210812200": {
       "title": "Securities Services Operations Resiliency Manager - Executive Director",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812200",
       "location": "Sydney, NSW, Australia",
       "country_code": "AU"
+    },
+    "210812218": {
+      "title": "Executive Director - FX Payment Operations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812218",
+      "location": "Mumbai, Maharashtra, India",
+      "country_code": "IN"
+    },
+    "210812234": {
+      "title": "Payment Lifecycle Specialist",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812234",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210812237": {
+      "title": "Margin Services Operations Service Delivery Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812237",
+      "location": "BOURNEMOUTH, DORSET, United Kingdom",
+      "country_code": "GB"
+    },
+    "210812242": {
+      "title": "Asset Management, Investment Platform \u2013 Business Manager, Hong Kong \u2013 Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812242",
+      "location": "Central and Western, Hong Kong Island, Hong Kong",
+      "country_code": "HK"
+    },
+    "210812243": {
+      "title": "International Private Bank - Supervisory Management - Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812243",
+      "location": "Central and Western, Hong Kong Island, Hong Kong",
+      "country_code": "HK"
+    },
+    "210812260": {
+      "title": "Software Engineer III",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812260",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210812263": {
+      "title": "Associate - Business Management Associate, Operations Analytics and Transformation",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812263",
+      "location": "Mumbai, Maharashtra, India",
+      "country_code": "IN"
+    },
+    "210812300": {
+      "title": "Ops Risk and Control Analyst - Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812300",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210812336": {
+      "title": "Dealer Relationship Manager",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812336",
+      "location": "Seattle, WA, United States",
+      "country_code": "US"
+    },
+    "210812366": {
+      "title": "Technology Support Lead, Cybersecurity Incident Management & Response (IMR)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812366",
+      "location": "Singapore, Singapore",
+      "country_code": "SG"
+    },
+    "210812396": {
+      "title": "Client Relationship - Payments - Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812396",
+      "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
+    "210812421": {
+      "title": "Director of Software Engineering - Data Engineering, PySpark/Spark, Databricks",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812421",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210812423": {
+      "title": "Relationship Banker - Darien, CT",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812423",
+      "location": "Darien, CT, United States",
+      "country_code": "US"
+    },
+    "210812424": {
+      "title": "Hiring Event - Associate Banker (30 Hours) Bronx East - Multiple Locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812424",
+      "location": "Bronx, NY, United States",
+      "country_code": "US"
+    },
+    "210812430": {
+      "title": "Hiring Event - Associate Banker (30 Hours) Central Atlanta, GA West Area - Multiple Locations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812430",
+      "location": "Atlanta, GA, United States",
+      "country_code": "US"
+    },
+    "210812461": {
+      "title": "J.P. Morgan Wealth Management - Private Client Advisor - Daniels Island",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812461",
+      "location": "Charleston, SC, United States",
+      "country_code": "US"
+    },
+    "210812490": {
+      "title": "Infrastructure Engineer II -Kubernetes, Kafka and Python",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812490",
+      "location": "Bengaluru, Karnataka, India",
+      "country_code": "IN"
+    },
+    "210812499": {
+      "title": "Senior Lead Software Engineer - Quant Investment Strategies - Cross Asset - Front Office",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812499",
+      "location": "LONDON, LONDON, United Kingdom",
+      "country_code": "GB"
+    },
+    "210812502": {
+      "title": "Wealth Management - Deposit Product - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812502",
+      "location": "Singapore, Singapore",
+      "country_code": "SG"
+    },
+    "210812507": {
+      "title": "Tier I Online Support Operations Supervisor, Chase Travel",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812507",
+      "location": "Metro Manila, National Capital Region, Philippines",
+      "country_code": "PH"
+    },
+    "210812509": {
+      "title": "Payments - Corporate Payments Sales Associate - Tel Aviv, Israel",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812509",
+      "location": "Tel Aviv - Jaffa, Israel",
+      "country_code": "IL"
+    },
+    "210812553": {
+      "title": "International Private Bank - Digital & Data Transformation - Investments Experience Product Lead \u2013 Executive Director/ Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812553",
+      "location": "Central and Western, Hong Kong Island, Hong Kong",
+      "country_code": "HK"
+    },
+    "210812572": {
+      "title": "ReEntry Program \u2014 Workplace Solutions Outsourcing Lead",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812572",
+      "location": "Cork, Ireland",
+      "country_code": "IE"
+    },
+    "210812581": {
+      "title": "Executive & Employee Social Media Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812581",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210812608": {
+      "title": "Fullstack Software Engineer III - Java/Spring/React (Multiple Positions)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812608",
+      "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210812617": {
+      "title": "Sr Lead Infrastructure Engineer \u2013 Wireless & Enterprise Connectivity",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812617",
+      "location": "Palo Alto, CA, United States",
+      "country_code": "US"
+    },
+    "210812720": {
+      "title": "Data Scientist Lead - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812720",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
     },
     "210762207": {
       "title": "Assessments and Exercises Vice President",
@@ -36,12 +948,6 @@
       "location": "Las Vegas, NV, United States",
       "country_code": "US"
     },
-    "210783008": {
-      "title": "Lead Infrastructure Engineer-Network",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783008",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
-    },
     "210790682": {
       "title": "Lead Software Engineer - IP FS Data Protection and Recovery",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790682",
@@ -52,12 +958,6 @@
       "title": "Software Engineer III - Data Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793381",
       "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
-    },
-    "210794821": {
-      "title": "Software Engineer III-Java, React",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794821",
-      "location": "Mumbai, Maharashtra, India",
       "country_code": "IN"
     },
     "210796537": {
@@ -119,12 +1019,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805374",
       "location": "Mumbai, Maharashtra, India",
       "country_code": "IN"
-    },
-    "210806549": {
-      "title": "2027 Applied AI - HR CDAO - Summer Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
-      "location": "New York, NY, United States",
-      "country_code": "US"
     },
     "210806708": {
       "title": "Global Corporate Banking - Subsidiary Banking Vice President - Amsterdam",
@@ -256,12 +1150,6 @@
       "title": "TCIO Product Controller Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811561",
       "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
-    },
-    "210811567": {
-      "title": "Analytics Solutions Manager",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811567",
-      "location": "Bengaluru, Karnataka, India",
       "country_code": "IN"
     },
     "210811569": {
@@ -588,12 +1476,6 @@
       "location": "LONDON, LONDON, United Kingdom",
       "country_code": "GB"
     },
-    "210794861": {
-      "title": "Technology Support III",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794861",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
-    },
     "210796451": {
       "title": "Branch Manager - CO Metro Central - Denver, CO",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796451",
@@ -708,21 +1590,9 @@
       "location": "Mumbai, Maharashtra, India",
       "country_code": "IN"
     },
-    "210805037": {
-      "title": "Senior Product Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805037",
-      "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
-    },
     "210805139": {
       "title": "SONIC Product Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805139",
-      "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
-    },
-    "210805463": {
-      "title": "Research Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805463",
       "location": "Mumbai, Maharashtra, India",
       "country_code": "IN"
     },
@@ -754,12 +1624,6 @@
       "title": "Associate Relationship Banker- East Greenwich, RI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807116",
       "location": "East Greenwich, RI, United States",
-      "country_code": "US"
-    },
-    "210807310": {
-      "title": "Business Analyst-Business Banking Marketing",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807310",
-      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210807514": {
@@ -797,12 +1661,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808603",
       "location": "Tracy, CA, United States",
       "country_code": "US"
-    },
-    "210808646": {
-      "title": "Lead Software Engineer - Java Low Latency",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808646",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
     },
     "210808961": {
       "title": "Associate Banker, 40 Hours, Lawrence, MA - Lawrence Essex St Branch",
@@ -851,18 +1709,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809670",
       "location": "BOURNEMOUTH, DORSET, United Kingdom",
       "country_code": "GB"
-    },
-    "210809888": {
-      "title": "Software Engineer III - Data analytics, Databricks",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809888",
-      "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
-    },
-    "210809902": {
-      "title": "Lead Software Engineer - Data analytics, Databricks",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809902",
-      "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
     },
     "210809981": {
       "title": "Business Support Management - Expense Management - Associate - Mumbai",
@@ -935,12 +1781,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810477",
       "location": "Sebastopol, CA, United States",
       "country_code": "US"
-    },
-    "210810488": {
-      "title": "Business Management Associate, Commercial & Investment Bank",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810488",
-      "location": "LONDON, United Kingdom",
-      "country_code": "GB"
     },
     "210810491": {
       "title": "Associate Banker, 30 Hours, Hampstead, NC - Belfair Village Branch",
@@ -1104,12 +1944,6 @@
       "location": "Bengaluru, Karnataka, India",
       "country_code": "IN"
     },
-    "210811540": {
-      "title": "Lead Software Engineer-Java",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811540",
-      "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
-    },
     "210811594": {
       "title": "Part Time (30 Hours) Associate Banker, Fleming Island CR 220 Branch, Fleming Island, FL",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811594",
@@ -1121,12 +1955,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811614",
       "location": "LONDON, LONDON, United Kingdom",
       "country_code": "GB"
-    },
-    "210811630": {
-      "title": "Software Engineer III - Python,AWS,Spark",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811630",
-      "location": "New York, NY, United States",
-      "country_code": "US"
     },
     "210811660": {
       "title": "Part Time (30 Hour) Associate Banker, New Build, Beachworx Destin Branch, Niceville, FL",
@@ -1524,18 +2352,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210771552": {
-      "title": "Data Engineer III (Cloud Data Engineering)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771552",
-      "location": "Dublin, Ireland",
-      "country_code": "IE"
-    },
-    "210773611": {
-      "title": "Applied AI/ML Data Scientist - Data & Analytics - Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773611",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
     "210773747": {
       "title": "2027 Global Private Bank - Advisor Analyst Training Program - Geneva",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773747",
@@ -1558,12 +2374,6 @@
       "title": "Lead Infrastructure Engineer ( SDWAN)- Risk Management",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778274",
       "location": "San Francisco, CA, United States",
-      "country_code": "US"
-    },
-    "210779517": {
-      "title": "Sr Lead Infrastructure Engineer \u2013 Wireless & Enterprise Connectivity",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779517",
-      "location": "Palo Alto, CA, United States",
       "country_code": "US"
     },
     "210779734": {
@@ -1641,12 +2451,6 @@
     "210793421": {
       "title": "Software Engineer III - Java Full Stack, React",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793421",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
-    },
-    "210793933": {
-      "title": "Lead Software Engineer - Python, Data, Cloud, AIML",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793933",
       "location": "Bengaluru, Karnataka, India",
       "country_code": "IN"
     },
@@ -1739,12 +2543,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799302",
       "location": "Plano, TX, United States",
       "country_code": "US"
-    },
-    "210799769": {
-      "title": "EMEA Credit Risk Analyst - Diversified Industries",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799769",
-      "location": "LONDON, United Kingdom",
-      "country_code": "GB"
     },
     "210799784": {
       "title": "Relationship Banker - Adair and N 4th Ave Branch - Cornelius, OR (Spanish and English Bilingual Preferred)",
@@ -2256,18 +3054,6 @@
       "location": "Chester, VA, United States",
       "country_code": "US"
     },
-    "210810880": {
-      "title": "Corporate Location Management Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810880",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210810883": {
-      "title": "Software Engineer III - AWS, Terraform and Python",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810883",
-      "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
-    },
     "210810894": {
       "title": "Associate Banker, 20 Hours, Mequon, WI - Mequon Pavilions Branch",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810894",
@@ -2309,12 +3095,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811067",
       "location": "Watsonville, CA, United States",
       "country_code": "US"
-    },
-    "210811092": {
-      "title": "Asset Associate I",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811092",
-      "location": "Metro Manila, National Capital Region, Philippines",
-      "country_code": "PH"
     },
     "210811128": {
       "title": "Assessments & Exercises Vice President - Penetration Testing",
@@ -2664,12 +3444,6 @@
       "location": "BOURNEMOUTH, DORSET, United Kingdom",
       "country_code": "GB"
     },
-    "210811932": {
-      "title": "Cross Line of Business Engagement Marketing Lead-Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811932",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
     "210811976": {
       "title": "Fraud Prevention Go-to-Market Strategy & Sales Enablement - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811976",
@@ -2692,24 +3466,6 @@
       "title": "Applied AI Data Scientist Lead - VP",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811986",
       "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
-    "210811994": {
-      "title": "Paid Social Lead-Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811994",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210811995": {
-      "title": "PT (30 Hours) Associate Banker - Wyomissing Paper Mill Rd (New Build) - Reading, PA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811995",
-      "location": "Reading, PA, United States",
-      "country_code": "US"
-    },
-    "210812000": {
-      "title": "Paid Social Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812000",
-      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210812004": {
@@ -3028,12 +3784,6 @@
       "title": "Global Security - Vulnerable Adult Investigations Manager",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793120",
       "location": "San Francisco, CA, United States",
-      "country_code": "US"
-    },
-    "210794422": {
-      "title": "Infrastructure Engineer III - Terraform, AWS",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794422",
-      "location": "Tampa, FL, United States",
       "country_code": "US"
     },
     "210794566": {
@@ -3438,12 +4188,6 @@
       "location": "Palo Alto, CA, United States",
       "country_code": "US"
     },
-    "210808790": {
-      "title": "Trading Services Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808790",
-      "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
-    },
     "210808802": {
       "title": "Principal Architect: Asset Management",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808802",
@@ -3467,12 +4211,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808946",
       "location": "OH, United States",
       "country_code": "US"
-    },
-    "210808968": {
-      "title": "Trading Service Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808968",
-      "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
     },
     "210809015": {
       "title": "Digital Asset Manager - Product Manager, Vice President",
@@ -3532,12 +4270,6 @@
       "title": "Treasury Sales Group Manager - Commercial Term Lending - Executive Director",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809406",
       "location": "Chicago, IL, United States",
-      "country_code": "US"
-    },
-    "210809483": {
-      "title": "Part Time (20 hours) Associate Banker, Grass Valley Brunswick Branch, Grass Valley, CA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809483",
-      "location": "Grass Valley, CA, United States",
       "country_code": "US"
     },
     "210809497": {
@@ -3624,12 +4356,6 @@
       "location": "Westerville, OH, United States",
       "country_code": "US"
     },
-    "210810189": {
-      "title": "Part Time (30 Hours) Associate Banker, Main St Salinas Branch, Salinas, CA, Bilingual Spanish Required",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810189",
-      "location": "Salinas, CA, United States",
-      "country_code": "US"
-    },
     "210810197": {
       "title": "Branch Manager - Bedford Harwood Branch - Bedford, TX",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810197",
@@ -3697,25 +4423,13 @@
       "country_code": "US"
     },
     "210810470": {
-      "title": "Lead Software Engineer",
+      "title": "Lead Software Engineer - Java, React, Cloud",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810470",
       "location": "Hyderabad, Telangana, India",
       "country_code": "IN"
     },
-    "210810478": {
-      "title": "Part Time (30 hours) Associate Banker, Pacific Palisades Branch, Pacific Palisades, CA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810478",
-      "location": "Pacific Palisades, CA, United States",
-      "country_code": "US"
-    },
-    "210810487": {
-      "title": "Software Engineer III - Fullstack",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810487",
-      "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
-    },
     "210810489": {
-      "title": "Software Engineer III - Fullstack",
+      "title": "Software Engineer III -Java, React, Cloud",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810489",
       "location": "Hyderabad, Telangana, India",
       "country_code": "IN"
@@ -3906,12 +4620,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210811049": {
-      "title": "Executive Director - Operational Resiliency Crisis Management",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811049",
-      "location": "Washington, DC, United States",
-      "country_code": "US"
-    },
     "210811104": {
       "title": "Administrative Assistant, Commercial & Investment Bank",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811104",
@@ -3983,12 +4691,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811276",
       "location": "Gilbert, AZ, United States",
       "country_code": "US"
-    },
-    "210811292": {
-      "title": "Private Credit Investment Specialist",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811292",
-      "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
     },
     "210811291": {
       "title": "Vice President, Relationship Manager (High-Net-Worth) - JPMorgan Private Client - Los Angeles",
@@ -4062,12 +4764,6 @@
       "location": "Des Moines, IA, United States",
       "country_code": "US"
     },
-    "210811527": {
-      "title": "Operations Automation Analyst - Client Onboarding Operations",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811527",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
-    },
     "210811535": {
       "title": "Analyst / Associate - Office of Senior Country Business Manager/COO India",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811535",
@@ -4079,12 +4775,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811539",
       "location": "Hong Kong",
       "country_code": "HK"
-    },
-    "210811544": {
-      "title": "Lead Software Engineer - Java Fullstack",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811544",
-      "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
     },
     "210811549": {
       "title": "Lead Software Engineer - Java/Python/Golang/AWS/Kubernetes",
@@ -4422,12 +5112,6 @@
       "location": "Bristol, WI, United States",
       "country_code": "US"
     },
-    "210779001": {
-      "title": "Software Engineer III",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779001",
-      "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
-    },
     "210779279": {
       "title": "J.P. Morgan Wealth Management - Private Client Advisor (Kenosha South Branch) - Kenosha, WI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779279",
@@ -4505,12 +5189,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786390",
       "location": "Dublin, Ireland",
       "country_code": "IE"
-    },
-    "210788582": {
-      "title": "Technology Support  Director- Digital Enablement Production Management",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788582",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
     },
     "210788623": {
       "title": "International Consumer Banking AI/ML Governance Control Manager - Vice President",
@@ -4698,12 +5376,6 @@
       "location": "Brookline, MA, United States",
       "country_code": "US"
     },
-    "210806705": {
-      "title": "Lead Data Architect- ( Data Architect with Data Modelling/ Data Governance/ Metadata Management, Erwin )",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806705",
-      "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
-    },
     "210806886": {
       "title": "Associate Banker, 30 Hours, Chesterfield, MI - Gratiot and 23 Mile Branch",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806886",
@@ -4798,12 +5470,6 @@
       "title": "Senior Home Lending Advisor - Groton, CT",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808051",
       "location": "Groton, CT, United States",
-      "country_code": "US"
-    },
-    "210808054": {
-      "title": "Part Time (20 hours) Associate Banker, Story Rd Branch, San Jose, CA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808054",
-      "location": "San Jose, CA, United States",
       "country_code": "US"
     },
     "210808296": {
@@ -5196,12 +5862,6 @@
       "location": "Gilbert, AZ, United States",
       "country_code": "US"
     },
-    "210810299": {
-      "title": "Fund Servicing Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810299",
-      "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
-    },
     "210810300": {
       "title": "Investment Phone Specialist - JPMorgan Wealth Management - Columbus, OH",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810300",
@@ -5340,18 +6000,6 @@
       "location": "LONDON, United Kingdom",
       "country_code": "GB"
     },
-    "210810804": {
-      "title": "Lead Software Engineer - Python/ Java & Infrastructure",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810804",
-      "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
-    },
-    "210810816": {
-      "title": "Lead Software Engineer - Python/ Java & Infrastructure",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810816",
-      "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
-    },
     "210810823": {
       "title": "Private Client Banker - Spotswood Summerhill Rd. Branch - East Brunswick, NJ",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810823",
@@ -5477,12 +6125,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811069",
       "location": "Tampa, FL, United States",
       "country_code": "US"
-    },
-    "210811085": {
-      "title": "Lead Software Engineer Javafullstack AWS, agentic",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811085",
-      "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
     },
     "210811098": {
       "title": "Australia and New Zealand Government Relations Vice President / Executive Director",
@@ -5664,12 +6306,6 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210774004": {
-      "title": "Software Engineer III - Java",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774004",
-      "location": "BOURNEMOUTH, DORSET, United Kingdom",
-      "country_code": "GB"
-    },
     "210774109": {
       "title": "Associate Banker - Healthcare Services- Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774109",
@@ -5723,12 +6359,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780012",
       "location": "Metro Manila, National Capital Region, Philippines",
       "country_code": "PH"
-    },
-    "210780917": {
-      "title": "Principal Software Engineer -Forward Deployment Engineer - Databricks",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780917",
-      "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
     },
     "210781318": {
       "title": "Associate Banker, 30 Hours, Southeast Valley, AZ Area - Multiple Locations",
@@ -5831,12 +6461,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797233",
       "location": "Tempe, AZ, United States",
       "country_code": "US"
-    },
-    "210797864": {
-      "title": "Reference Data Specialist",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797864",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
     },
     "210798894": {
       "title": "Group AI Product Director",
@@ -6064,12 +6688,6 @@
       "title": "J.P. Morgan Wealth Management - Private Client Investment Associate - San Antonio, TX",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807729",
       "location": "San Antonio, TX, United States",
-      "country_code": "US"
-    },
-    "210807737": {
-      "title": "Part Time (30 Hours) Associate Banker, Stockton St Chinatown SF Branch, San Francisco, CA Bilingual Cantonese Required",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807737",
-      "location": "San Francisco, CA, United States",
       "country_code": "US"
     },
     "210807751": {
@@ -6930,12 +7548,6 @@
       "location": "Houston, TX, United States",
       "country_code": "US"
     },
-    "210789633": {
-      "title": "Lead Infrastructure Engineer - NICE, NICE NTR-X, Verint, VOIP, AWS",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789633",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
-    },
     "210789668": {
       "title": "Senior Product Delivery Associate - Product & Transformation Connectivity",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789668",
@@ -7218,40 +7830,16 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210806058": {
-      "title": "Product Enablement Senior Associate - FRRA Innovation",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806058",
-      "location": "Warszawa, Mazowieckie, Poland",
-      "country_code": "PL"
-    },
     "210806187": {
       "title": "Relationship Manager Area Manager - Executive Director",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806187",
       "location": "Valparaiso, IN, United States",
       "country_code": "US"
     },
-    "210806283": {
-      "title": "Branch Operations Lead - Central Square Cambridge (New Build) - Cambridge, MA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806283",
-      "location": "Cambridge, MA, United States",
-      "country_code": "US"
-    },
     "210806284": {
       "title": "Lead Software Engineer - Software Architect / AI Supply Chain / Java",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806284",
       "location": "Houston, TX, United States",
-      "country_code": "US"
-    },
-    "210806292": {
-      "title": "PT (30 Hours) - Associate Banker - Central Square Cambridge (New Build) - Cambridge, MA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806292",
-      "location": "Cambridge, MA, United States",
-      "country_code": "US"
-    },
-    "210806308": {
-      "title": "PT (30 Hours) - Associate Banker - Central Square Cambridge (New Build) - Cambridge, MA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806308",
-      "location": "Cambridge, MA, United States",
       "country_code": "US"
     },
     "210806383": {
@@ -7342,12 +7930,6 @@
       "title": "Vice President, Global Technology Strategy",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807174",
       "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210807253": {
-      "title": "Transactions Specialist I",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807253",
-      "location": "Tempe, AZ, United States",
       "country_code": "US"
     },
     "210807276": {
@@ -7530,12 +8112,6 @@
       "location": "BOURNEMOUTH, DORSET, United Kingdom",
       "country_code": "GB"
     },
-    "210808663": {
-      "title": "Operations Analyst Program \u2013 Japan",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808663",
-      "location": "Tokyo-To, Japan",
-      "country_code": "JP"
-    },
     "210808725": {
       "title": "Embedded Payments Product Solutions Manager- Payments - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808725",
@@ -7656,12 +8232,6 @@
       "location": "Colorado Springs, CO, United States",
       "country_code": "US"
     },
-    "210809160": {
-      "title": "Business Relationship Manager I - Officer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809160",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210809257": {
       "title": "Associate Banker, 30 Hours, Bethlehem, PA - Bethlehem Branch",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809257",
@@ -7728,12 +8298,6 @@
       "location": "Lincoln, NE, United States",
       "country_code": "US"
     },
-    "210809403": {
-      "title": "Associate Banker, 20 hour, Northeast 8th & 106th, Bellevue, WA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809403",
-      "location": "Bellevue, WA, United States",
-      "country_code": "US"
-    },
     "210809419": {
       "title": "Branch Manager - Eastern Queens - Little Neck, NY",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809419",
@@ -7781,12 +8345,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809533",
       "location": "McLean, VA, United States",
       "country_code": "US"
-    },
-    "210809583": {
-      "title": "Lead Software Engineer \u2013 Platform Engineering, Distributed Systems & Resiliency",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809583",
-      "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
     },
     "210809613": {
       "title": "Branch Operations Lead - South Jersey Market Hire - Marlton, NJ",
@@ -8214,12 +8772,6 @@
       "location": "Singapore, Singapore",
       "country_code": "SG"
     },
-    "210744211": {
-      "title": "Lead Software Engineer - Senior Java Full Stack Developer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744211",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
     "210744317": {
       "title": "Senior Home Lending Advisor-Toledo, OH",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744317",
@@ -8364,23 +8916,11 @@
       "location": "Newark, DE, United States",
       "country_code": "US"
     },
-    "210793127": {
-      "title": "Part Time (30 hours) Associate Banker, Pacific Ave and Benjamin Holt Ave Branch, Stockton, CA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793127",
-      "location": "Stockton, CA, United States",
-      "country_code": "US"
-    },
     "210794242": {
       "title": "Servicing Travel Advisor III - Chase Travel (Remote - Tempe, AZ)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794242",
       "location": "Tempe, AZ, United States",
       "country_code": "US"
-    },
-    "210794269": {
-      "title": "Client Services Delivery Associate / Sr Associate (PMO)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794269",
-      "location": "Sao Paulo, SP, Brazil",
-      "country_code": "BR"
     },
     "210794633": {
       "title": "Asset Management - Investment Grade Trader - Associate",
@@ -8458,546 +8998,6 @@
       "title": "Check Product Management Lead - Deluxe",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799654",
       "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210799850": {
-      "title": "Client Service Associate II",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799850",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
-    "210800139": {
-      "title": "Branch Manager - Fort Worth Market - Fort Worth, TX.",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800139",
-      "location": "Fort Worth, TX, United States",
-      "country_code": "US"
-    },
-    "210800488": {
-      "title": "Generative and Agentic AI Operational Risk Management Lead- Compliance, Conduct and Operational Risk - Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800488",
-      "location": "Brooklyn, NY, United States",
-      "country_code": "US"
-    },
-    "210801026": {
-      "title": "Lead Software Engineer - Java/AWS/Agentic",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801026",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
-    "210801179": {
-      "title": "Global Investment Banking - ECM Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801179",
-      "location": "Seoul, Korea, Republic of",
-      "country_code": "KR"
-    },
-    "210801788": {
-      "title": "Sr. Lead Infrastructure Engineer - Mainframe and Midrange Storage",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801788",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
-    "210802914": {
-      "title": "J.P. Morgan Wealth Management - Senior Product Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802914",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210803391": {
-      "title": "Lead Architect",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803391",
-      "location": "Dublin, Ireland",
-      "country_code": "IE"
-    },
-    "210803766": {
-      "title": "Applied AI ML Lead RISK MODELING",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803766",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
-    },
-    "210803804": {
-      "title": "Senior Manager of Software Engineering \u2013 Java, Distributed Platforms & AI/Agentic Engineering",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803804",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
-    },
-    "210803897": {
-      "title": "Technology Support III: Merchants Services Production Engineering",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803897",
-      "location": "Tampa, FL, United States",
-      "country_code": "US"
-    },
-    "210803952": {
-      "title": "Structured Working Capital Transactor - Payments - Executive Director",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803952",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210804341": {
-      "title": "EMEA Product Administration \u2013 NAV & Valuation Oversight \u2013 Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804341",
-      "location": "LONDON, LONDON, United Kingdom",
-      "country_code": "GB"
-    },
-    "210804349": {
-      "title": "Relationship Banker - Cleveland West - Beachwood, OH",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804349",
-      "location": "Beachwood, OH, United States",
-      "country_code": "US"
-    },
-    "210804356": {
-      "title": "Implementation Specialist - Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804356",
-      "location": "Ciudad De Mexico, Mexico",
-      "country_code": "MX"
-    },
-    "210804397": {
-      "title": "Retail: Customer Service Account Specialist I Bilingual English and Spanish Required",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804397",
-      "location": "Heathrow, FL, United States",
-      "country_code": "US"
-    },
-    "210804485": {
-      "title": "Global Security Investigator - Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804485",
-      "location": "Tampa, FL, United States",
-      "country_code": "US"
-    },
-    "210804848": {
-      "title": "Private Client Banker - Dixie Maybee Branch - Clarkston MI",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804848",
-      "location": "Clarkston, MI, United States",
-      "country_code": "US"
-    },
-    "210805021": {
-      "title": "Analytics Solutions Assoc Senior",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805021",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
-    },
-    "210805220": {
-      "title": "Vice President, Central Planning & Analysis (P&A) and Transformation",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805220",
-      "location": "Brooklyn, NY, United States",
-      "country_code": "US"
-    },
-    "210805710": {
-      "title": "Lead Software Engineer - AWS, Python/Java - AI/ML",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805710",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
-    "210805810": {
-      "title": "Assessments & Exercises Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805810",
-      "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
-    "210805861": {
-      "title": "Software Engineer II - Java Fullstack / AWS",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805861",
-      "location": "Austin, TX, United States",
-      "country_code": "US"
-    },
-    "210806090": {
-      "title": "Part Time (30 Hours) Associate Banker, Baldwin Place Branch, Baldwin Place, NY",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806090",
-      "location": "Baldwin Place, NY, United States",
-      "country_code": "US"
-    },
-    "210806193": {
-      "title": "Global Research \u2013 Agentic AI & Data Science Lead \u2013 Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806193",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210806346": {
-      "title": "Business Assistant (all genders)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806346",
-      "location": "Frankfurt a. Main, Germany",
-      "country_code": "DE"
-    },
-    "210806603": {
-      "title": "Global Security - Security Officer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806603",
-      "location": "KY, United States",
-      "country_code": "US"
-    },
-    "210806629": {
-      "title": "Transactions Specialist I",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806629",
-      "location": "Tempe, AZ, United States",
-      "country_code": "US"
-    },
-    "210806836": {
-      "title": "Data Owner Lead",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806836",
-      "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
-    "210806842": {
-      "title": "Executive Assistant - Global Banking",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806842",
-      "location": "Warszawa, Mazowieckie, Poland",
-      "country_code": "PL"
-    },
-    "210806954": {
-      "title": "Senior Product Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806954",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210806971": {
-      "title": "Private Client Banker - Southcenter Branch - Tukwila, WA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806971",
-      "location": "Tukwila, WA, United States",
-      "country_code": "US"
-    },
-    "210806982": {
-      "title": "Relationship Banker - Default Jordan Creek - West Des Moines, IA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806982",
-      "location": "West Des Moines, IA, United States",
-      "country_code": "US"
-    },
-    "210806996": {
-      "title": "Relationship Banker - Default Jordan Creek - West Des Moines, IA.",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806996",
-      "location": "West Des Moines, IA, United States",
-      "country_code": "US"
-    },
-    "210807029": {
-      "title": "Private Client Experience Specialist - Bilingual English & Mandarin Required",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807029",
-      "location": "Tempe, AZ, United States",
-      "country_code": "US"
-    },
-    "210807111": {
-      "title": "Associate - Compensation & Benefits",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807111",
-      "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
-    },
-    "210807288": {
-      "title": "Associate Banker, 20 Hours, South Euclid, OH - Cedar and Warrensville Branch",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807288",
-      "location": "South Euclid, OH, United States",
-      "country_code": "US"
-    },
-    "210807347": {
-      "title": "Associate Relationship Banker - Aksarben Village Branch - Omaha, NE",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807347",
-      "location": "Omaha, NE, United States",
-      "country_code": "US"
-    },
-    "210807361": {
-      "title": "Data Engineer III",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807361",
-      "location": "Hyderabad, Telangana, India",
-      "country_code": "IN"
-    },
-    "210807421": {
-      "title": "Lead Technical Program Manager",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807421",
-      "location": "LONDON, LONDON, United Kingdom",
-      "country_code": "GB"
-    },
-    "210807444": {
-      "title": "Wholesale Credit Risk Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807444",
-      "location": "Mumbai, Maharashtra, India",
-      "country_code": "IN"
-    },
-    "210807501": {
-      "title": "Business Resiliency Associate - Quality & Controls",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807501",
-      "location": "Tempe, AZ, United States",
-      "country_code": "US"
-    },
-    "210807505": {
-      "title": "Securities Services - Product Development - Custody Settlements - Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807505",
-      "location": "Tampa, FL, United States",
-      "country_code": "US"
-    },
-    "210807532": {
-      "title": "Home Lending Data Product Manager Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807532",
-      "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
-    "210807551": {
-      "title": "Branch Operations Lead - Long Island Central",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807551",
-      "location": "East Meadow, NY, United States",
-      "country_code": "US"
-    },
-    "210807563": {
-      "title": "Sr Lead Software Engineer- Commodities- Python",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807563",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210807695": {
-      "title": "Relationship Banker - SC St Louis Market - St Louis, MO",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807695",
-      "location": "St Louis, MO, United States",
-      "country_code": "US"
-    },
-    "210807772": {
-      "title": "Mainframe developer/Software Engineer III",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807772",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
-    "210807851": {
-      "title": "Search Engine Optimization/Answer Engine Optimization (SEO/AEO) Strategy Lead-Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807851",
-      "location": "Chicago, IL, United States",
-      "country_code": "US"
-    },
-    "210807860": {
-      "title": "Fund Services Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807860",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
-    },
-    "210808002": {
-      "title": "Branch Manager - Merle Hay Branch - Des Moines, IA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808002",
-      "location": "Des Moines, IA, United States",
-      "country_code": "US"
-    },
-    "210808026": {
-      "title": "Vice President, Business Resiliency Manager, HR",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808026",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210808053": {
-      "title": "Marketing Senior Associate: Early Engagement",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808053",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
-    "210808061": {
-      "title": "Senior Home Lending Advisor- Westerville, OH",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808061",
-      "location": "Westerville, OH, United States",
-      "country_code": "US"
-    },
-    "210808087": {
-      "title": "Strategic Analytics - Bus Card VP",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808087",
-      "location": "Bengaluru, Karnataka, India",
-      "country_code": "IN"
-    },
-    "210808097": {
-      "title": "Early Careers Recruiter - Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808097",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
-    "210808115": {
-      "title": "Senior Home Lending Advisor - Medway Main St - Medway, MA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808115",
-      "location": "Medway, MA, United States",
-      "country_code": "US"
-    },
-    "210808134": {
-      "title": "Part Time (30 Hours) Associate Banker, Geary and 21st Branch, San Francisco, CA Bilingual Cantonese Preferred",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808134",
-      "location": "San Francisco, CA, United States",
-      "country_code": "US"
-    },
-    "210808166": {
-      "title": "J.P. Morgan Wealth Management - National Branch Personal Advisors Team Leader - Tempe, AZ",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808166",
-      "location": "Tempe, AZ, United States",
-      "country_code": "US"
-    },
-    "210808273": {
-      "title": "Associate Banker, 30 Hours, Herndon, VA - Village Center at Dulles Branch",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808273",
-      "location": "Herndon, VA, United States",
-      "country_code": "US"
-    },
-    "210808285": {
-      "title": "Wholesale Credit Risk Product - Limits/Payments - Executive Director",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808285",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
-    "210808298": {
-      "title": "Senior Home Lending Advisor - Philadelphia PA - Northeast Tower Branch",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808298",
-      "location": "Philadelphia, PA, United States",
-      "country_code": "US"
-    },
-    "210808304": {
-      "title": "Senior Home Lending Advisor - Pittsburgh PA - Allegheny Verona Branch",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808304",
-      "location": "Pittsburgh, PA, United States",
-      "country_code": "US"
-    },
-    "210808308": {
-      "title": "Senior Home Lending Advisor - Wilkesbarre PA - 25 Public Square Branch",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808308",
-      "location": "Wilkes Barre, PA, United States",
-      "country_code": "US"
-    },
-    "210808314": {
-      "title": "Senior Home Lending Advisor - Easton PA - Easton Freemansburg Ave Branch",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808314",
-      "location": "Easton, PA, United States",
-      "country_code": "US"
-    },
-    "210808316": {
-      "title": "Senior Home Lending Advisor - Harrisburg PA - Downtown Harrisburgh Branch",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808316",
-      "location": "Harrisburg, PA, United States",
-      "country_code": "US"
-    },
-    "210808415": {
-      "title": "Experience Design, Senior Associate-Home Lending",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808415",
-      "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
-    "210808458": {
-      "title": "Relationship Banker - Bressi Ranch Branch - Carlsbad, CA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808458",
-      "location": "Carlsbad, CA, United States",
-      "country_code": "US"
-    },
-    "210808580": {
-      "title": "Relationship Banker - Minnesota Central Market",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808580",
-      "location": "Plymouth, MN, United States",
-      "country_code": "US"
-    },
-    "210808674": {
-      "title": "Commercial & Investment Bank Finance & Risk - Program Management - Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808674",
-      "location": "LONDON, LONDON, United Kingdom",
-      "country_code": "GB"
-    },
-    "210808755": {
-      "title": "Relationship Banker - Santa Barbara Market- Ventura, CA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808755",
-      "location": "Ventura, CA, United States",
-      "country_code": "US"
-    },
-    "210808799": {
-      "title": "Payments - London - 2027 ReEntry Program",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808799",
-      "location": "LONDON, LONDON, United Kingdom",
-      "country_code": "GB"
-    },
-    "210808817": {
-      "title": "Relationship Banker-Six Mile Newburgh - Livonia, MI",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808817",
-      "location": "Livonia, MI, United States",
-      "country_code": "US"
-    },
-    "210808836": {
-      "title": "Firmwide Operations - United States - 2027 ReEntry Program",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808836",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
-    "210808885": {
-      "title": "Associate Banker, 20 Hours, Lima, OH - Cable Rd Branch",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808885",
-      "location": "Lima, OH, United States",
-      "country_code": "US"
-    },
-    "210808894": {
-      "title": "Software Engineer III-Gen AI/RAG/Python",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808894",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
-    "210808993": {
-      "title": "Associate Banker, 30 Hours, Temple, PA - Temple 5th Street Hwy Branch",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808993",
-      "location": "Temple, PA, United States",
-      "country_code": "US"
-    },
-    "210809022": {
-      "title": "Branch Operations Lead - Coon Rapids- Coon Rapids , MN",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809022",
-      "location": "Coon Rapids, MN, United States",
-      "country_code": "US"
-    },
-    "210809065": {
-      "title": "J.P. Morgan Wealth Management-Financial Advisor Team Lead -  Atlanta, GA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809065",
-      "location": "Atlanta, GA, United States",
-      "country_code": "US"
-    },
-    "210809069": {
-      "title": "Securities Services - Triparty Relationship Manager -  Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809069",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210809152": {
-      "title": "Technology, Data and Product - United States - 2027 ReEntry Program",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809152",
-      "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
-    "210809159": {
-      "title": "Finance and Business Management - Experienced Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809159",
-      "location": "Sydney, NSW, Australia",
-      "country_code": "AU"
-    },
-    "210809209": {
-      "title": "GCB NAM KYC Renewals Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809209",
-      "location": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
-      "country_code": "AR"
-    },
-    "210809220": {
-      "title": "Cash Management Sales Strategy Support Analyst II",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809220",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
-    "210809279": {
-      "title": "Branch Manager- Flint/Saginaw Market, MI",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809279",
-      "location": "Flint, MI, United States",
-      "country_code": "US"
-    },
-    "210809313": {
-      "title": "Business Relationship Manager Senior - Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809313",
-      "location": "Tampa, FL, United States",
-      "country_code": "US"
-    },
-    "210809328": {
-      "title": "Business Relationship Manager I - Officer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809328",
-      "location": "Louisville, KY, United States",
-      "country_code": "US"
-    },
-    "210809336": {
-      "title": "Director of Software Engineering-Site Reliability",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809336",
-      "location": "Palo Alto, CA, United States",
-      "country_code": "US"
-    },
-    "210809350": {
-      "title": "Public Finance - Project Finance & Infrastructure Advisory- Executive Director",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809350",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210809354": {
-      "title": "Business Relationship Manager Area Manager - Executive Director",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809354",
-      "location": "Indianapolis, IN, United States",
       "country_code": "US"
     }
   },
@@ -13641,11 +13641,29 @@
     }
   },
   "Amazon": {
+    "10615657": {
+      "title": "Sr.FinOps Analyst -AP, AP - Expense Audit Team",
+      "url": "https://www.amazon.jobs/en/jobs/10615657/sr-finops-analyst-ap-ap-expense-audit-team",
+      "location": "Hyderabad, Telangana, IND",
+      "country_code": "IND"
+    },
     "10615380": {
       "title": "Senior Indirect Tax Analyst, Taxonomy",
       "url": "https://www.amazon.jobs/en/jobs/10615380/senior-indirect-tax-analyst-taxonomy",
       "location": "Barcelona, Catalonia, ESP",
       "country_code": "ESP"
+    },
+    "10615968": {
+      "title": "Functional App Analyst, AFFS Accounting Onboarding ",
+      "url": "https://www.amazon.jobs/en/jobs/10615968/functional-app-analyst-affs-accounting-onboarding",
+      "location": "Pune, Maharashtra, IND",
+      "country_code": "IND"
+    },
+    "10615969": {
+      "title": "Functional App Analyst, AFFS Accounting Onboarding ",
+      "url": "https://www.amazon.jobs/en/jobs/10615969/functional-app-analyst-affs-accounting-onboarding",
+      "location": "Pune, Maharashtra, IND",
+      "country_code": "IND"
     },
     "10615307": {
       "title": "2027 Financial Analyst Intern",
@@ -13671,11 +13689,35 @@
       "location": "Shanghai, CHN",
       "country_code": "CHN"
     },
+    "10615630": {
+      "title": "Business Analyst, WHS Data",
+      "url": "https://www.amazon.jobs/en/jobs/10615630/business-analyst-whs-data",
+      "location": "Bengaluru, Karnataka, IND",
+      "country_code": "IND"
+    },
     "10614058": {
       "title": "Continuous Improvement Manager, ICQA (Inventory Control and Quality Assurance), ICQA ",
       "url": "https://www.amazon.jobs/en/jobs/10614058/continuous-improvement-manager-icqa-inventory-control-and-quality-assurance-icqa",
       "location": "Rovigo, Veneto, ITA",
       "country_code": "ITA"
+    },
+    "10615701": {
+      "title": "Capacity Planning Analyst, EU AMZL UTR Productivity",
+      "url": "https://www.amazon.jobs/en/jobs/10615701/capacity-planning-analyst-eu-amzl-utr-productivity",
+      "location": "Clichy, Ile-de-France, FRA",
+      "country_code": "FRA"
+    },
+    "10615974": {
+      "title": "Sr. Data Engineer, WW Pricing Data and Insights",
+      "url": "https://www.amazon.jobs/en/jobs/10615974/sr-data-engineer-ww-pricing-data-and-insights",
+      "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
+    "10615702": {
+      "title": "Capacity Planning Analyst, EU AMZL UTR Productivity",
+      "url": "https://www.amazon.jobs/en/jobs/10615702/capacity-planning-analyst-eu-amzl-utr-productivity",
+      "location": "Barcelona, Catalonia, ESP",
+      "country_code": "ESP"
     },
     "10612972": {
       "title": "Business Analyst II - AMZ10563821",
@@ -13755,16 +13797,16 @@
       "location": "Barcelona, Catalonia, ESP",
       "country_code": "ESP"
     },
-    "10611447": {
-      "title": "Senior Tax Analyst, VAT Compliance",
-      "url": "https://www.amazon.jobs/en/jobs/10611447/senior-tax-analyst-vat-compliance",
-      "location": "Bengaluru, Karnataka, IND",
-      "country_code": "IND"
-    },
     "10610151": {
       "title": "Tax Analyst, US International Tax",
       "url": "https://www.amazon.jobs/en/jobs/10610151/tax-analyst-us-international-tax",
       "location": "Hyderabad, Telangana, IND",
+      "country_code": "IND"
+    },
+    "10615642": {
+      "title": "Finance Analyst II, Finance And Business Services (FABS)",
+      "url": "https://www.amazon.jobs/en/jobs/10615642/finance-analyst-ii-finance-and-business-services-fabs",
+      "location": "Bengaluru, Karnataka, IND",
       "country_code": "IND"
     },
     "10609940": {
@@ -13790,18 +13832,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10609766/compliance-analyst-safety-nast",
       "location": "Nashville, Tennessee, USA",
       "country_code": "USA"
-    },
-    "10613876": {
-      "title": "Especialista em Auditoria de Fretes - Contas \u00e0 Pagar, ATS Strategy and OPS Excellence ",
-      "url": "https://www.amazon.jobs/en/jobs/10613876/especialista-em-auditoria-de-fretes-contas-a-pagar-ats-strategy-and-ops-excellence",
-      "location": "Sao Paulo, Sao Paulo, BRA",
-      "country_code": "BRA"
-    },
-    "10609354": {
-      "title": "Sr. Analyst, Last Mile volume, EU LTP Last Mile Analytics",
-      "url": "https://www.amazon.jobs/en/jobs/10609354/sr-analyst-last-mile-volume-eu-ltp-last-mile-analytics",
-      "location": "Barcelona, Catalonia, ESP",
-      "country_code": "ESP"
     },
     "10608874": {
       "title": "Financial Analyst III - AMZ10564135",
@@ -13850,6 +13880,12 @@
       "url": "https://www.amazon.jobs/en/jobs/10608435/business-analyst-ii-amz10563906",
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
+    },
+    "10616067": {
+      "title": "Transportation Program Manager, ROW Transportation Execution",
+      "url": "https://www.amazon.jobs/en/jobs/10616067/transportation-program-manager-row-transportation-execution",
+      "location": "Sao Paulo, Sao Paulo, BRA",
+      "country_code": "BRA"
     },
     "10615131": {
       "title": "Physical SOC Analyst, Strategic Security Design and Operations (SSDO)",
@@ -13965,6 +14001,12 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
+    "10615622": {
+      "title": "Business Analyst I, Business assessment and reinforcement (BAR)",
+      "url": "https://www.amazon.jobs/en/jobs/10615622/business-analyst-i-business-assessment-and-reinforcement-bar",
+      "location": "Hyderabad, Telangana, IND",
+      "country_code": "IND"
+    },
     "10611136": {
       "title": "GSS - Non Tech Sourcing Recruiter , WWAS TA C Sourcing",
       "url": "https://www.amazon.jobs/en/jobs/10611136/gss-non-tech-sourcing-recruiter-wwas-ta-c-sourcing",
@@ -13986,7 +14028,7 @@
     "10611134": {
       "title": "GSS - Non Tech Sourcing Recruiter , WWAS TA C Sourcing",
       "url": "https://www.amazon.jobs/en/jobs/10611134/gss-non-tech-sourcing-recruiter-wwas-ta-c-sourcing",
-      "location": "Mumbai, Maharashtra, IND",
+      "location": "Uttar Pradesh, IND",
       "country_code": "IND"
     },
     "10605725": {
@@ -14205,12 +14247,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10604690": {
-      "title": "Finance Manager, Finance Transformation and Analytics - North America Customer Fullfillment",
-      "url": "https://www.amazon.jobs/en/jobs/10604690/finance-manager-finance-transformation-and-analytics-north-america-customer-fullfillment",
-      "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
     "10605867": {
       "title": "Assistente de Opera\u00e7\u00f5es (PA), Inbound",
       "url": "https://www.amazon.jobs/en/jobs/10605867/assistente-de-operacoes-pa-inbound",
@@ -14318,12 +14354,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10605548/sr-business-analyst-global-data-analytics-gda-finance-operations",
       "location": "Bratislava, Bratislavsk\u00fd kraj, SVK",
       "country_code": "SVK"
-    },
-    "10602478": {
-      "title": "Senior Financial Analyst, Global Procurement Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10602478/senior-financial-analyst-global-procurement-finance",
-      "location": "Luxembourg, LUX",
-      "country_code": "LUX"
     },
     "10601948": {
       "title": "Compliance Analyst, Safety Monitoring, NAST Compliance",
@@ -14565,6 +14595,12 @@
       "location": "Hyderabad, Telangana, IND",
       "country_code": "IND"
     },
+    "10597088": {
+      "title": "Quality Analyst, CMT",
+      "url": "https://www.amazon.jobs/en/jobs/10597088/quality-analyst-cmt",
+      "location": "Bengaluru, Karnataka, IND",
+      "country_code": "IND"
+    },
     "10594741": {
       "title": "Instock Manager III - AMZ21079.9",
       "url": "https://www.amazon.jobs/en/jobs/10594741/instock-manager-iii-amz21079-9",
@@ -14730,12 +14766,6 @@
     "10596111": {
       "title": "Risk Analyst, Amazon Leo - Fraud and Abuse",
       "url": "https://www.amazon.jobs/en/jobs/10596111/risk-analyst-amazon-leo-fraud-and-abuse",
-      "location": "Redmond, Washington, USA",
-      "country_code": "USA"
-    },
-    "10591155": {
-      "title": "Risk Analyst, Amazon Leo - Fraud and Abuse",
-      "url": "https://www.amazon.jobs/en/jobs/10591155/risk-analyst-amazon-leo-fraud-and-abuse",
       "location": "Redmond, Washington, USA",
       "country_code": "USA"
     },
@@ -14910,12 +14940,6 @@
     "10596303": {
       "title": "Sr. Associate - Quality Analyst, Global Solutions & Risk Compliance (GSRC)",
       "url": "https://www.amazon.jobs/en/jobs/10596303/sr-associate-quality-analyst-global-solutions-risk-compliance-gsrc",
-      "location": "Bengaluru, Karnataka, IND",
-      "country_code": "IND"
-    },
-    "10595106": {
-      "title": "Sr. Associate - Quality Analyst, Global Solutions & Risk Compliance (GSRC)",
-      "url": "https://www.amazon.jobs/en/jobs/10595106/sr-associate-quality-analyst-global-solutions-risk-compliance-gsrc",
       "location": "Bengaluru, Karnataka, IND",
       "country_code": "IND"
     },
@@ -15435,12 +15459,6 @@
       "location": "Cairo, EGY",
       "country_code": "EGY"
     },
-    "10579981": {
-      "title": "Senior Treasury Analyst, EMEA Regional Treasury Center (RTC)",
-      "url": "https://www.amazon.jobs/en/jobs/10579981/senior-treasury-analyst-emea-regional-treasury-center-rtc",
-      "location": "Luxembourg, LUX",
-      "country_code": "LUX"
-    },
     "10602919": {
       "title": "Senior Financial Analyst, Amazon Music FP&A",
       "url": "https://www.amazon.jobs/en/jobs/10602919/senior-financial-analyst-amazon-music-fp-a",
@@ -15568,8 +15586,8 @@
       "country_code": "USA"
     },
     "10582845": {
-      "title": "Senior Finance Analyst (Saudi National Only), Data Centre Finance - EMEA",
-      "url": "https://www.amazon.jobs/en/jobs/10582845/senior-finance-analyst-saudi-national-only-data-centre-finance-emea",
+      "title": "Senior Finance Analyst, Data Centre Finance - EMEA",
+      "url": "https://www.amazon.jobs/en/jobs/10582845/senior-finance-analyst-data-centre-finance-emea",
       "location": "Riyadh, SAU",
       "country_code": "SAU"
     },
@@ -16173,12 +16191,6 @@
       "location": "Pune, Maharashtra, IND",
       "country_code": "IND"
     },
-    "10558257": {
-      "title": "Senior Financial Analyst, Amazon Ads EU Sales Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10558257/senior-financial-analyst-amazon-ads-eu-sales-finance",
-      "location": "London, England, GBR",
-      "country_code": "GBR"
-    },
     "10553540": {
       "title": "Financial Analyst Intern 2027",
       "url": "https://www.amazon.jobs/en/jobs/10553540/financial-analyst-intern-2027",
@@ -16292,12 +16304,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10556383/supply-strategy-analyst-ats-carrier-services-specialty-programs",
       "location": "Atlanta, Georgia, USA",
       "country_code": "USA"
-    },
-    "10558304": {
-      "title": "Senior Financial Analyst, Amazon Leo",
-      "url": "https://www.amazon.jobs/en/jobs/10558304/senior-financial-analyst-amazon-leo",
-      "location": "London, England, GBR",
-      "country_code": "GBR"
     },
     "10584821": {
       "title": "Senior Tax Analyst, Global WHT",
@@ -16413,12 +16419,6 @@
       "location": "Bengaluru, Karnataka, IND",
       "country_code": "IND"
     },
-    "10561075": {
-      "title": "Business Analyst I, CMT",
-      "url": "https://www.amazon.jobs/en/jobs/10561075/business-analyst-i-cmt",
-      "location": "Bengaluru, Karnataka, IND",
-      "country_code": "IND"
-    },
     "10536083": {
       "title": "Senior Financial Analyst, AWS, AWS Central FP&A Team",
       "url": "https://www.amazon.jobs/en/jobs/10536083/senior-financial-analyst-aws-aws-central-fp-a-team",
@@ -16490,12 +16490,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10575061/transportation-analyst-external-fulfillment-amazon-flash",
       "location": "Osasco, Sao Paulo, BRA",
       "country_code": "BRA"
-    },
-    "10529764": {
-      "title": "Tax Analyst - EU VAT - German speaker, 3P ITX Compliance",
-      "url": "https://www.amazon.jobs/en/jobs/10529764/tax-analyst-eu-vat-german-speaker-3p-itx-compliance",
-      "location": "Bratislava, Bratislavsk\u00fd kraj, SVK",
-      "country_code": "SVK"
     },
     "10595603": {
       "title": "Business Analyst II, Out of Country Sellers Latam",
@@ -16683,12 +16677,6 @@
       "location": "Bengaluru, Karnataka, IND",
       "country_code": "IND"
     },
-    "10526743": {
-      "title": "Senior Escalations Analyst, Platform Experience",
-      "url": "https://www.amazon.jobs/en/jobs/10526743/senior-escalations-analyst-platform-experience",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10515127": {
       "title": "Business Analyst, Amazon Logistics, AMZL OTR Planning",
       "url": "https://www.amazon.jobs/en/jobs/10515127/business-analyst-amazon-logistics-amzl-otr-planning",
@@ -16814,12 +16802,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10512631/finance-manager-inbound-operations-north-american-customer-fulfillment",
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
-    },
-    "10533708": {
-      "title": "Business Intelligence Analyst, CFX - Brazil",
-      "url": "https://www.amazon.jobs/en/jobs/10533708/business-intelligence-analyst-cfx-brazil",
-      "location": "Sao Paulo, Sao Paulo, BRA",
-      "country_code": "BRA"
     },
     "10517210": {
       "title": "Business Analyst, Relay Trust",
@@ -17067,12 +17049,6 @@
       "location": "Irving, Texas, USA",
       "country_code": "USA"
     },
-    "10551961": {
-      "title": "Business Analyst II, Vendor Performance, OTS-GSP-TOPS",
-      "url": "https://www.amazon.jobs/en/jobs/10551961/business-analyst-ii-vendor-performance-ots-gsp-tops",
-      "location": "New York, New York, USA",
-      "country_code": "USA"
-    },
     "10505529": {
       "title": "Senior Financial Analyst, AWS Containers and Serverless Finance",
       "url": "https://www.amazon.jobs/en/jobs/10505529/senior-financial-analyst-aws-containers-and-serverless-finance",
@@ -17130,12 +17106,6 @@
     "10483930": {
       "title": "Realtime Analyst, NCC, Network Control Center",
       "url": "https://www.amazon.jobs/en/jobs/10483930/realtime-analyst-ncc-network-control-center",
-      "location": "Tokyo, JPN",
-      "country_code": "JPN"
-    },
-    "10483931": {
-      "title": "Realtime Analyst, NCC, Network Control Center",
-      "url": "https://www.amazon.jobs/en/jobs/10483931/realtime-analyst-ncc-network-control-center",
       "location": "Tokyo, JPN",
       "country_code": "JPN"
     },
@@ -17337,12 +17307,6 @@
       "location": "Herndon, Virginia, USA",
       "country_code": "USA"
     },
-    "10478834": {
-      "title": "Senior Financial Analyst, Global Logistics, Global Logistic Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10478834/senior-financial-analyst-global-logistics-global-logistic-finance",
-      "location": "Shanghai, CHN",
-      "country_code": "CHN"
-    },
     "10471802": {
       "title": "Planning Data Analyst, Supply Chain & Linehaul Transportation",
       "url": "https://www.amazon.jobs/en/jobs/10471802/planning-data-analyst-supply-chain-linehaul-transportation",
@@ -17523,12 +17487,6 @@
       "location": "Bengaluru, Karnataka, IND",
       "country_code": "IND"
     },
-    "10413269": {
-      "title": "Financial Analyst II, GREF FP&A ",
-      "url": "https://www.amazon.jobs/en/jobs/10413269/financial-analyst-ii-gref-fp-a",
-      "location": "Bengaluru, Karnataka, IND",
-      "country_code": "IND"
-    },
     "10412045": {
       "title": "Senior Financial Analyst, Corporate Development Finance",
       "url": "https://www.amazon.jobs/en/jobs/10412045/senior-financial-analyst-corporate-development-finance",
@@ -17558,12 +17516,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10390177/senior-financial-analyst-amazon-customer-service-finance",
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
-    },
-    "10391437": {
-      "title": "Senior Indirect Tax Analyst, Taxonomy",
-      "url": "https://www.amazon.jobs/en/jobs/10391437/senior-indirect-tax-analyst-taxonomy",
-      "location": "Barcelona, Catalonia, ESP",
-      "country_code": "ESP"
     },
     "10386520": {
       "title": "Accounts Receivable Analyst, FinOps AR",
@@ -17657,6 +17609,12 @@
     }
   },
   "Waters Corporation": {
+    "30386": {
+      "title": "Sr Bio Account Manager",
+      "url": "https://internationalcareers-waters.icims.com/jobs/30386/sr-bio-account-manager/job",
+      "location": "IN-MH-Mumbai",
+      "country_code": "India"
+    },
     "30352": {
       "title": "Internship Scientist",
       "url": "https://internationalcareers-waters.icims.com/jobs/30352/internship-scientist/job",
@@ -17783,6 +17741,12 @@
       "location": "CN-Shandong \u5c71\u4e1c\u7701",
       "country_code": "China"
     },
+    "29831": {
+      "title": "Sr Application Chemist",
+      "url": "https://internationalcareers-waters.icims.com/jobs/29831/sr-application-chemist/job",
+      "location": "CN-Guangdong \u5e7f\u4e1c\u7701",
+      "country_code": "China"
+    },
     "29826": {
       "title": "Field Service Engineer I",
       "url": "https://internationalcareers-waters.icims.com/jobs/29826/field-service-engineer-i/job",
@@ -17860,12 +17824,6 @@
       "url": "https://internationalcareers-waters.icims.com/jobs/29758/customer-operation-specialist/job",
       "location": "CN-31-Shanghai",
       "country_code": "China"
-    },
-    "29699": {
-      "title": "Senior Clinical Mechanical Design Engineer",
-      "url": "https://internationalcareers-waters.icims.com/jobs/29699/senior-clinical-mechanical-design-engineer/job",
-      "location": "UK-Cheshire-Wilmslow",
-      "country_code": "United Kingdom"
     },
     "29693": {
       "title": "Chemistry Account Manager I",
@@ -18191,12 +18149,6 @@
       "location": "IN-KA-Bangalore",
       "country_code": "India"
     },
-    "28254": {
-      "title": "Account Manager",
-      "url": "https://internationalcareers-waters.icims.com/jobs/28254/account-manager/job",
-      "location": "KR-Seoul-Seocho-gu",
-      "country_code": "Korea, South"
-    },
     "28228": {
       "title": "Senior Manufacturing Engineer",
       "url": "https://internationalcareers-waters.icims.com/jobs/28228/senior-manufacturing-engineer/job",
@@ -18454,12 +18406,6 @@
       "url": "https://internationalcareers-waters.icims.com/jobs/27369/clinical-system-reliability-engineer/job",
       "location": "UK-Cheshire-Wilmslow",
       "country_code": "United Kingdom"
-    },
-    "27347": {
-      "title": "Sr. System Account Manager",
-      "url": "https://internationalcareers-waters.icims.com/jobs/27347/sr.-system-account-manager/job",
-      "location": "IN-GJ-Ahmedabad",
-      "country_code": "India"
     },
     "27339": {
       "title": "Project Manager",
@@ -42610,13 +42556,13 @@
       "title": "Client Success Associate (Associate Account Manager)",
       "url": "https://jobs.jobvite.com/webmd/job/omxbxfwl"
     },
-    "https://jobs.jobvite.com/webmd/job/okLUAfwj": {
-      "title": "Client Success Manager",
-      "url": "https://jobs.jobvite.com/webmd/job/okLUAfwj"
-    },
     "https://jobs.jobvite.com/webmd/job/os5rAfwi": {
       "title": "Client Success Manager",
       "url": "https://jobs.jobvite.com/webmd/job/os5rAfwi"
+    },
+    "https://jobs.jobvite.com/webmd/job/okLUAfwj": {
+      "title": "Client Success Manager",
+      "url": "https://jobs.jobvite.com/webmd/job/okLUAfwj"
     },
     "https://jobs.jobvite.com/webmd/job/ot60AfwT": {
       "title": "Client Success Manager",
@@ -42750,6 +42696,24 @@
   "UBS": {},
   "CBRE": {},
   "Carnival Corporation": {
+    "13432": {
+      "title": "Ship Manager",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13432",
+      "location": "SOUTHAMPTON, HAMPSHIRE, United Kingdom",
+      "country_code": "GB"
+    },
+    "14428": {
+      "title": "Specialist, Public Affairs",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14428",
+      "location": "Miami, FL, United States",
+      "country_code": "US"
+    },
+    "14505": {
+      "title": "Associate I, Crew Health",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14505",
+      "location": "Miami, FL, United States",
+      "country_code": "US"
+    },
     "14000": {
       "title": "Contact Centre Sales Advisor",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14000",
@@ -42805,7 +42769,7 @@
       "country_code": "US"
     },
     "14437": {
-      "title": "Senior Analyst, Financial Planning & Analysis",
+      "title": "Senior Financial Planning & Analysis Analyst",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14437",
       "location": "SOUTHAMPTON, HAMPSHIRE, United Kingdom",
       "country_code": "GB"
@@ -43122,12 +43086,6 @@
       "location": "SOUTHAMPTON, HAMPSHIRE, United Kingdom",
       "country_code": "GB"
     },
-    "14458": {
-      "title": "Supply Chain Expeditor",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14458",
-      "location": "SOUTHAMPTON, HAMPSHIRE, United Kingdom",
-      "country_code": "GB"
-    },
     "13605": {
       "title": "Housekeeping Attendant - (Half Moon Cay - Bahamas)",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13605",
@@ -43368,54 +43326,6 @@
       "location": "Miami, FL, United States",
       "country_code": "US"
     },
-    "14314": {
-      "title": "Intern, Naval Architecture Intern",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14314",
-      "location": "Seattle, WA, United States",
-      "country_code": "US"
-    },
-    "14315": {
-      "title": "Intern, Hotel Refurbishment and ADA",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14315",
-      "location": "Seattle, WA, United States",
-      "country_code": "US"
-    },
-    "14319": {
-      "title": "Intern, Marine and Port Operation Waste & Sustainability Analytics",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14319",
-      "location": "Seattle, WA, United States",
-      "country_code": "US"
-    },
-    "14318": {
-      "title": "Intern, Maritime Business Data Analytics (HAL)",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14318",
-      "location": "Seattle, WA, United States",
-      "country_code": "US"
-    },
-    "14323": {
-      "title": "Intern, Food & Beverage Product Development",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14323",
-      "location": "Seattle, WA, United States",
-      "country_code": "US"
-    },
-    "14326": {
-      "title": "Intern, Fleet Human Resources",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14326",
-      "location": "Seattle, WA, United States",
-      "country_code": "US"
-    },
-    "14342": {
-      "title": "Housekeeping Operations and Analytics Intern",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14342",
-      "location": "Seattle, WA, United States",
-      "country_code": "US"
-    },
-    "14376": {
-      "title": "Intern, Commercial Marketing",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14376",
-      "location": "Miami, FL, United States",
-      "country_code": "US"
-    },
     "14406": {
       "title": "Manager, Technical Inventory Controls",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14406",
@@ -43426,12 +43336,6 @@
       "title": "Manager, Port Waste Logistics and Finance",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14455",
       "location": "Miami, FL, United States",
-      "country_code": "US"
-    },
-    "14467": {
-      "title": "Intern, Ecommerce Engineering",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14467",
-      "location": "Fort Lauderdale, FL, United States",
       "country_code": "US"
     },
     "14280": {
@@ -43703,12 +43607,6 @@
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14240",
       "location": "Fort Lauderdale, FL, United States",
       "country_code": "US"
-    },
-    "14245": {
-      "title": "IT Project Manager \u2013 Applications Delivery",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14245",
-      "location": "SAO PAULO, SP, Brazil",
-      "country_code": "BR"
     },
     "14206": {
       "title": "Business Analyst, Project Delivery & Process Improvement (Philippines)",
@@ -52940,6 +52838,54 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Oklahoma-City-Help-Desk-Technician-Assistant-%28Onsite%2C-Oklahoma-City%2C-OK%29-OK-73107-2411/1445131000/": {
+      "title": "Help Desk Technician Assistant (Onsite, Oklahoma City, OK)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Oklahoma-City-Help-Desk-Technician-Assistant-%28Onsite%2C-Oklahoma-City%2C-OK%29-OK-73107-2411/1445131000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-BPM-Trainer-eLearning-PA-99999/1425563600/": {
+      "title": "Lead Business Analyst - BPM Trainer / eLearning",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-BPM-Trainer-eLearning-PA-99999/1425563600/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Application-Architect-%28_NET-&-AWS%29-TX-99999/1435390800/": {
+      "title": "Lead Application Architect (.NET & AWS)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Application-Architect-%28_NET-&-AWS%29-TX-99999/1435390800/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Gold-River-ServiceNow-Developer-Gold-River%2C-California-CA-95670/1445160500/": {
+      "title": "ServiceNow Developer - Gold River, California",
+      "url": "https://jobs.gainwelltechnologies.com/job/Gold-River-ServiceNow-Developer-Gold-River%2C-California-CA-95670/1445160500/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Saint-Thomas-Provider-Enrollment-Specialist-Saint-Thomas%2C-U_S_-Virgin-Islands-%28Onsite%29-VI-00802-5003/1425365200/": {
+      "title": "Provider Enrollment Specialist - Saint Thomas, U.S. Virgin Islands (Onsite)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Saint-Thomas-Provider-Enrollment-Specialist-Saint-Thomas%2C-U_S_-Virgin-Islands-%28Onsite%29-VI-00802-5003/1425365200/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-C-_Net-Developer-FL-99999/1445130300/": {
+      "title": "Early Career C# .Net Developer",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-C-_Net-Developer-FL-99999/1445130300/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Gold-River-Senior-Project-Manager-%28Gold-River%2C-CA%29-CA-95670/1445171800/": {
+      "title": "Senior Project Manager (Gold River, CA)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Gold-River-Senior-Project-Manager-%28Gold-River%2C-CA%29-CA-95670/1445171800/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Jackson-Call-Center-Representative-Jackson%2C-MS-%28Onsite%29-MS-39211/1435592000/": {
+      "title": "Call Center Representative - Jackson, MS (Onsite)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Jackson-Call-Center-Representative-Jackson%2C-MS-%28Onsite%29-MS-39211/1435592000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Director%2C-Rx-Client-Delivery-Leader-SC-99999/1415297500/": {
+      "title": "Director, Rx Client Delivery Leader",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Director%2C-Rx-Client-Delivery-Leader-SC-99999/1415297500/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-PMSO-Greater-Sacramento%2C-CA-CA-99999/1454156500/": {
+      "title": "Business Analyst - PMSO - Greater Sacramento, CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-PMSO-Greater-Sacramento%2C-CA-CA-99999/1454156500/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Field-Representative-New-Orleans-%28Louisiana-Site-Visits%29-LA-70809-0204/1454146000/": {
+      "title": "Provider Enrollment Field Representative - New Orleans (Louisiana Site Visits)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Field-Representative-New-Orleans-%28Louisiana-Site-Visits%29-LA-70809-0204/1454146000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Quality-Verification-Specialist-TX-99999/1444797100/": {
+      "title": "Senior Quality Verification Specialist",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Quality-Verification-Specialist-TX-99999/1444797100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-FileNet-with-Java-Developer-KA-560100/1416561000/": {
       "title": "FileNet with Java Developer",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-FileNet-with-Java-Developer-KA-560100/1416561000/"
@@ -52952,14 +52898,6 @@
       "title": "Advisor Full Stack Engineer (.NET, React, AWS)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Full-Stack-Engineer-%28_NET%2C-React%2C-AWS%29-TX-99999/1434782900/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Quality-Verification-Specialist-TX-99999/1444797100/": {
-      "title": "Senior Quality Verification Specialist",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Quality-Verification-Specialist-TX-99999/1444797100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Bangalore-Advisor-Application-Architect-KA-560100/1424762300/": {
-      "title": "Advisor Application Architect",
-      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Advisor-Application-Architect-KA-560100/1424762300/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Full-Stack-Engineer-%28_NET%2C-React%2C-Cloud%29-TX-99999/1434764400/": {
       "title": "Senior Full Stack Engineer (.NET, React, Cloud)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Full-Stack-Engineer-%28_NET%2C-React%2C-Cloud%29-TX-99999/1434764400/"
@@ -52968,45 +52906,17 @@
       "title": "Account Program Manager",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Account-Program-Manager-NY-99999/1407826400/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Warwick-Training-and-Documentation-Specialist-Hybrid-Warwick-RI-RI-02886-1782/1443990600/": {
-      "title": "Training and Documentation Specialist Hybrid Warwick RI",
-      "url": "https://jobs.gainwelltechnologies.com/job/Warwick-Training-and-Documentation-Specialist-Hybrid-Warwick-RI-RI-02886-1782/1443990600/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Research-Supervisor-Hybrid-West-Sacramento%2C-CA-CA-95605-1630/1444371600/": {
-      "title": "Research Supervisor- Hybrid- West Sacramento, CA",
-      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Research-Supervisor-Hybrid-West-Sacramento%2C-CA-CA-95605-1630/1444371600/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Indianapolis-Claims-Manager-Indianapolis%2C-IN-Hybrid-IN-46204-1077/1444320700/": {
-      "title": "Claims Manager - Indianapolis, IN - Hybrid",
-      "url": "https://jobs.gainwelltechnologies.com/job/Indianapolis-Claims-Manager-Indianapolis%2C-IN-Hybrid-IN-46204-1077/1444320700/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-DRG-Nurse-Reviewer-Appeals-and-Hearings-Remote-FL-99999/1355056100/": {
-      "title": "DRG Nurse Reviewer Appeals and Hearings- Remote",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-DRG-Nurse-Reviewer-Appeals-and-Hearings-Remote-FL-99999/1355056100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager-Customer-Support%2C-Program-Integrity-Solutions-TX-99999/1444260100/": {
-      "title": "Senior Manager - Customer Support, Program Integrity Solutions",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager-Customer-Support%2C-Program-Integrity-Solutions-TX-99999/1444260100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Bangalore-Application-Developer-%28AWS-Connect%2C-Terraform%29-KA-560100/1424762200/": {
-      "title": "Application Developer (AWS Connect, Terraform)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Application-Developer-%28AWS-Connect%2C-Terraform%29-KA-560100/1424762200/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Database-Administrator-TX-99999/1444268100/": {
       "title": "Experienced Database Administrator",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Database-Administrator-TX-99999/1444268100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Hyderabad-Gen-AI-Engineer-%28CProC-with-GitHub-Copilot%29-TG-500032/1434215200/": {
-      "title": "Gen AI Engineer (C/Pro*C with GitHub Copilot)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Hyderabad-Gen-AI-Engineer-%28CProC-with-GitHub-Copilot%29-TG-500032/1434215200/"
     },
     "https://jobs.gainwelltechnologies.com/job/Madison-Disability-Associate-Team-Lead-Madison%2C-WI-WI-53703-3445/1444208000/": {
       "title": "Disability Associate Team Lead - Madison, WI",
       "url": "https://jobs.gainwelltechnologies.com/job/Madison-Disability-Associate-Team-Lead-Madison%2C-WI-WI-53703-3445/1444208000/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Warwick-Claims-Resolution-Representative%2C-Onsite-Warwick%2C-RI-RI-02886-1782/1433373000/": {
-      "title": "Claims Resolution Representative, Onsite Warwick, RI",
-      "url": "https://jobs.gainwelltechnologies.com/job/Warwick-Claims-Resolution-Representative%2C-Onsite-Warwick%2C-RI-RI-02886-1782/1433373000/"
+    "https://jobs.gainwelltechnologies.com/job/Hyderabad-Gen-AI-Engineer-%28CProC-with-GitHub-Copilot%29-TG-500032/1434215200/": {
+      "title": "Gen AI Engineer (C/Pro*C with GitHub Copilot)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Hyderabad-Gen-AI-Engineer-%28CProC-with-GitHub-Copilot%29-TG-500032/1434215200/"
     }
   },
   "Happen Bank": {
@@ -59079,9 +58989,25 @@
     }
   },
   "Capital One": {
-    "https://www.capitalonecareers.com/job/bengaluru/manager-associate-services/1732/103780588656": {
-      "title": "10378058865611/26/2026Manager, Associate ServicesBengaluru, Karnataka",
-      "url": "https://www.capitalonecareers.com/job/bengaluru/manager-associate-services/1732/103780588656"
+    "https://www.capitalonecareers.com/job/mclean/manager-product-manager-retail-bank-data/1732/101998138080": {
+      "title": "10199813808010/15/2026Manager, Product Manager, Retail Bank DataMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/manager-product-manager-retail-bank-data/1732/101998138080"
+    },
+    "https://www.capitalonecareers.com/job/metro-manila/sr-manager-learning-and-development/1732/103860634224": {
+      "title": "10386063422411/27/2026Sr. Manager, Learning & DevelopmentCity of Muntinlupa, Southern Manila District, Metro Manila",
+      "url": "https://www.capitalonecareers.com/job/metro-manila/sr-manager-learning-and-development/1732/103860634224"
+    },
+    "https://www.capitalonecareers.com/job/metro-manila/sr-manager-recruiting/1732/103850181968": {
+      "title": "10385018196811/27/2026Sr. Manager, RecruitingCity of Muntinlupa, Southern Manila District, Metro Manila",
+      "url": "https://www.capitalonecareers.com/job/metro-manila/sr-manager-recruiting/1732/103850181968"
+    },
+    "https://www.capitalonecareers.com/job/metro-manila/sr-manager-hr-business-partner/1732/103850181952": {
+      "title": "10385018195211/27/2026Sr. Manager, HR Business PartnerCity of Muntinlupa, Southern Manila District, Metro Manila",
+      "url": "https://www.capitalonecareers.com/job/metro-manila/sr-manager-hr-business-partner/1732/103850181952"
+    },
+    "https://www.capitalonecareers.com/job/new-york/senior-associate-product-manager-small-business-bank-associate-servicing/1732/102305888528": {
+      "title": "10230588852810/22/2026Senior Associate, Product Manager-Small Business Bank Associate ServicingNew York, NY",
+      "url": "https://www.capitalonecareers.com/job/new-york/senior-associate-product-manager-small-business-bank-associate-servicing/1732/102305888528"
     },
     "https://www.capitalonecareers.com/job/new-york/manager-product-manager-bank-modernization/1732/102482506320": {
       "title": "10248250632010/26/2026Manager, Product Manager, Bank ModernizationNew York, NY",
@@ -59102,18 +59028,6 @@
     "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-retail-and-small-business-bank-orgs/1732/100639142944": {
       "title": "10063914294411/24/2026Sr. Business Analyst - Retail and Small Business Bank OrgsMcLean, VA",
       "url": "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-retail-and-small-business-bank-orgs/1732/100639142944"
-    },
-    "https://www.capitalonecareers.com/job/plano/senior-sales-development-representative-sdr-plano-tx/1732/96977271136": {
-      "title": "9697727113611/10/2026Senior Sales Development Representative (SDR) - Plano, TXPlano, TX",
-      "url": "https://www.capitalonecareers.com/job/plano/senior-sales-development-representative-sdr-plano-tx/1732/96977271136"
-    },
-    "https://www.capitalonecareers.com/job/mclean/full-stack-engineer-5-ic/1732/103780588768": {
-      "title": "10378058876811/25/2026Full-stack Engineer 5 (IC)McLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/full-stack-engineer-5-ic/1732/103780588768"
-    },
-    "https://www.capitalonecareers.com/job/mclean/senior-manager-product-management-real-time-builds/1732/103780588720": {
-      "title": "10378058872011/25/2026Senior Manager, Product Management- Real Time BuildsMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/senior-manager-product-management-real-time-builds/1732/103780588720"
     }
   },
   "BMO": {
@@ -64348,45 +64262,37 @@
     }
   },
   "AbbVibe": {
-    "https://careers.abbvie.com/en/job/medical-advisor-allergan-aesthetics-in-markham-on-jid-35607": {
-      "title": "Medical Advisor - Allergan Aesthetics",
-      "url": "https://careers.abbvie.com/en/job/medical-advisor-allergan-aesthetics-in-markham-on-jid-35607"
+    "https://careers.abbvie.com/en/job/quality-technician-iii-in-heredia-heredia-province-jid-36394": {
+      "title": "Quality Technician III",
+      "url": "https://careers.abbvie.com/en/job/quality-technician-iii-in-heredia-heredia-province-jid-36394"
     },
-    "https://careers.abbvie.com/en/job/account-specialist-east-anglia-immunology-in-cambridge-england-jid-36380": {
-      "title": "Account Specialist - East Anglia (Immunology)",
-      "url": "https://careers.abbvie.com/en/job/account-specialist-east-anglia-immunology-in-cambridge-england-jid-36380"
+    "https://careers.abbvie.com/en/job/clinical-research-associate-ii-in-vancouver-bc-jid-35412": {
+      "title": "Clinical Research Associate II",
+      "url": "https://careers.abbvie.com/en/job/clinical-research-associate-ii-in-vancouver-bc-jid-35412"
     },
-    "https://careers.abbvie.com/en/job/senior-scientist-ii-novel-therapeutics-in-oxford-england-jid-36379": {
-      "title": "Senior Scientist II - Novel Therapeutics",
-      "url": "https://careers.abbvie.com/en/job/senior-scientist-ii-novel-therapeutics-in-oxford-england-jid-36379"
+    "https://careers.abbvie.com/en/job/in-field-team-excellence-capabilities-manager-18-month-contract-in-montreal-qc-jid-35498": {
+      "title": "In-Field Team Excellence Capabilities Manager, 18 month contract",
+      "url": "https://careers.abbvie.com/en/job/in-field-team-excellence-capabilities-manager-18-month-contract-in-montreal-qc-jid-35498"
     },
-    "https://careers.abbvie.com/en/job/regulatory-affairs-manager-in-madrid-md-jid-36378": {
-      "title": "Regulatory Affairs Manager",
-      "url": "https://careers.abbvie.com/en/job/regulatory-affairs-manager-in-madrid-md-jid-36378"
+    "https://careers.abbvie.com/en/job/senior-scientist-i-ii-in-north-chicago-il-jid-36392": {
+      "title": "Senior Scientist I/II",
+      "url": "https://careers.abbvie.com/en/job/senior-scientist-i-ii-in-north-chicago-il-jid-36392"
     },
-    "https://careers.abbvie.com/en/job/fp-and-a-analyst-in-marlow-england-jid-36377": {
-      "title": "FP&A Analyst",
-      "url": "https://careers.abbvie.com/en/job/fp-and-a-analyst-in-marlow-england-jid-36377"
+    "https://careers.abbvie.com/en/job/business-unit-associate-director-hematology-multiple-myeloma-in-sao-paulo-sp-jid-36391": {
+      "title": "Business Unit Associate Director - Hematology | Multiple Myeloma",
+      "url": "https://careers.abbvie.com/en/job/business-unit-associate-director-hematology-multiple-myeloma-in-sao-paulo-sp-jid-36391"
     },
-    "https://careers.abbvie.com/en/job/validation-engineer-in-sligo-so-jid-36376": {
-      "title": "Validation Engineer",
-      "url": "https://careers.abbvie.com/en/job/validation-engineer-in-sligo-so-jid-36376"
+    "https://careers.abbvie.com/en/job/medical-operations-research-specialist-in-maidenhead-england-jid-36389": {
+      "title": "Medical Operations Research Specialist",
+      "url": "https://careers.abbvie.com/en/job/medical-operations-research-specialist-in-maidenhead-england-jid-36389"
     },
-    "https://careers.abbvie.com/en/job/validation-engineer-in-cork-co-jid-36375": {
-      "title": "Validation Engineer",
-      "url": "https://careers.abbvie.com/en/job/validation-engineer-in-cork-co-jid-36375"
+    "https://careers.abbvie.com/en/job/value-and-access-lead-primary-care-in-maidenhead-england-jid-36387": {
+      "title": "Value and Access Lead - Primary Care",
+      "url": "https://careers.abbvie.com/en/job/value-and-access-lead-primary-care-in-maidenhead-england-jid-36387"
     },
-    "https://careers.abbvie.com/en/job/maintenance-technician-electrician-weekend-shift-in-westport-mo-jid-36373": {
-      "title": "Maintenance Technician (Electrician) - Weekend Shift",
-      "url": "https://careers.abbvie.com/en/job/maintenance-technician-electrician-weekend-shift-in-westport-mo-jid-36373"
-    },
-    "https://careers.abbvie.com/en/job/brand-manager-dermatology-in-sao-paulo-sp-jid-36372": {
-      "title": "Brand Manager Dermatology",
-      "url": "https://careers.abbvie.com/en/job/brand-manager-dermatology-in-sao-paulo-sp-jid-36372"
-    },
-    "https://careers.abbvie.com/en/job/distribution-manager-cis-in-almaty-almaty-region-jid-36371": {
-      "title": "Distribution Manager CIS",
-      "url": "https://careers.abbvie.com/en/job/distribution-manager-cis-in-almaty-almaty-region-jid-36371"
+    "https://careers.abbvie.com/en/job/packaging-shift-supervisor-night-shift-in-westport-mo-jid-36386": {
+      "title": "Packaging Shift Supervisor - Night Shift",
+      "url": "https://careers.abbvie.com/en/job/packaging-shift-supervisor-night-shift-in-westport-mo-jid-36386"
     }
   },
   "HPE": {
@@ -122925,10 +122831,6 @@
     "16430": {
       "title": "Job Posting TitleSenior Staff Engineer (C#)",
       "url": "https://careers-stonex.icims.com/jobs/16430/senior-staff-engineer-%28c%23%29/job"
-    },
-    "16421": {
-      "title": "Job Posting TitleIntern - Tax",
-      "url": "https://careers-stonex.icims.com/jobs/16421/intern---tax/job"
     },
     "15576": {
       "title": "Job Posting TitleBalance Sheet Strategist",
